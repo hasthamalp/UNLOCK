@@ -23,7 +23,7 @@ sudo nautilus
 ```
 
 {% hint style="info" %}
-`computer`-&gt;`etc`-&gt;`fstab`-&gt;`10.69.51.20:`//share \(tab\)/`home`/`(computername)`/`share` \(tab\) `nfs` \(tab\) `auto` \(tab\) `0` \(tab\) `0`-&gt;`save`.
+`computer`-&gt;`etc`-&gt;`fstab`-&gt;`10.69.51.20:`//share \(tab\)/`home`/`(computername)`/`share` \(tab\) `nfs` \(tab\) defaults \(tab\) `0` \(tab\) `0`-&gt;`save`.
 {% endhint %}
 
 ```text
