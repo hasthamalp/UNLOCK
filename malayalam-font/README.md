@@ -1,6 +1,6 @@
 # Malayalam Font
 
-Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in development, localization, standardization and popularization of various Free and Open Source Softwares in Malayalam language.
+Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in development, localization, standardization and popularization of various **Free and Open Source Softwares** in Malayalam language.
 
 {% embed url="https://smc.org.in/fonts/" %}
 
