@@ -7,7 +7,7 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 ## 1.ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox ഇൻസ്റ്റാൾ ചെയ്യാം
 
 {% hint style="info" %}
- 👮 Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox 53 ...  Avoid firefox below 52
+ 👮 Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox  version 60+\( new updation\) ...  
 {% endhint %}
 
 ![](../.gitbook/assets/application_application_firefox_browser_mozzila_970.png)
