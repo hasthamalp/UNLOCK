@@ -22,7 +22,6 @@
 * [Ubuntu System Issues](ubuntu-system-issues/README.md)
   * [Wi-Fi](ubuntu-system-issues/wi-fi.md)
 * [Malayalam Font](malayalam-font/README.md)
-  * [Malayalam editor\(Varnam Editor\)](malayalam-font/malayalam-editor.md)
   * [Font Installation](malayalam-font/font-installation.md)
 * [Printer](printer/README.md)
   * [Printer Issues](printer/printer-issues.md)
