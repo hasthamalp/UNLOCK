@@ -6,7 +6,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 ![](../.gitbook/assets/inscript.jpg)
 
-വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം
+**വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | **ചില്ലക്ഷരം** | **shortkeys** |
 | :--- | :--- |
@@ -15,8 +15,6 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 | **ൻ** | **shift+v** |
 | **ൺ** | **shift+x** |
 | **ൽ** | **shift+.\(dot\)** |
-
-\*\*\*\*[**How to select Malayalam font language in Ubuntu system**](https://smc.org.in/articles/input-methods#enabling-malayalam-fonts-in-ubuntu)\*\*\*\*
 
 \*\*\*\*
 
