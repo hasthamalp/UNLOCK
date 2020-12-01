@@ -8,7 +8,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
-| **ചില്ലക്ഷരം** | **shortkeys** |
+| **ചില്ലക്ഷരം** | **short key** |
 | :--- | :--- |
 | **ൾ** | **shift+8** |
 | **ർ** | **\]** |
