@@ -26,6 +26,8 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 >
 
+> [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-3797a4)](https://smc.org.in/)
+
 
 
 
