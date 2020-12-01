@@ -23,7 +23,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
  അതിനായി ഈ [ലേഖനം](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
 
-കടപ്പാട്:[https://smc.org.in/articles/](https://smc.org.in/articles/)
+_കടപ്പാട്_: [https://smc.org.in/articles/](https://smc.org.in/articles/)
 {% endhint %}
 
 
