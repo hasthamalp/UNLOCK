@@ -36,5 +36,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+## DELL
+
+![](.gitbook/assets/dell_logo_icon_167699.png)
+
+[Dell Warranty Complaint](https://www.dell.com/support/incidents-online/en-in/srsearch)
+
 \*\*\*\*
 
