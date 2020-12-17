@@ -10,9 +10,17 @@
 
 ## CANON
 
-![](.gitbook/assets/canon_folder_file_10400.png)
+
+
+![](https://in.canon/assets/brand/logo-300-002e45a4aec98fd92899838da9d5560f.png)
 
 [Canon Warranty Complaint](https://edge.canon.co.in/corporate/contact/index.aspx#service-request)
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
+## KYCERA
+
+
+
+![](https://kyoceradocumentsolutionsindia.com/warranty/images/site-logo.png)
 
