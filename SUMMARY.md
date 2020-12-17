@@ -19,7 +19,7 @@
   * [Share](e-district/share.md)
 * [e-Office](e-office/README.md)
   * [e-office guide](e-office/e-office-guide.md)
-* [Ubuntu System Issues](ubuntu-system-issues/README.md)
+* [Issues and Solutions](ubuntu-system-issues/README.md)
   * [Wi-Fi](ubuntu-system-issues/wi-fi.md)
 * [Malayalam Font](malayalam-font/README.md)
   * [Font Installation](malayalam-font/font-installation.md)
@@ -29,5 +29,6 @@
   * [Zoom](video-conference/zoom.md)
   * [Google meet](video-conference/google-meet.md)
 * [Complaint Booking Service](complaint-booking-service.md)
+* [Downloads](downloads.md)
 * [About](personal.md)
 

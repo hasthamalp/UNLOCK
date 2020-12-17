@@ -1,4 +1,4 @@
-# Ubuntu System Issues
+# Issues and Solutions
 
 ![](../.gitbook/assets/27659-bug-guy-1-.gif)
 
@@ -45,4 +45,26 @@ Minimal bash like Line editing is supported/GRUB Issue
 ![](../.gitbook/assets/pic.jpg)
 
 > solution:
+
+{% hint style="danger" %}
+Your Connection is not secure 
+{% endhint %}
+
+> problem
+
+![](../.gitbook/assets/bb87bd14-b11a-4f38-bcc1-d053a9d6609f.jpg)
+
+> solution
+
+click **`Advanced`** option
+
+![](../.gitbook/assets/0dee2d45-d936-417b-abc2-401c842eb369.jpg)
+
+click **`Add Exception`** option
+
+![](../.gitbook/assets/74ee58a8-e872-4a6f-92f6-de7993c444f7.jpg)
+
+![](../.gitbook/assets/exception.jpg)
+
+✅ success
 
