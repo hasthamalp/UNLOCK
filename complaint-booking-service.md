@@ -12,3 +12,7 @@
 
 ![](.gitbook/assets/canon_folder_file_10400.png)
 
+[Canon Warranty Complaint](https://edge.canon.co.in/corporate/contact/index.aspx#service-request)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
