@@ -18,9 +18,13 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## KYCERA
+## KYOCERA
 
 
 
 ![](https://kyoceradocumentsolutionsindia.com/warranty/images/site-logo.png)
+
+[Kyocera Printer Warranty Complaint](https://kyoceradocumentsolutionsindia.com/warranty/registration.php)
+
+------------------------------------------------------------------------------------------------------------------------------------
 
