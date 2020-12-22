@@ -31,4 +31,5 @@
 * [Complaint Booking Service](complaint-booking-service.md)
 * [Downloads](downloads.md)
 * [About](personal.md)
+* [Contact](contact.md)
 
