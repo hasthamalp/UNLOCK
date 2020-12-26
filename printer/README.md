@@ -16,6 +16,10 @@ go to  `computer--->etc--->cups----->printers.conf`
 
 > stop cups and then remove the printers from the file
 
+```text
+sudo service cups-browsed stop
+```
+
 ## ADDING A NETWORK PRINTER \(UBUNTU\)
 
 > 1. `System Settings --> Printers`
