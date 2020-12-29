@@ -10,11 +10,19 @@ lpstat -a
 
 **How do I remove hundreds of automatically added network printers**
 
-go to  `computer--->etc--->cups----->printers.conf`
+```text
+sudo nautilus
+```
+
+> Go to `etc`--&gt;`cups-->cups-browsed.conf`
 
 
 
 > stop cups and then remove the printers from the file
+
+```text
+sudo service cups-browsed stop
+```
 
 ## ADDING A NETWORK PRINTER \(UBUNTU\)
 
