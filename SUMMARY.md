@@ -29,6 +29,7 @@
   * [Zoom](video-conference/zoom.md)
   * [Google meet](video-conference/google-meet.md)
 * [Complaint Booking Service](complaint-booking-service.md)
+* [Network Debugging Tools](network-debugging-tools.md)
 * [Downloads](downloads.md)
 * [About](personal.md)
 * [Contact Us](contact.md)
