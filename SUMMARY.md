@@ -16,6 +16,7 @@
   * [Ubuntu Package Installation](e-district/ubuntu-package-installation.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java Installation](e-district/java-installation.md)
+  * [Adobe Reader](e-district/adobe-reader.md)
   * [Share](e-district/share.md)
 * [e-Office](e-office/README.md)
   * [e-office guide](e-office/e-office-guide.md)
