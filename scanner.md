@@ -46,6 +46,26 @@ echo "deb https://download.mono-project.com/repo/ubuntu stable-bionic main" | su
 sudo apt update
 ```
 {% endtab %}
+
+{% tab title="Ubunt 16.04" %}
+```text
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+
+```
+
+```text
+sudo apt install apt-transport-https ca-certificates
+```
+
+```text
+echo "deb https://download.mono-project.com/repo/ubuntu stable-xenial main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+
+```
+
+```text
+sudo apt update
+```
+{% endtab %}
 {% endtabs %}
 
 > Identify which scanner is used
