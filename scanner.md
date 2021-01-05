@@ -86,11 +86,17 @@ mono --version
 
 
 
-> Identify which scanner is used
+> ## Identify which scanner is used
 
 ```text
 scanimage -L
 ```
 
 
+
+## TO detect all USB's
+
+```text
+lsusb
+```
 
