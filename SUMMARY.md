@@ -26,6 +26,7 @@
   * [Font Installation](malayalam-font/font-installation.md)
 * [Printer](printer/README.md)
   * [Printer Issues](printer/printer-issues.md)
+* [Scanner](scanner.md)
 * [Video Conference](video-conference/README.md)
   * [Zoom](video-conference/zoom.md)
   * [Google meet](video-conference/google-meet.md)
