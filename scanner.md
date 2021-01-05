@@ -68,6 +68,24 @@ sudo apt update
 {% endtab %}
 {% endtabs %}
 
+Once the apt repository is enabled , update the packages list and install Mono with:
+
+```text
+sudo apt update
+```
+
+```text
+sudo apt install mono-complete
+```
+
+Verify the installation by typing the following command which will print the Mono version:
+
+```text
+mono --version
+```
+
+
+
 > Identify which scanner is used
 
 ```text
