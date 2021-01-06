@@ -2,9 +2,9 @@
 
 **This site is  Free and Open Source.If any parts are missing or if there is something to add,**[![](https://img.shields.io/badge/-Please%20go%20ahead%20and%20contribute%20on%20GitHub-cc0e74)](https://github.com/hasthamalp/LOCKALP/issues)
 
-                              OR
+                                                **OR**
 
-by filling out this [Google form](https://forms.gle/yko9GK6XJmcbZDbW6)
+**By filling out this** [Google form](https://forms.gle/yko9GK6XJmcbZDbW6)
 
 
 
