@@ -43,6 +43,12 @@ sudo dpkg -i <file_name.deb>
  sudo sh install.sh               
 ```
 
+**Folder contain `setup`file**
+
+```text
+sudo ./setup
+```
+
 ### **ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**
 
 ```text
