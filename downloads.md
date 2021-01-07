@@ -2,9 +2,9 @@
 
 
 
-{% file src=".gitbook/assets/dsc.pdf" caption="DSC\_Application form" %}
+{% file src=".gitbook/assets/documents-required-for-gov.docx" caption="DSC Documents" %}
 
-{% file src=".gitbook/assets/letter-of-identity-proof-by-organization.doc" caption="letter\_of\_identity" %}
+{% file src=".gitbook/assets/new-auth-letter.pdf" caption="Auth Letter DSC" %}
 
 {% file src=".gitbook/assets/workdone\_sheet.pdf" caption="WorkdoneSheet" %}
 
