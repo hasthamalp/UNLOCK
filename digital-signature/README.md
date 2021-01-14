@@ -41,7 +41,7 @@ sudo watchsafe_TRUSTKEY
 
 
 
-## PROXY WATCHDATA
+## PROXKey WATCHDATA
 
 ![](../.gitbook/assets/spg_usermanual.png)
 {% endtab %}
