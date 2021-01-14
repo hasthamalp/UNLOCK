@@ -38,6 +38,12 @@ sudo apt-get purge wdtokentool-proxkey
 ```text
 sudo watchsafe_TRUSTKEY
 ```
+
+
+
+## PROXKey WATCHDATA
+
+![](../.gitbook/assets/spg_usermanual.png)
 {% endtab %}
 
 {% tab title="emudra" %}
