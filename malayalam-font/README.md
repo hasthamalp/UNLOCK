@@ -23,7 +23,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 | \`\`[**ങ്ക**](https://learn.smc.org.in/conjunct/%E0%B4%99%E0%B5%8D%E0%B4%95)\*\*\*\* | **SHIFT+U+D+K** |
 | \`\`[**ഞ്ച**](https://learn.smc.org.in/conjunct/%E0%B4%9E%E0%B5%8D%E0%B4%9A)\*\*\*\* | **SHIFT+ }+D+:** |
 | \*\*\*\*[**ണ്ട**](https://learn.smc.org.in/conjunct/%E0%B4%A3%E0%B5%8D%E0%B4%9F)\*\*\*\* | **SHIFT+C+D+"** |
-| \*\*\*\*[**മ്പ**](https://learn.smc.org.in/conjunct/%E0%B4%AE%E0%B5%8D%E0%B4%AA)\*\*\*\* | **SHIFT+C+D+H** |
+| \*\*\*\*[**മ്പ**](https://learn.smc.org.in/conjunct/%E0%B4%AE%E0%B5%8D%E0%B4%AA)\*\*\*\* | **C+D+H** |
 | \*\*\*\*[**ഞ്ഞ**](https://learn.smc.org.in/conjunct/%E0%B4%9E%E0%B5%8D%E0%B4%9E)\*\*\*\* | **SHIFT+ }+D+SHIFT+ }** |
 | \*\*\*\*[**ണ്ണ**](https://learn.smc.org.in/conjunct/%E0%B4%A3%E0%B5%8D%E0%B4%A3)\*\*\*\* | **SHIFT+C+SHIFT+C** |
 | \*\*\*\*[**ന്ന**](https://learn.smc.org.in/conjunct/%E0%B4%A8%E0%B5%8D%E0%B4%A8)\*\*\*\* | **V+D+V** |
