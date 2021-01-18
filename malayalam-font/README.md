@@ -10,7 +10,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 | ചില്ലക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
 | :--- | :--- |
-| **ൻ** | **V+D+}** |
+| \*\*\*\*[**ൻ**](https://learn.smc.org.in/letter/%E0%B5%BB)\*\*\*\* | **V+D+}** |
 | **ൺ** | **C+D+}** |
 | **ൾ** | **shift+N+D+}** |
 | **ൽ** | **N+D+}** |
