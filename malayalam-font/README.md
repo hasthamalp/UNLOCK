@@ -6,6 +6,16 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 ![](../.gitbook/assets/inscript.jpg)
 
+## ചില്ലക്ഷരങ്ങൾ
+
+| ചില്ലക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
+| :--- | :--- |
+| **ൻ** | **V+D+}** |
+| **ൺ** | **C+D+}** |
+| **ൾ** | **shift+N+D+}** |
+| **ൽ** | **N+D+}** |
+| **ർ** | **J+D+}** |
+
 **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | **ചില്ലക്ഷരം** | **short key** |
