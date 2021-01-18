@@ -29,6 +29,20 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 | ന്ന | V+D+V |
 | മ്മ | C+D+C |
 | ച്ച | :+D+: |
+| ക്ക | K+D+K |
+| റ്റ | SHIFT+J+D+SHIFT+J |
+| യ്യ | ?+D+? |
+| ല്ല | N+D+N |
+| ള്ള | SHIFT+N+SHIFT+N |
+| പ്പ | H+D+H |
+| ന്ത | V+D+L |
+| ന്ദ | V+D+O |
+| ന്ധ | V+D+SHIFT+O |
+| ങ്ങ | SHIFT+U+D+SHIFT+U |
+| ഞ്ജ | SHIFT+ } +D+P |
+| ന്റ്റെ | V+D+SHIFT +J+Z |
+| ട്ട | "+D+" |
+| ത്ത | L+D+L |
 
 **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
