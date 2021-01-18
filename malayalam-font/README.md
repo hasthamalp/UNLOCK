@@ -20,39 +20,39 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 | കൂട്ടക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
 | :--- | :--- |
-| ങ്ക | shift+U+D+K |
-| ഞ്ച | SHIFT+}+D+: |
-| ണ്ട | SHIFT+C+D+" |
-| മ്പ | SHIFT+C+D+H |
-| ഞ്ഞ | SHIFT+}+D+SHIFT+} |
-| ണ്ണ | SHIFT+C+SHIFT+C |
-| ന്ന | V+D+V |
-| മ്മ | C+D+C |
-| ച്ച | :+D+: |
-| ക്ക | K+D+K |
-| റ്റ | SHIFT+J+D+SHIFT+J |
-| യ്യ | ?+D+? |
-| ല്ല | N+D+N |
-| ള്ള | SHIFT+N+SHIFT+N |
-| പ്പ | H+D+H |
-| ന്ത | V+D+L |
-| ന്ദ | V+D+O |
-| ന്ധ | V+D+SHIFT+O |
-| ങ്ങ | SHIFT+U+D+SHIFT+U |
-| ഞ്ജ | SHIFT+ } +D+P |
-| ന്റ്റെ | V+D+SHIFT +J+Z |
-| ട്ട | "+D+" |
-| ത്ത | L+D+L |
+| \`\`[**ങ്ക**](https://learn.smc.org.in/conjunct/%E0%B4%99%E0%B5%8D%E0%B4%95)\*\*\*\* | **SHIFT+U+D+K** |
+| \`\`[**ഞ്ച**](https://learn.smc.org.in/conjunct/%E0%B4%9E%E0%B5%8D%E0%B4%9A)\*\*\*\* | **SHIFT+ }+D+:** |
+| \*\*\*\*[**ണ്ട**](https://learn.smc.org.in/conjunct/%E0%B4%A3%E0%B5%8D%E0%B4%9F)\*\*\*\* | **SHIFT+C+D+"** |
+| \*\*\*\*[**മ്പ**](https://learn.smc.org.in/conjunct/%E0%B4%AE%E0%B5%8D%E0%B4%AA)\*\*\*\* | **SHIFT+C+D+H** |
+| \*\*\*\*[**ഞ്ഞ**](https://learn.smc.org.in/conjunct/%E0%B4%9E%E0%B5%8D%E0%B4%9E)\*\*\*\* | **SHIFT+ }+D+SHIFT+ }** |
+| \*\*\*\*[**ണ്ണ**](https://learn.smc.org.in/conjunct/%E0%B4%A3%E0%B5%8D%E0%B4%A3)\*\*\*\* | **SHIFT+C+SHIFT+C** |
+| \*\*\*\*[**ന്ന**](https://learn.smc.org.in/conjunct/%E0%B4%A8%E0%B5%8D%E0%B4%A8)\*\*\*\* | **V+D+V** |
+| **മ്മ** | **C+D+C** |
+| \*\*\*\*[**ച്ച**](https://learn.smc.org.in/conjunct/%E0%B4%9A%E0%B5%8D%E0%B4%9A)\*\*\*\* | :+D+: |
+| \*\*\*\*[**ക്ക**](https://learn.smc.org.in/conjunct/%E0%B4%95%E0%B5%8D%E0%B4%95)\*\*\*\* | **K+D+K** |
+| **റ്റ** | **SHIFT+J+D+SHIFT+J** |
+| **യ്യ** | **?+D+?** |
+| **ല്ല** | **N+D+N** |
+| \*\*\*\*[**ള്ള**](https://learn.smc.org.in/conjunct/%E0%B4%B3%E0%B5%8D%E0%B4%B3)\*\*\*\* | **SHIFT+N+SHIFT+N** |
+| \*\*\*\*[**പ്പ**](https://learn.smc.org.in/conjunct/%E0%B4%AA%E0%B5%8D%E0%B4%AA)\*\*\*\* | **H+D+H** |
+| \*\*\*\*[**ന്ത**](https://learn.smc.org.in/conjunct/%E0%B4%A8%E0%B5%8D%E0%B4%A4)\*\*\*\* | **V+D+L** |
+| \*\*\*\*[**ന്ദ**](https://learn.smc.org.in/conjunct/%E0%B4%A8%E0%B5%8D%E0%B4%A6)\*\*\*\* | **V+D+O** |
+| \*\*\*\*[**ന്ധ**](https://learn.smc.org.in/conjunct/%E0%B4%A8%E0%B5%8D%E0%B4%A7)\*\*\*\* | **V+D+SHIFT+O** |
+| \*\*\*\*[**ങ്ങ**](https://learn.smc.org.in/conjunct/%E0%B4%99%E0%B5%8D%E0%B4%99)\*\*\*\* | **SHIFT+U+D+SHIFT+U** |
+| \*\*\*\*[**ഞ്ജ**](https://learn.smc.org.in/conjunct/%E0%B4%9C%E0%B5%8D%E0%B4%9E)\*\*\*\* | **SHIFT+ } +D+P** |
+| **ന്റ്റെ** | **V+D+SHIFT +J+Z** |
+| \*\*\*\*[**ട്ട**](https://learn.smc.org.in/conjunct/%E0%B4%9F%E0%B5%8D%E0%B4%9F)\*\*\*\* | **"+D+"** |
+| **ത്ത** | **L+D+L** |
 
 **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | **ചില്ലക്ഷരം** | **short key** |
 | :--- | :--- |
-| **ൾ** | **shift+8** |
+| **ൾ** | **SHIFT+8** |
 | **ർ** | **\]** |
-| **ൻ** | **shift+v** |
-| **ൺ** | **shift+x** |
-| **ൽ** | **shift+.\(dot\)** |
+| **ൻ** | **SHIFT+v** |
+| **ൺ** | **SHIFT+x** |
+| **ൽ** | **SHIFT+ .\(dot\)** |
 
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 
