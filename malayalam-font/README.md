@@ -10,49 +10,23 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 | ചില്ലക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
 | :--- | :--- |
-| **ൻ** | **V+D+}** |
-| **ൺ** | **C+D+}** |
-| **ൾ** | **shift+N+D+}** |
-| **ൽ** | **N+D+}** |
-| **ർ** | **J+D+}** |
+| \*\*\*\*[**ൻ**](https://learn.smc.org.in/letter/%E0%B5%BB)\*\*\*\* | **V+D+ }** |
+| \*\*\*\*[**ൺ**](https://learn.smc.org.in/letter/%E0%B5%BA)\*\*\*\* | **C+D+ }** |
+| \*\*\*\*[**ൾ**](https://learn.smc.org.in/letter/%E0%B5%BE)\*\*\*\* | **shift+N+D+ }** |
+| \*\*\*\*[**ൽ**](https://learn.smc.org.in/letter/%E0%B5%BD)\*\*\*\* | **N+D+ }** |
+| \*\*\*\*[**ർ**](https://learn.smc.org.in/letter/%E0%B5%BC)\*\*\*\* | **J+D+ }** |
 
-## കൂട്ടക്ഷരങ്ങൾ
 
-| കൂട്ടക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
-| :--- | :--- |
-| ങ്ക | shift+U+D+K |
-| ഞ്ച | SHIFT+}+D+: |
-| ണ്ട | SHIFT+C+D+" |
-| മ്പ | SHIFT+C+D+H |
-| ഞ്ഞ | SHIFT+}+D+SHIFT+} |
-| ണ്ണ | SHIFT+C+SHIFT+C |
-| ന്ന | V+D+V |
-| മ്മ | C+D+C |
-| ച്ച | :+D+: |
-| ക്ക | K+D+K |
-| റ്റ | SHIFT+J+D+SHIFT+J |
-| യ്യ | ?+D+? |
-| ല്ല | N+D+N |
-| ള്ള | SHIFT+N+SHIFT+N |
-| പ്പ | H+D+H |
-| ന്ത | V+D+L |
-| ന്ദ | V+D+O |
-| ന്ധ | V+D+SHIFT+O |
-| ങ്ങ | SHIFT+U+D+SHIFT+U |
-| ഞ്ജ | SHIFT+ } +D+P |
-| ന്റ്റെ | V+D+SHIFT +J+Z |
-| ട്ട | "+D+" |
-| ത്ത | L+D+L |
 
 **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | **ചില്ലക്ഷരം** | **short key** |
 | :--- | :--- |
-| **ൾ** | **shift+8** |
+| **ൾ** | **SHIFT+8** |
 | **ർ** | **\]** |
-| **ൻ** | **shift+v** |
-| **ൺ** | **shift+x** |
-| **ൽ** | **shift+.\(dot\)** |
+| **ൻ** | **SHIFT+v** |
+| **ൺ** | **SHIFT+x** |
+| **ൽ** | **SHIFT+ .\(dot\)** |
 
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 
