@@ -114,3 +114,7 @@ sudo nautilus
 
 ![](../.gitbook/assets/boot.jpg)
 
+## BIOS KEY
+
+![](../.gitbook/assets/bios.jpg)
+
