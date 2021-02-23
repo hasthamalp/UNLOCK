@@ -110,3 +110,7 @@ sudo nautilus
 | !! | repeats the last command |
 | exit | log out of current session |
 
+## BOOT KEY
+
+![](../.gitbook/assets/boot.jpg)
+
