@@ -73,7 +73,21 @@ apt show <package_name>
 sudo nautilus
 ```
 
-> ## Important _apt_ Commands
+ **Guest Removal Ubuntu 16.04**
+
+```text
+ sudo mkdir /etc/lightdm/lightdm.conf.d
+```
+
+
+
+```text
+ sudo sh -c 'printf "[SeatDefaults]\nallow-guest=false\n" > /etc/lightdm/lightdm.conf.d/50-no-guest.conf'
+```
+
+`restart system` 📶 
+
+## Important apt Commands
 
 | _apt_ Command | Function of the command |
 | :--- | :--- |
