@@ -4,11 +4,12 @@
 
 ## HASTHAM GATEWAY
 
+* [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
+
 ---
 
 * [e-District](e-district/README.md)
   * [e-District Issues](e-district/e-district-issues.md)
-  * [Ubuntu Package Installation](e-district/ubuntu-package-installation.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java Installation](e-district/java-installation.md)
   * [Adobe Reader](e-district/adobe-reader.md)

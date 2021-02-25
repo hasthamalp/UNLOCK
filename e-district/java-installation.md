@@ -9,7 +9,7 @@ description: 'ജാവ സിമ്പിൾ ആണ്,പവർഫുൾ'
 ![](../.gitbook/assets/java_original_logo_icon_146458.png)
 
 \#2.ജാവ ഫയൽ ഡൗൺലോഡ് ചെയ്തതിന്‌ ശേഷം ,ഡൗൺലോഡ് ചെയ്ത path ടെർമിനലിൽ ഓപ്പൺ ചെയ്യുക.  
-അതിനു ശേഷം [install package](ubuntu-package-installation.md)
+അതിനു ശേഷം [install package](../hastham-gateway/ubuntu-package-installation.md)
 
 ജാവ ഇൻസ്റ്റാൾ ആയെന്നു ഉറപ്പു വരുത്താൻ ടെർമിനലിൽ ഈ കോഡ് ടൈപ്പ് ചെയ്യുക .
 

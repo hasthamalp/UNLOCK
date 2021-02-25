@@ -1,4 +1,4 @@
-# Ubuntu Package Installation
+# Ubuntu Corner
 
 ![](../.gitbook/assets/ubuntu_plain_wordmark_logo_icon_146632.png)
 
@@ -73,7 +73,21 @@ apt show <package_name>
 sudo nautilus
 ```
 
-> ## Important _apt_ Commands
+ **Guest Removal Ubuntu 16.04**
+
+```text
+ sudo mkdir /etc/lightdm/lightdm.conf.d
+```
+
+
+
+```text
+ sudo sh -c 'printf "[SeatDefaults]\nallow-guest=false\n" > /etc/lightdm/lightdm.conf.d/50-no-guest.conf'
+```
+
+`restart system` 📶 
+
+## Important apt Commands
 
 | _apt_ Command | Function of the command |
 | :--- | :--- |
@@ -109,4 +123,12 @@ sudo nautilus
 | Ctrl+R |  type to bring up a recent command |
 | !! | repeats the last command |
 | exit | log out of current session |
+
+## BOOT KEY
+
+![](../.gitbook/assets/boot.jpg)
+
+## BIOS KEY
+
+![](../.gitbook/assets/bios.jpg)
 

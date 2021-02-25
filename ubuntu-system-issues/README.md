@@ -82,3 +82,15 @@ sudo systemctl stop NetworkManager.service
 sudo systemctl start NetworkManager.service
 ```
 
+How do I change the user account password?
+
+```text
+passwd
+```
+
+To change other users password:
+
+```text
+sudo passwd USERNAME
+```
+

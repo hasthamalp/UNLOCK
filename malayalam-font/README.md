@@ -4,17 +4,21 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 {% embed url="https://smc.org.in/fonts/" %}
 
+{% embed url="https://learn.smc.org.in/" %}
+
+
+
 ![](../.gitbook/assets/inscript.jpg)
 
 ## ചില്ലക്ഷരങ്ങൾ
 
 | ചില്ലക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട് |
 | :--- | :--- |
-| \*\*\*\*[**ൻ**](https://learn.smc.org.in/letter/%E0%B5%BB)\*\*\*\* | **V+D+ }** |
-| \*\*\*\*[**ൺ**](https://learn.smc.org.in/letter/%E0%B5%BA)\*\*\*\* | **C+D+ }** |
-| \*\*\*\*[**ൾ**](https://learn.smc.org.in/letter/%E0%B5%BE)\*\*\*\* | **shift+N+D+ }** |
-| \*\*\*\*[**ൽ**](https://learn.smc.org.in/letter/%E0%B5%BD)\*\*\*\* | **N+D+ }** |
-| \*\*\*\*[**ർ**](https://learn.smc.org.in/letter/%E0%B5%BC)\*\*\*\* | **J+D+ }** |
+| **ൻ** | **V+D+ }** |
+| **ൺ** | **C+D+ }** |
+| **ൾ** | **shift+N+D+ }** |
+| **ൽ** | **N+D+ }** |
+| **ർ** | **J+D+ }** |
 
 
 
