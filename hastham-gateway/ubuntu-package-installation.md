@@ -1,4 +1,4 @@
-# Ubuntu Package Installation
+# Ubuntu Corner
 
 ![](../.gitbook/assets/ubuntu_plain_wordmark_logo_icon_146632.png)
 

@@ -24,7 +24,7 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 plugin.load_flash_only 
 ```
 
- \#2.firefox ഡൗൺലോഡ് ചെയ്തതിന്‌ ശേഷം ,ഡൗൺലോഡ് ചെയ്ത path ടെർമിനലിൽ ഓപ്പൺ ചെയുക. sh ഫയൽ ആണെങ്കിൽ താഴെ കാണുന്ന കോഡ് ടൈപ്പ് ചെയ്യുക.deb ഫയൽ ആണെങ്കിൽ Gdebi package ഉപയോഗിച്ചോ , [**sudo dpkg -i file name**](ubuntu-package-installation.md) command ഉപയോഗിക്കം
+ \#2.firefox ഡൗൺലോഡ് ചെയ്തതിന്‌ ശേഷം ,ഡൗൺലോഡ് ചെയ്ത path ടെർമിനലിൽ ഓപ്പൺ ചെയുക. sh ഫയൽ ആണെങ്കിൽ താഴെ കാണുന്ന കോഡ് ടൈപ്പ് ചെയ്യുക.deb ഫയൽ ആണെങ്കിൽ Gdebi package ഉപയോഗിച്ചോ , [**sudo dpkg -i file name**](../hastham-gateway/ubuntu-package-installation.md) command ഉപയോഗിക്കം
 
 ## firefox version അറിയാൻ ടെർമിനലിൽ ഈ കോഡ് ടൈപ്പ് ചെയ്യുക .
 
