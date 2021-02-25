@@ -24,10 +24,24 @@
 ```text
 sudo apt-get purge wdtokentool-proxkey
 ```
+
+```text
+ cd /usr/lib/WatchData/ProxKey
+```
+
+```text
+sudo ./uninstall 
+```
 {% endtab %}
 
-{% tab title="ePass" %}
+{% tab title="TRUSTKEY" %}
+```text
+cd /usr/lib/WatchData/TRUSTKEY
+```
 
+```text
+sudo ./uninstall 
+```
 {% endtab %}
 {% endtabs %}
 
