@@ -43,6 +43,16 @@ cd /usr/lib/WatchData/TRUSTKEY
 sudo ./uninstall 
 ```
 {% endtab %}
+
+{% tab title="eMudhra Watchdata" %}
+```text
+cd /usr/lib/WatchData/eMudhra_3.4.3
+```
+
+```text
+sudo ./uninstall
+```
+{% endtab %}
 {% endtabs %}
 
 ## DSC View Certificate
