@@ -6,6 +6,8 @@
 
 * [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
 
+## e-District <a id="e-district-1"></a>
+
 ---
 
 * [e-District](e-district/README.md)
