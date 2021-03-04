@@ -6,8 +6,6 @@
 
 * [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
 
-## e-District <a id="e-district-1"></a>
-
 ---
 
 * [e-District](e-district/README.md)
@@ -21,11 +19,6 @@
   * [DSC Signer installation Manual](digital-signature/dsc-signer-installation-manual.md)
   * [NICD Sign-Ubuntu-Manual](digital-signature/nicd-sign-ubuntu-manual.md)
   * [NICD Sign-Windows-Manual](digital-signature/nicd-sign-windows-manual.md)
-
-## e-Office <a id="e-office-1"></a>
-
----
-
 * [e-Office](e-office/README.md)
   * [e-office guide](e-office/e-office-guide.md)
 * [Issues and Solutions](ubuntu-system-issues/README.md)
