@@ -31,7 +31,7 @@ paste fonts in that folder
 fonts successfully installed on your system 😎 
 {% endhint %}
 
-**Fonts**
+**Fonts\(installation file\)**
 
 _cdac\_siva font_
 
