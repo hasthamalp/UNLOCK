@@ -31,3 +31,7 @@ paste fonts in that folder
 fonts successfully installed on your system 😎 
 {% endhint %}
 
+**Karthika Font**
+
+{% file src="../.gitbook/assets/mlkr0ntt.ttf" caption="ML-TTKarthika Normal" %}
+
