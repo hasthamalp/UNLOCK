@@ -33,7 +33,7 @@ fonts successfully installed on your system 😎
 
 **Fonts**
 
-**CDAC\_Siva**
+_cdac\_siva font_
 
 {% file src="../.gitbook/assets/cdac\_siva.ttf" caption="CDAC\_Siva" %}
 
