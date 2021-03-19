@@ -39,3 +39,5 @@ _cdac\_siva font_
 
 {% file src="../.gitbook/assets/mlkr0ntt.ttf" caption="ML-TTKarthika Normal" %}
 
+{% file src="../.gitbook/assets/meera-regular.ttf" caption="Meera\_Regular" %}
+
