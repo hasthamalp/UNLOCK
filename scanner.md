@@ -100,3 +100,11 @@ scanimage -L
 lsusb
 ```
 
+## What to do in a situation where a simple scan does not open
+
+Go to `Home`----&gt;`.Cache`\(view hidden files\)------&gt;`Simple-scan`
+
+{% hint style="success" %}
+Delete the simple scan folder
+{% endhint %}
+
