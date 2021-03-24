@@ -105,6 +105,6 @@ lsusb
 Go to `Home`----&gt;`.Cache`\(view hidden files\)------&gt;`Simple-scan`
 
 {% hint style="success" %}
-Delete the simple scan folder
+Delete the `simple scan` folder.This will clear the cache in that software and This will help to open the simple scan properly .
 {% endhint %}
 
