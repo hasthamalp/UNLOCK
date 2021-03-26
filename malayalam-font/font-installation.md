@@ -31,3 +31,13 @@ paste fonts in that folder
 fonts successfully installed on your system 😎 
 {% endhint %}
 
+**Fonts\(installation file\)**
+
+_cdac\_siva font_
+
+{% file src="../.gitbook/assets/cdac\_siva.ttf" caption="CDAC\_Siva" %}
+
+{% file src="../.gitbook/assets/mlkr0ntt.ttf" caption="ML-TTKarthika Normal" %}
+
+{% file src="../.gitbook/assets/meera-regular.ttf" caption="Meera\_Regular" %}
+

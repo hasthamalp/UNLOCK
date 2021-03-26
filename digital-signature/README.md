@@ -15,6 +15,10 @@
 
 {% embed url="http://dscsupport.reyleon.com/certificate-status-update.php" %}
 
+## Download Token Driver
+
+{% embed url="http://www.e-mudhra.com/Repository/index.html" %}
+
 
 
  **Remove Token Drivers**
@@ -41,6 +45,16 @@ cd /usr/lib/WatchData/TRUSTKEY
 
 ```text
 sudo ./uninstall 
+```
+{% endtab %}
+
+{% tab title="eMudhra Watchdata" %}
+```text
+cd /usr/lib/WatchData/eMudhra_3.4.3
+```
+
+```text
+sudo ./uninstall
 ```
 {% endtab %}
 {% endtabs %}
