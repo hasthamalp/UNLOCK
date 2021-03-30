@@ -1,6 +1,34 @@
-# Adobe Reader
+# PDF
 
 ![](../.gitbook/assets/adobe_reader_vertical.png)
+
+## \*\*\*\*
+
+## Installation of Adobe Reader in Ubuntu 20
+
+```text
+wget -O ~/adobe.deb ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+```
+
+```text
+sudo dpkg --add-architecture i386
+```
+
+```text
+sudo apt update
+```
+
+```text
+sudo apt install libxml2:i386 libcanberra-gtk-module:i386 gtk2-engines-murrine:i386 libatk-adaptor:i386
+```
+
+```text
+sudo dpkg -i ~/adobe.deb
+```
+
+{% hint style="success" %}
+Launch Adobe Acrobat Reader on Ubuntu 20.04
+{% endhint %}
 
 ## **How to Set Adobe Reader as default PDF reader**
 

@@ -12,7 +12,7 @@
   * [e-District Issues](e-district/e-district-issues.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java Installation](e-district/java-installation.md)
-  * [Adobe Reader](e-district/adobe-reader.md)
+  * [PDF](e-district/adobe-reader.md)
   * [Share](e-district/share.md)
 * [🔐 Digital signature](digital-signature/README.md)
   * [Digital Signature Validation procedure](digital-signature/digital-signature-validation-procedure.md)
