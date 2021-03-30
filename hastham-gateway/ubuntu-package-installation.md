@@ -7,13 +7,13 @@
 
 **X-**representing the **year**
 
-YY representing the month of eventual release within in that year
+**YY** representing the **month of eventual release within in that year**
 
 \*\*\*\*
 {% endhint %}
 
 {% hint style="info" %}
-Ubuntu's first release, made in 2004 October \(10th month\) was Ubuntu 4.10
+Ubuntu's first release, made in **2004 October \(10th month\)** was **Ubuntu 4.10**
 {% endhint %}
 
 {% hint style="info" %}
