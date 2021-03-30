@@ -47,6 +47,24 @@ Minimal bash like Line editing is supported/GRUB Issue
 > solution:
 
 {% hint style="danger" %}
+**Did not find a connection with UUID '\(null\)'**
+{% endhint %}
+
+soln:
+
+```text
+sudo systemctl stop NetworkManager.service
+```
+
+```text
+sudo systemctl start NetworkManager.service
+```
+
+{% hint style="success" %}
+problem solved
+{% endhint %}
+
+{% hint style="danger" %}
 Your Connection is not secure 
 {% endhint %}
 
