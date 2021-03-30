@@ -3,6 +3,20 @@
 ![](../.gitbook/assets/ubuntu_plain_wordmark_logo_icon_146632.png)
 
 {% hint style="info" %}
+**Ubuntu X.YY**
+
+**X-**representing the **year**
+
+YY representing the month of eventual release within in that year
+
+\*\*\*\*
+{% endhint %}
+
+{% hint style="info" %}
+Ubuntu's first release, made in 2004 October \(10th month\) was Ubuntu 4.10
+{% endhint %}
+
+{% hint style="info" %}
 Software installation
 
 * GNOME-Software
@@ -131,4 +145,10 @@ sudo nautilus
 ## BIOS KEY
 
 ![](../.gitbook/assets/bios.jpg)
+
+\*\*\*\*
+
+|  |
+| :--- |
+|  |
 
