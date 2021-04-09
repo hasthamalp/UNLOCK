@@ -59,7 +59,7 @@ application/pdx=acroread.desktop
 
 > ✅ Finally save the file and restart nautilus \(run command nautilus -q in terminal\) to apply changes.
 
-## Can't validate signature on PDF
+## Can't validate signature on PDF \[SSL Error\]
 
 * [x] In Acrobat or Reader, click `Edit` &gt; `Preferences`.
 * [x] From the `Preferences` dialog box, select `Security` on the left.
