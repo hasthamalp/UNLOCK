@@ -59,6 +59,26 @@ application/pdx=acroread.desktop
 
 > ✅ Finally save the file and restart nautilus \(run command nautilus -q in terminal\) to apply changes.
 
+## Signature Validation
+
+![](../.gitbook/assets/sig1.jpg)
+
+![](../.gitbook/assets/sig2.jpg)
+
+![](../.gitbook/assets/sig3.jpg)
+
+![](../.gitbook/assets/sig4.jpg)
+
+![](../.gitbook/assets/sig5.jpg)
+
+![](../.gitbook/assets/sig6.jpg)
+
+![](../.gitbook/assets/sig7.jpg)
+
+{% hint style="success" %}
+**Signature Validation Completed !**
+{% endhint %}
+
 ## Can't validate signature on PDF \[SSL Error\]
 
 * [x] In Acrobat or Reader, click `Edit` &gt; `Preferences`.
