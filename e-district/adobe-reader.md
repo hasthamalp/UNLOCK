@@ -59,3 +59,14 @@ application/pdx=acroread.desktop
 
 > ✅ Finally save the file and restart nautilus \(run command nautilus -q in terminal\) to apply changes.
 
+## Can't validate signature on PDF
+
+* [x] In Acrobat or Reader, click `Edit` &gt; `Preferences`.
+* [x] From the `Preferences` dialog box, select `Security` on the left.
+* [x] Click `Advanced Preferences`, and then click the `Verification tab`.
+* [x] Select Verify Signature using `'The Current time'`
+
+{% hint style="success" %}
+Restart the pdf and validate the signature
+{% endhint %}
+
