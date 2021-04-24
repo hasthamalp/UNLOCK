@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/21150-illustration-cybersecurity-as-a-service-2.gif)
 
- ഇ-ഡിസ്ട്രിക്ട്,ഇ-ഓഫീസ് പ്രവർത്തനങ്ങളുമായി ബന്ധപെട്ടു  H.S.E മാരെ സഹായിക്കാൻ ആവിഷ്കരിച്ച ഓൺലൈൻ സംവിധാനം ആണ് **ഹസ്തം** . ഇ ഓൺലൈൻ പ്ലാറ്റഫോമിലുടെ കൂടുതൽ എളുപ്പത്തിൽ  പ്രശ്നങ്ങൾ പരിഹരിക്കാൻ സാധിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു .
+  **HASTHAM** is an Open Source Project designed to assist H.S.E's in dealing with e-district and e-office activities. It is hoped that the e-platform will solve the problems more easily.
 
-
+If you have questions, please use [Project Discussions Page](https://github.com/hasthamalp/LOCKALP/discussions)
 
