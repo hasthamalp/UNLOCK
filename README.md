@@ -1,6 +1,6 @@
 # Home
 
-&lt;marquee&gt;hello&lt;/marquee&gt;
+
 
 ![](.gitbook/assets/21150-illustration-cybersecurity-as-a-service-2.gif)
 
