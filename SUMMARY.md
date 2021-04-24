@@ -4,6 +4,8 @@
 
 ## HASTHAM GATEWAY
 
+* [About](hastham-gateway/personal.md)
+* [Contact Us](hastham-gateway/contact.md)
 * [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
 
 ---
@@ -34,6 +36,4 @@
 * [Complaint Booking Service](complaint-booking-service.md)
 * [Network Debugging Tools](network-debugging-tools.md)
 * [Downloads](downloads.md)
-* [About](personal.md)
-* [Contact Us](contact.md)
 

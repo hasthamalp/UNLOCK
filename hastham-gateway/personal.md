@@ -6,7 +6,7 @@
 
 > ![Github](https://img.shields.io/badge/Hosted%20on%20GitHub-181717.svg?&style=plastic&logo=github&logoColor=white)
 
-![](.gitbook/assets/30840-work-from-home.gif)
+![](../.gitbook/assets/30840-work-from-home.gif)
 
 
 
