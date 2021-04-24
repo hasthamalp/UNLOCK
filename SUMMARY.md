@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Home](README.md)
+* [HOME](README.md)
 
 ## HASTHAM GATEWAY
 
-* [About](hastham-gateway/personal.md)
+* [ABOUT](hastham-gateway/personal.md)
 * [Contact Us](hastham-gateway/contact.md)
 * [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
 
