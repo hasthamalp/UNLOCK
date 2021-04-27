@@ -1,4 +1,4 @@
-# Printer
+# 6. Printer
 
 ![](../.gitbook/assets/35069-printererror.gif)
 
