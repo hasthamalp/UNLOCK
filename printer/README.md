@@ -71,3 +71,5 @@ The installation procedure will check for missing ask if older versions of the H
 💂♀ Always restart the computer, re-plugging in the printer doesn't always work. By restarting the computer and after logging in switching on the printer, the user forces Ubuntu to search for any printers connected.
 {% endhint %}
 
+> ✅ HPLIP Driver installed Successfully
+
