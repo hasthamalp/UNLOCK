@@ -45,8 +45,8 @@ sudo service cups-browsed stop
 
 
 * Open a terminal
-* Browse to the Downloads folder: `cd /Downloads`
-* Then type the following command: `sudo chmod +x hplip-*.**.**.run`\(\*.\*\*.\*\* is where the version number of the file needs to be filed in\) ****
+* Browse to the Downloads folder: **`cd /Downloads`**
+* Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**\(\*.\*\*.\*\* is where the version number of the file needs to be filed in\) ****
 * Press Enter and if required, type the user password and press Enter
 
 The HPLIP driver is now executable. Keep the terminal open.
@@ -58,7 +58,7 @@ The HPLIP driver is now executable. Keep the terminal open.
 To run the installation file it is not required to use `sudo` to get root privileges. In the terminal type the following command: **`./hplip-.*..run`**
 
 {% hint style="info" %}
-🕵♂ Note that the command starts with . \(dot\) / \(slash\) followed by the complete filename and ending on . \(dot\) run!
+🕵♂ Note that the command **starts with . \(dot\) / \(slash\)** followed by the complete filename and **ending on . \(dot\) run!**
 {% endhint %}
 
 before the installation procedure starts the user must choose whether to install the driver **manually** \(press **c** for **custom**\) or **automatically** \(press **a** for **automatic**\). Best is to execute the installation procedure manually \(custom\) so that every step can be controlled and monitored by the user.
