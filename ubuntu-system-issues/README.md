@@ -1,4 +1,4 @@
-# Issues and Solutions
+# 4. Issues and Solutions
 
 ![](../.gitbook/assets/27659-bug-guy-1-.gif)
 

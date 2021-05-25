@@ -1,4 +1,4 @@
-# Network Debugging Tools
+# 10. Network Debugging Tools
 
 ![Resolve.rs](.gitbook/assets/favicon.svg)
 

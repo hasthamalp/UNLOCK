@@ -7,7 +7,7 @@
 ## Installation of Adobe Reader in Ubuntu 20
 
 ```text
-wget -O ~/adobe.deb ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+sudo wget -O ~/adobe.deb ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
 ```
 
 ```text
@@ -58,4 +58,35 @@ application/pdx=acroread.desktop
 ```
 
 > ✅ Finally save the file and restart nautilus \(run command nautilus -q in terminal\) to apply changes.
+
+## Signature Validation
+
+![](../.gitbook/assets/sig1.jpg)
+
+![](../.gitbook/assets/sig2.jpg)
+
+![](../.gitbook/assets/sig3.jpg)
+
+![](../.gitbook/assets/sig4.jpg)
+
+![](../.gitbook/assets/sig5.jpg)
+
+![](../.gitbook/assets/sig6.jpg)
+
+![](../.gitbook/assets/sig7.jpg)
+
+{% hint style="success" %}
+**Signature Validation Completed !**
+{% endhint %}
+
+## Can't validate signature on PDF \[SSL Error\]
+
+* [x] In Acrobat or Reader, click `Edit` &gt; `Preferences`.
+* [x] From the `Preferences` dialog box, select `Security` on the left.
+* [x] Click `Advanced Preferences`, and then click the `Verification tab`.
+* [x] Select Verify Signature using `'The Current time'`
+
+{% hint style="success" %}
+Restart the pdf and validate the signature
+{% endhint %}
 
