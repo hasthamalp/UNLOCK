@@ -1,4 +1,4 @@
-# 7. Scanner
+# 8. Scanner
 
 ![](.gitbook/assets/8898-document-scanner.gif)
 
