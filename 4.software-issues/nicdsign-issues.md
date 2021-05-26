@@ -1,6 +1,6 @@
 # NICDSign Issues
 
-## **How to fix NICDSign installation error**
+## **How to Fix NICDSign Installation Error**
 
 ![](../.gitbook/assets/20210526_191254%20%281%29.jpg)
 
@@ -8,15 +8,15 @@
 
 ![](../.gitbook/assets/12.png)
 
-> Then extract `data.tar.gz`
+> Then Extract `data.tar.gz`
 
 ![](../.gitbook/assets/21.png)
 
-> Then go to `opt` folder
+> Then Go to `opt` folder
 
 ![](../.gitbook/assets/31.png)
 
-> Then go to `nic` folder
+> Then Go to `nic` folder
 
 ![](../.gitbook/assets/41.png)
 
