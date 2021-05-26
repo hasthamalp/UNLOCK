@@ -11,7 +11,6 @@
 ---
 
 * [1.e-District](e-district/README.md)
-  * [e-District Issues](e-district/e-district-issues.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java Installation](e-district/java-installation.md)
   * [PDF](e-district/adobe-reader.md)
@@ -23,7 +22,9 @@
   * [NICD Sign-Windows-Manual](digital-signature/nicd-sign-windows-manual.md)
 * [3. e-Office](e-office/README.md)
   * [e-office guide](e-office/e-office-guide.md)
-* [4.Software Issues](4.software-issues.md)
+* [4.Software Issues](4.software-issues/README.md)
+  * [e-District Issues](4.software-issues/e-district-issues.md)
+  * [NICDSign Issues](4.software-issues/nicdsign-issues.md)
 * [5. Issues and Solutions](ubuntu-system-issues/README.md)
   * [Wi-Fi](ubuntu-system-issues/wi-fi.md)
 * [6. Malayalam Font](malayalam-font/README.md)
