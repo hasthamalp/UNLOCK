@@ -86,6 +86,8 @@ application/pdx=acroread.desktop
 * [x] Click `Advanced Preferences`, and then click the `Verification tab`.
 * [x] Select Verify Signature using `'The Current time'`
 
+![](../.gitbook/assets/img-20210408-wa0010.jpg)
+
 {% hint style="success" %}
 Restart the pdf and validate the signature
 {% endhint %}
