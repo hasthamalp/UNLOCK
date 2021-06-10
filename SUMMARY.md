@@ -35,7 +35,8 @@
 * [9. Video Conference](video-conference/README.md)
   * [Zoom](video-conference/zoom.md)
   * [Google meet](video-conference/google-meet.md)
-* [10. Complaint Booking Service](complaint-booking-service.md)
+* [10. Complaint Booking Service](complaint-booking-service/README.md)
+  * [BSNL Compliant Booking Service](complaint-booking-service/bsnl-compliant-booking-service.md)
 * [11. Network Debugging Tools](network-debugging-tools.md)
 * [12. Downloads](downloads.md)
 
