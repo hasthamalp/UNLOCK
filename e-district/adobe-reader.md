@@ -30,6 +30,16 @@ sudo dpkg -i ~/adobe.deb
 Launch Adobe Acrobat Reader on Ubuntu 20.04
 {% endhint %}
 
+## How to Remove Adobe Reader in Ubuntu
+
+```text
+sudo apt-get purge adobereader-enu
+```
+
+```text
+sudo apt-get autoremove
+```
+
 ## **How to Set Adobe Reader as default PDF reader**
 
 > Run command below in terminal to edit the`config` file:
