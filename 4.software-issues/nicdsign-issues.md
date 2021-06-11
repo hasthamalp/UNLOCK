@@ -1,6 +1,6 @@
 # NICDSign Issues
 
-## How to uninstall previous version of NICDSign
+## How to Uninstall Previous Version of NICDSign
 
 ```text
 sudo dpkg --purge dscsigner
