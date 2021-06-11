@@ -1,5 +1,11 @@
 # NICDSign Issues
 
+## How to uninstall previous version of NICDSign
+
+```text
+sudo dpkg --purge dscsigner
+```
+
 ## **How to Fix NICDSign Installation Error**
 
 ![](../.gitbook/assets/20210526_191254%20%281%29.jpg)
