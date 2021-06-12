@@ -1,5 +1,19 @@
 # NICDSign Issues
 
+## How to Uninstall Previous Version of NICDSign
+
+```text
+sudo dpkg --purge dscsigner
+```
+
+## Browser configuration
+
+**Google Chrome**
+
+```text
+chrome://flags/#allow-insecure-localhost
+```
+
 ## **How to Fix NICDSign Installation Error**
 
 ![](../.gitbook/assets/20210526_191254%20%281%29.jpg)

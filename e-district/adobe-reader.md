@@ -30,6 +30,16 @@ sudo dpkg -i ~/adobe.deb
 Launch Adobe Acrobat Reader on Ubuntu 20.04
 {% endhint %}
 
+## How to Remove Adobe Reader in Ubuntu
+
+```text
+sudo apt-get purge adobereader-enu
+```
+
+```text
+sudo apt-get autoremove
+```
+
 ## **How to Set Adobe Reader as default PDF reader**
 
 > Run command below in terminal to edit the`config` file:
@@ -85,6 +95,8 @@ application/pdx=acroread.desktop
 * [x] From the `Preferences` dialog box, select `Security` on the left.
 * [x] Click `Advanced Preferences`, and then click the `Verification tab`.
 * [x] Select Verify Signature using `'The Current time'`
+
+![](../.gitbook/assets/img-20210408-wa0010.jpg)
 
 {% hint style="success" %}
 Restart the pdf and validate the signature
