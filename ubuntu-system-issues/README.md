@@ -20,9 +20,13 @@ fsck /dev/sda1
 reboot
 ```
 
+{% hint style="danger" %}
+failed to start nvidia persistence daemon
+{% endhint %}
+
 ![](../.gitbook/assets/500089300355_338398.jpg)
 
-![](../.gitbook/assets/vid-20210617-wa0005.mp4)
+solution: first restart your system. then select `ubuntu` from GRUB menu. then press the `E` key. Add `nouveau.modeset=0` to the end of the `linux` line - press `F10` to boot.
 
 {% hint style="danger" %}
 Date and Time setting
