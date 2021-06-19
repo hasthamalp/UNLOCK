@@ -28,6 +28,10 @@ failed to start nvidia persistence daemon
 
 solution: first restart your system. then select `ubuntu` from GRUB menu. then press the `E` key. Add `nouveau.modeset=0` to the end of the `linux` line - press `F10` to boot.
 
+{% hint style="info" %}
+ `nomodeset` is a temporary solution in case a system does not boot without a proprietary driver. This is not to be used permanently.
+{% endhint %}
+
 {% hint style="danger" %}
 Date and Time setting
 {% endhint %}
