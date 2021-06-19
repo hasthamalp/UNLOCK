@@ -20,6 +20,10 @@ fsck /dev/sda1
 reboot
 ```
 
+![](../.gitbook/assets/500089300355_338398.jpg)
+
+![](../.gitbook/assets/vid-20210617-wa0005.mp4)
+
 {% hint style="danger" %}
 Date and Time setting
 {% endhint %}
