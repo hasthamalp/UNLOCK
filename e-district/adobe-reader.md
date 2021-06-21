@@ -99,6 +99,6 @@ application/pdx=acroread.desktop
 ![](../.gitbook/assets/img-20210408-wa0010.jpg)
 
 {% hint style="success" %}
-Restart the pdf and validate the signature
+Restart the Adobe reader and validate the signature
 {% endhint %}
 
