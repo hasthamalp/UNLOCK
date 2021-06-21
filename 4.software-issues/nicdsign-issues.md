@@ -40,7 +40,7 @@ chrome://flags/#allow-insecure-localhost
 
 > Then copy paste `NICDSign.desktop` file to `Desktop`
 
-> After completing this process, run NICDSign.deb file again\(normally sudo dpkg -i NICDsign.deb\)
+> After completing this process, run NICDSign.deb file again _\(sudo dpkg -i NICDsign.deb\)_
 
 > ✅ NICDSign installed Successfully
 
