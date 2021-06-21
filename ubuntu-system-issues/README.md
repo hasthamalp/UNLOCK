@@ -3,7 +3,7 @@
 ![](../.gitbook/assets/27659-bug-guy-1-.gif)
 
 {% hint style="danger" %}
-Initramfs Issue BusyBox 
+**1**.Initramfs Issue BusyBox 
 {% endhint %}
 
 ![](../.gitbook/assets/image.jpg)
@@ -21,7 +21,7 @@ reboot
 ```
 
 {% hint style="danger" %}
-failed to start nvidia persistence daemon
+**2**.failed to start nvidia persistence daemon
 {% endhint %}
 
 ![](../.gitbook/assets/500089300355_338398.jpg)
@@ -33,7 +33,7 @@ solution: first restart your system. then select `ubuntu` from GRUB menu. then p
 {% endhint %}
 
 {% hint style="danger" %}
-Date and Time setting
+**3**.Date and Time setting
 {% endhint %}
 
 > Solution
@@ -51,7 +51,7 @@ sudo date --set="2020-01-02 23:31:5
 ```
 
 {% hint style="danger" %}
-Minimal bash like Line editing is supported/GRUB Issue
+**4.**Minimal bash like Line editing is supported/GRUB Issue
 {% endhint %}
 
 ![](../.gitbook/assets/pic.jpg)
@@ -59,7 +59,7 @@ Minimal bash like Line editing is supported/GRUB Issue
 > solution:
 
 {% hint style="danger" %}
-Your Connection is not secure 
+**5.**Your Connection is not secure 
 {% endhint %}
 
 > problem
@@ -81,7 +81,7 @@ click **`Add Exception`** option
 ✅ success
 
 {% hint style="danger" %}
-Error editing connection:Did not find a connection with UUID '\(null\)'
+**6.**Error editing connection:Did not find a connection with UUID '\(null\)'
 {% endhint %}
 
 solution:
