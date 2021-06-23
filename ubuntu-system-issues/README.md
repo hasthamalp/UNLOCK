@@ -14,7 +14,7 @@
 fsck /dev/sda1
 ```
 
- `/dev/sda1` is the first partition of first drive. **sda**  may change
+ `/dev/sda1` is the first partition of first drive. **sda**  may change\(most probably it shows top of the error\)
 
 ```text
 reboot
