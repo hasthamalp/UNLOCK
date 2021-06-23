@@ -56,21 +56,23 @@ sudo date --set="2020-01-02 23:31:5
 
 ![](../.gitbook/assets/pic.jpg)
 
-> solution:grub&gt;set
+> solution:
+>
+> `grub>set`
 >
 > for Example:
 >
-> root=hd0,msd0s7\(output of`set`\)this may change
+> `root=hd0,msd0s7(output ofset)this may change`
 >
-> grub rescue&gt;set boot=\(hd0,msd0s7\)
+> `grub rescue>set boot=(hd0,msd0s7)`
 >
-> grub rescue&gt;set prefix=\(hd0,msd0s7\)/boot/grub
+> `grub rescue>set prefix=(hd0,msd0s7)/boot/grub`
 >
-> grub rescue&gt;insmod normal
+> `grub rescue>insmod normal`
 >
-> grub rescue&gt;normal
+> `grub rescue>normal`
 >
-> ✅ Success otherwise please change O.S \(better option\) 😇
+> ✅ Success/ otherwise please change O.S \(better option\) 😇
 
 {% hint style="danger" %}
 **5.**Your Connection is not secure 
