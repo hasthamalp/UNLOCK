@@ -14,7 +14,7 @@
 fsck /dev/sda1
 ```
 
- `/dev/sda1` is the first partition of first drive. **sda**  may change
+ `/dev/sda1` is the first partition of first drive. **sda**  may change\(most probably it shows top of the error\)
 
 ```text
 reboot
@@ -57,6 +57,22 @@ sudo date --set="2020-01-02 23:31:5
 ![](../.gitbook/assets/pic.jpg)
 
 > solution:
+>
+> `grub>set`
+>
+> for Example:
+>
+> `root=hd0,msd0s7(output ofset)this may change`
+>
+> `grub rescue>set boot=(hd0,msd0s7)`
+>
+> `grub rescue>set prefix=(hd0,msd0s7)/boot/grub`
+>
+> `grub rescue>insmod normal`
+>
+> `grub rescue>normal`
+>
+> ✅ Success/ otherwise please change O.S \(better option\) 😇
 
 {% hint style="danger" %}
 **5.**Your Connection is not secure 

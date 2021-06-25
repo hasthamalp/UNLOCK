@@ -102,3 +102,10 @@ application/pdx=acroread.desktop
 Restart the Adobe reader and validate the signature
 {% endhint %}
 
+## OPEN SOURCE  DOCUMENT VIEWER
+
+1. Okular
+2. SumatraPDF
+3. Libreoffice
+4. Evince
+
