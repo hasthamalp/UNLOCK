@@ -3,7 +3,7 @@
 ![](../.gitbook/assets/27659-bug-guy-1-.gif)
 
 {% hint style="danger" %}
-**1**.Initramfs Issue BusyBox 
+**1**.Initramfs Issue BusyBox /fsck error
 {% endhint %}
 
 ![](../.gitbook/assets/image.jpg)
@@ -11,10 +11,10 @@
 > solution
 
 ```text
-fsck /dev/sda1
+fsck /dev/sdaX
 ```
 
- `/dev/sda1` is the first partition of first drive. **sda**  may change\(most probably it shows top of the error\)
+ `/dev/sda1` is the first partition of first drive. X- partition
 
 ```text
 reboot
