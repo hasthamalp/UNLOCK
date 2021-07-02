@@ -75,29 +75,7 @@ sudo date --set="2020-01-02 23:31:5
 > ✅ Success/ otherwise please change O.S \(better option\) 😇
 
 {% hint style="danger" %}
-**5.**Your Connection is not secure 
-{% endhint %}
-
-> problem
-
-![](../.gitbook/assets/bb87bd14-b11a-4f38-bcc1-d053a9d6609f.jpg)
-
-> solution
-
-click **`Advanced`** option
-
-![](../.gitbook/assets/0dee2d45-d936-417b-abc2-401c842eb369.jpg)
-
-click **`Add Exception`** option
-
-![](../.gitbook/assets/74ee58a8-e872-4a6f-92f6-de7993c444f7.jpg)
-
-![](../.gitbook/assets/exception.jpg)
-
-✅ success
-
-{% hint style="danger" %}
-**6.**Error editing connection:Did not find a connection with UUID '\(null\)'
+**5.**Error editing connection:Did not find a connection with UUID '\(null\)'
 {% endhint %}
 
 solution:
