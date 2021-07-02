@@ -74,10 +74,6 @@ sudo date --set="2020-01-02 23:31:5
 >
 > ✅ Success/ otherwise please change O.S \(better option\) 😇
 
-{% hint style="danger" %}
-**5.**Your Connection is not secure 
-{% endhint %}
-
 > problem
 
 ![](../.gitbook/assets/bb87bd14-b11a-4f38-bcc1-d053a9d6609f.jpg)
