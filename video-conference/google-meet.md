@@ -8,9 +8,7 @@
 
 > Enter the meeting code in the place given
 
-## 
-
-## Learn about the new Meet layout
+## Learn about the New Meet Layout \(
 
 ![](../.gitbook/assets/simplify-meet-cs-1-copy-2.svg)
 
