@@ -37,7 +37,7 @@ sudo apt install <package_name>
 
 
 
-**ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**
+## **ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**
 
 \*\*\*\*
 
@@ -63,7 +63,7 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
-### **ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**
+## **ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**
 
 ```text
  sudo apt remove <package_name>                         
