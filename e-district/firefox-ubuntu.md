@@ -36,7 +36,7 @@ plugin.load_flash_only
 firefox successfully installed on your system
 {% endhint %}
 
-### **FIREFOX വേർഷൻ DOWNGRADE ചെയ്യുന്ന വിധം**
+## **FIREFOX വേർഷൻ DOWNGRADE ചെയ്യുന്ന വിധം**
 
 * Follow the steps carefully.
 
