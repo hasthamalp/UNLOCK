@@ -22,7 +22,7 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 
 
-**വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
+## **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | **ചില്ലക്ഷരം** | **short key** |
 | :--- | :--- |
