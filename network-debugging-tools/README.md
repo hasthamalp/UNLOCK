@@ -1,7 +1,5 @@
 # 11. Network Debugging Tools
 
-![Resolve.rs](../.gitbook/assets/favicon.svg)
-
 {% embed url="https://resolve.rs/tools.html" %}
 
 
