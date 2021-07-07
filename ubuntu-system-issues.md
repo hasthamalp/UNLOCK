@@ -1,12 +1,12 @@
 # 5. Issues and Solutions
 
-![](../.gitbook/assets/27659-bug-guy-1-.gif)
+![](.gitbook/assets/27659-bug-guy-1-.gif)
 
 {% hint style="danger" %}
 **1**.Initramfs Issue BusyBox /fsck error
 {% endhint %}
 
-![](../.gitbook/assets/image.jpg)
+![](.gitbook/assets/image.jpg)
 
 > solution
 
@@ -24,7 +24,7 @@ reboot
 **2**.failed to start nvidia persistence daemon
 {% endhint %}
 
-![](../.gitbook/assets/500089300355_338398.jpg)
+![](.gitbook/assets/500089300355_338398.jpg)
 
 solution: first restart your system. then select `ubuntu` from GRUB menu. then press the `E` key. Add `nouveau.modeset=0` to the end of the `linux` line - press `F10` to boot.
 
@@ -38,7 +38,7 @@ solution: first restart your system. then select `ubuntu` from GRUB menu. then p
 
 > Solution
 
-![](../.gitbook/assets/image2.jpg)
+![](.gitbook/assets/image2.jpg)
 
 ```text
 sudo date 010224311971.59
@@ -54,7 +54,7 @@ sudo date --set="2020-01-02 23:31:5
 **4.**Minimal bash like Line editing is supported/GRUB Issue
 {% endhint %}
 
-![](../.gitbook/assets/pic.jpg)
+![](.gitbook/assets/pic.jpg)
 
 > solution:
 >

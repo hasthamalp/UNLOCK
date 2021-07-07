@@ -28,8 +28,7 @@
   * [RR Online](4.software-issues/rr-online.md)
   * [CMO](4.software-issues/cmo.md)
   * [NICDSign Issues](4.software-issues/nicdsign-issues.md)
-* [5. Issues and Solutions](ubuntu-system-issues/README.md)
-  * [Wi-Fi](ubuntu-system-issues/wi-fi.md)
+* [5. Issues and Solutions](ubuntu-system-issues.md)
 * [6. Malayalam Font](malayalam-font/README.md)
   * [Font Installation](malayalam-font/font-installation.md)
 * [7. Printer](printer/README.md)
@@ -41,6 +40,7 @@
 * [10. Complaint Booking Service](complaint-booking-service/README.md)
   * [BSNL Compliant Booking Service](complaint-booking-service/bsnl-compliant-booking-service.md)
 * [11. Network Debugging Tools](network-debugging-tools/README.md)
+  * [Wi-Fi](network-debugging-tools/wi-fi.md)
   * [Network Debugging Techniques](network-debugging-tools/network-debugging-techniques.md)
 * [12. Downloads](downloads.md)
 
