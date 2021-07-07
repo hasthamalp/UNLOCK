@@ -40,6 +40,7 @@
   * [Google meet](video-conference/google-meet.md)
 * [10. Complaint Booking Service](complaint-booking-service/README.md)
   * [BSNL Compliant Booking Service](complaint-booking-service/bsnl-compliant-booking-service.md)
-* [11. Network Debugging Tools](network-debugging-tools.md)
+* [11. Network Debugging Tools](network-debugging-tools/README.md)
+  * [Network Debugging Techniques](network-debugging-tools/network-debugging-techniques.md)
 * [12. Downloads](downloads.md)
 

@@ -74,19 +74,7 @@ sudo date --set="2020-01-02 23:31:5
 >
 > ✅ Success/ otherwise perform  fsck command
 
-{% hint style="danger" %}
-**5.**Error editing connection:Did not find a connection with UUID '\(null\)'
-{% endhint %}
 
-solution:
-
-```text
-sudo systemctl stop NetworkManager.service
-```
-
-```text
-sudo systemctl start NetworkManager.service
-```
 
 How do I change the user account password?
 
