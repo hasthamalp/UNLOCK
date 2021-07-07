@@ -1,6 +1,6 @@
 # 5. Issues and Solutions
 
-![](.gitbook/assets/27659-bug-guy-1-.gif)
+![](.gitbook/assets/bug-fixing.gif)
 
 {% hint style="danger" %}
 **1**.Initramfs Issue BusyBox /fsck error
@@ -21,7 +21,7 @@ reboot
 ```
 
 {% hint style="info" %}
-Error that occurred due to improper shutdown or Partial upgrades
+Error that occurred due to improper shutdown or Partial upgrades\(**fsck**-**F**ile**S**ystem **C**hec**k\)**
 {% endhint %}
 
 {% hint style="danger" %}
