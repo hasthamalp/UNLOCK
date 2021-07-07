@@ -20,6 +20,10 @@ fsck /dev/sdaX
 reboot
 ```
 
+{% hint style="info" %}
+Error that occurred due to improper shutdown or Partial upgrades
+{% endhint %}
+
 {% hint style="danger" %}
 **2**.failed to start nvidia persistence daemon
 {% endhint %}
