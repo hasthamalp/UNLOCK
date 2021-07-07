@@ -4,7 +4,7 @@
 **Error editing connection:Did not find a connection with UUID '\(null\)'**
 {% endhint %}
 
-solution:
+**solution**:
 
 ```text
 sudo systemctl stop NetworkManager.service
