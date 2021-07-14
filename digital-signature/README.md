@@ -109,3 +109,25 @@ You will get a prompt. DO NOT DISCONNECT TOKEN till authentication key is genera
 
 You will be redirected to website to Authenticate using OTP on mobile number used while Token Registration. Enter the OTP received on mobile and click on ‘VERIFY OTP
 
+![](../.gitbook/assets/pk5.jpg)
+
+You will be displayed your SERIAL NUMBER, AUTHENTICATION KEY & DEFAULT ADMIN PIN. Copy the AUTHENTICATION KEY
+
+![](../.gitbook/assets/pk6.jpg)
+
+Paste the key in the token middleware and click on Unlock
+
+![](../.gitbook/assets/pk7.jpg)
+
+Enter the default admin pin of the token or use your changed admin pin \(In case you have changed your admin pin\)
+
+![](../.gitbook/assets/pk8.jpg)
+
+RESET OF USER PIN is successful
+
+![](../.gitbook/assets/pk9.jpg)
+
+Enter your new USER PIN and click OK
+
+![](../.gitbook/assets/pk10.jpg)
+
