@@ -81,3 +81,23 @@ sudo pkimanager_admin
 {% endtab %}
 {% endtabs %}
 
+## Reset ProxKey USER PIN
+
+Pre Prerequisites for Reset USER PIN
+
+Token must be registered either by following methods
+
+1. **PIN Mode Registration** – Validate Token User PIN \(Register token at the time of purchase\)
+2. **KYC Mode Registration** – Validate Certificate KYC \(Use this when token USER PIN is not know\)
+3. **Manual Mode Registration** – Validate ID Proof & submit application form
+
+## Steps to Reset Token USER PIN
+
+1. Install the token middle ware / driver\([visit here](http://www.e-mudhra.com/Repository/index.html)\)
+2. Locate “WD ProxKey” Icon on the desktop and double click on it to open the Token Management Utility
+3. Token middle ware interface will open
+
+![](../.gitbook/assets/pk1.jpg)
+
+4.Press `Ctrl + Alt + W` to see the Admin menu & click on ‘Unlock User PIN’. You will require to generate an ‘AUTHENTICATION KEY’ . Click on ‘GENERATE
+
