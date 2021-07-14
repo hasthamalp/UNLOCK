@@ -131,3 +131,5 @@ Enter your new USER PIN and click OK
 
 ![](../.gitbook/assets/pk10.jpg)
 
+![](../.gitbook/assets/pk11.jpg)
+
