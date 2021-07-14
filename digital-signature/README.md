@@ -101,3 +101,11 @@ Token must be registered either by following methods
 
 4.Press `Ctrl + Alt + W` to see the Admin menu & click on ‘Unlock User PIN’. You will require to generate an ‘AUTHENTICATION KEY’ . Click on ‘GENERATE
 
+![](../.gitbook/assets/pk3.jpg)
+
+You will get a prompt. DO NOT DISCONNECT TOKEN till authentication key is generated. Click on OK
+
+![](../.gitbook/assets/pk4.jpg)
+
+You will be redirected to website to Authenticate using OTP on mobile number used while Token Registration. Enter the OTP received on mobile and click on ‘VERIFY OTP
+
