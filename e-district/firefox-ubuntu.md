@@ -68,7 +68,7 @@ sudo synaptic
 
 ![](../.gitbook/assets/image5.jpg)
 
-> 6. In Menu bar, **select Package&gt;Force Version**. Or simply press Ctrl+E. A window will appear
+> 6. In Menu bar, **select Package&gt;Force Version**. Or simply press `Ctrl+E`. A window will appear
 
 ![](../.gitbook/assets/image6.jpg)
 
