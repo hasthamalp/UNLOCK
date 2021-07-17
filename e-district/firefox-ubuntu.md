@@ -10,6 +10,8 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
  👮 Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox  version 60+\( new updation\) ...  
 {% endhint %}
 
+[Firefox for Ubuntu](https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/)
+
 ![](../.gitbook/assets/application_application_firefox_browser_mozzila_970.png)
 
 ## Enable java plugin in firefox 53.0 version
