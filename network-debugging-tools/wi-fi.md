@@ -1,7 +1,7 @@
 # Wi-Fi
 
 {% hint style="warning" %}
- **Wifi Network not appearing in Ubuntu**
+ **Wifi Network not appearing in Ubuntu \[HP\]**
 {% endhint %}
 
 ![](../.gitbook/assets/15178-women-no-internet-wifi-off-data-off%20%281%29.gif)
@@ -22,13 +22,15 @@ This method is exclusively for Broadcom 43 series of wireless adapters. So make 
 sudo lshw -C network
 ```
 
-```text
-sudo apt remove broadcom-sta-dkms bcmwl-kernel-source
-```
+![](../.gitbook/assets/20210705_162317.jpg)
 
 {% hint style="info" %}
 If you see a wireless network adapter starting with BCM43, then only you should go ahead .
 {% endhint %}
+
+```text
+sudo apt remove broadcom-sta-dkms bcmwl-kernel-source
+```
 
 ```text
 sudo apt install firmware-b43-installer
