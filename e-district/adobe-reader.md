@@ -42,32 +42,25 @@ sudo apt-get autoremove
 
 ## **How to Set Adobe Reader as default PDF reader**
 
-> Run command below in terminal to edit the`config` file:
+_Ubuntu 32 bit_
 
 ```text
-sudo gedit /etc/gnome/defaults.list
+sudo gedit /usr/share/applications/AdobeReader.desktop
 ```
 
-> When the file opens, do: Find out and change the line
+{% hint style="info" %}
+**Edit the Exec=acroread line to be Exec=acroread %f and save the file.**
+{% endhint %}
 
-`application/pdf=evince.desktop`
-
-> into:
+_Ubuntu 64 bit_
 
 ```text
-application/pdf=acroread.desktop
+sudo gedit /usr/share/applications/AdobeReader.desktop
 ```
 
-> Add below line into the end:
-
-```text
-application/fdf=acroread.desktop
-application/xdp=acroread.desktop
-application/xfdf=acroread.desktop
-application/pdx=acroread.desktop
-```
-
-> ✅ Finally save the file and restart nautilus \(run command nautilus -q in terminal\) to apply changes.
+{% hint style="info" %}
+**Edit the Exec=acroread line to be Exec=acroread %f and save the file.**
+{% endhint %}
 
 ## Signature Validation
 
