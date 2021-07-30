@@ -81,13 +81,23 @@ sudo apt purge <package_name>
 apt show <package_name>
 ```
 
+## Install   **latest versions of packages and their dependencies**
+
+```text
+sudo apt-get update
+```
+
+```text
+sudo apt-get -f install
+```
+
 ## **The command to use as a super user on Ubuntu system**
 
 ```text
 sudo nautilus
 ```
 
- **Guest Removal Ubuntu 16.04**
+##  **Guest Removal Ubuntu 16.04**
 
 ```text
  sudo mkdir /etc/lightdm/lightdm.conf.d
