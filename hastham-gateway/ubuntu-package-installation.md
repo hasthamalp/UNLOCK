@@ -148,6 +148,20 @@ sudo nautilus
 | !! | repeats the last command |
 | exit | log out of current session |
 
+## How to Know if Your System Uses MBR or GPT Partitioning on  Linux
+
+```text
+sudo parted -l
+```
+
+{% hint style="info" %}
+ In the output, look for the line starting with **Partition Table**:
+
+ For **MBR**, it would show **msdos**.
+
+ For **GPT**, it would show **gpt**.
+{% endhint %}
+
 ## BOOT KEY
 
 ![](../.gitbook/assets/boot.jpg)
