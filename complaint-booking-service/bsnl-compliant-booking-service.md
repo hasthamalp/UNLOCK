@@ -4,7 +4,7 @@
 
 {% embed url="http://210.212.237.90/tt/" %}
 
-   
+   **Currently this portal not available**
 
 Enter **USER NAME & PASSWORD** 
 
