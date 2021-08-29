@@ -166,11 +166,13 @@ sudo parted -l
 
 ![](../.gitbook/assets/boot.jpg)
 
+![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
+
 ## BIOS KEY
 
 ![](../.gitbook/assets/bios.jpg)
 
-\*\*\*\*
+![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
 
 |  |
 | :--- |
