@@ -4,6 +4,12 @@
 
 
 
+## Ethernet Cable Color Coding Diagram
+
+![](https://i.pinimg.com/474x/6d/0a/4c/6d0a4cb85e866ba9c4186a18cab154de.jpg)
+
+
+
 
 
 ### TCP/IP <a id="ip"></a>
