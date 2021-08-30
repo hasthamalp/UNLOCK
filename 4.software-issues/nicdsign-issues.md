@@ -14,6 +14,18 @@ sudo dpkg --purge dscsigner
 chrome://flags/#allow-insecure-localhost
 ```
 
+**Mozilla Firefox**
+
+```text
+about:preferences#privacy
+```
+
+**Certificate section** and click on the **View Certificates** button to open the certificate manager.In the Certificate Manager popup, click on the **Authorities** tab and then click on **Import button.**Browse to DSCSigner/ssl folder and select the **rootCA.crt** file and click on the Open button
+
+![](../.gitbook/assets/crt.jpg)
+
+✅ The configuration is complete and now you can use Mozilla Firefox for digital signing using DSCSigner.
+
 ## **How to Fix NICDSign Installation Error**
 
 ![](../.gitbook/assets/20210526_191254%20%281%29.jpg)
