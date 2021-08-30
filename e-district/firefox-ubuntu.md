@@ -16,6 +16,10 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 
 ## Enable java plugin in firefox 53.0 version
 
+```text
+about:config
+```
+
 > _**`about:config` -&gt; `accept` -&gt; `add new`-&gt; `boolean` -&gt; `plugin.load_flash_only` -&gt; `false`-&gt; `ok`**_
 
 
