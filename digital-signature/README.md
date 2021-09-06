@@ -15,6 +15,12 @@
 
 {% embed url="http://dscsupport.reyleon.com/certificate-status-update.php" %}
 
+## Cash Solution Software
+
+{% embed url="https://www.certificate.digital/download/?app=CashSolution" %}
+
+
+
 ## Download Token Driver
 
 {% embed url="http://www.e-mudhra.com/Repository/index.html" %}
