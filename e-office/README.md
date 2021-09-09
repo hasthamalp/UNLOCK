@@ -2,6 +2,8 @@
 
 ## VPN SETUP 
 
+Use this address to get VPN & eoffice access through public network
+
 ```text
 https://vpn.kerala.gov.in:10443/
 ```
