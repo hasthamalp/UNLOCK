@@ -16,7 +16,11 @@ https://vpn.kerala.gov.in:10443/
 
 {% embed url="https://www.fortinet.com/support/product-downloads" %}
 
+## VPN RESET
 
+```text
+https://vpnreset.kerala.gov.in/
+```
 
 
 
