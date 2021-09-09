@@ -84,11 +84,11 @@ This will enable the Malayalam UI. You'd need to restart your session \(not the 
 
 ![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_6.png)
 
+{% embed url="https://smc.org.in/articles/input-methods" %}
+
+
+
 ✅ When you log back in, you should see Malayalam user interface.
-
-
-
-
 
 > [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-1B98F5)](https://smc.org.in/)
 
