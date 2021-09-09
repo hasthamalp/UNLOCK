@@ -52,16 +52,6 @@ Click `Setting` &gt; `Region and Language` &gt; `Manage installed languages` .
 
 ![](../.gitbook/assets/img11.jpg)
 
-
-
-
-
-
-
-
-
-
-
 You can click `Remind me later` Otherwise you can install the additional recommendations and return to this screen.
 
 ![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_2.png)
@@ -87,8 +77,6 @@ This will enable the Malayalam UI. You'd need to restart your session \(not the 
 ![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_6.png)
 
 {% embed url="https://smc.org.in/articles/input-methods" %}
-
-
 
 ✅ When you log back in, you should see Malayalam user interface.
 
