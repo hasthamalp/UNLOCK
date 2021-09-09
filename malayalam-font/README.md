@@ -50,7 +50,13 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 
 Click `Setting` &gt; `Region and Language` &gt; `Manage installed languages` .
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_1.png)
+
+
+![](https://raw.githubusercontent.com/ksitmalp/files/main/images/img1.png)
+
+
+
+
 
 
 
