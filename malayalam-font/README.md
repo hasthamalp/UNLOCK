@@ -46,6 +46,44 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 💂♀  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**\(®\)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകലുടെ [പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.](https://smc.org.in/fonts/)
 {% endhint %}
 
+## **Enabling Malayalam language UI in Ubuntu**
+
+Click `Setting` &gt; `Region and Language` &gt; `Manage installed languages` .
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_1.png)
+
+
+
+You can click `Remind me later` Otherwise you can install the additional recommendations and return to this screen.
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_2.png)
+
+Now click on `Install/Remove languages` and scroll till you find Malayalam.
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_3.png)
+
+Make sure the `Malayalam` is selected. Now click `Apply`. It will ask your password for permission to install language support.
+
+Once it finishes, make sure **`മലയാളം`** is visible in the list as per below.
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_4.png)
+
+Now click close, and you should be back at Region and Language screen. Close this screen, and launch `Settings` again, and click on `Region and Languages` &gt; `Languages`.
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_5.png)
+
+Select `മലയാളം` in the screen and click on the `Select` button.
+
+This will enable the Malayalam UI. You'd need to restart your session \(not the computer itself\). Clicking on the restart button will log you out.
+
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_6.png)
+
+✅ When you log back in, you should see Malayalam user interface.
+
+
+
+
+
 > [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-1B98F5)](https://smc.org.in/)
 
 
