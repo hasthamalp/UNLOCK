@@ -12,7 +12,35 @@ Solution
 sudo apt-get install bcmwl-kernel-source 
 ```
 
-##  Fix no WiFi in Ubuntu with broadcom wireless adapters
+## WiFi not working in HP laptop RTL8723DE Realtek wireless driver
+
+```text
+sudo apt update
+```
+
+```text
+sudo apt install git dkms
+```
+
+```text
+git clone https://github.com/smlinux/rtl8723de.git -b 4.11-up
+```
+
+```text
+sudo dkms add ./rtl8723de
+```
+
+```text
+sudo dkms install rtl8723de/5.1.1.8_21285.20171026_COEX20170111-1414
+```
+
+```text
+sudo depmod -a
+```
+
+✅ Reboot 📶 and your wireless should be working. 😀 
+
+##  Fix no WiFi in Ubuntu with **Broadcom** wireless adapters
 
 {% hint style="info" %}
 This method is exclusively for Broadcom 43 series of wireless adapters. So make sure that you have these adapters by using this command:
