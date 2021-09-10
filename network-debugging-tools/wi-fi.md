@@ -14,6 +14,18 @@ sudo apt-get install bcmwl-kernel-source
 
 ## WiFi not working in HP laptop RTL8723DE Realtek wireless driver
 
+{% hint style="info" %}
+This method is exclusively for RTL8723DE series of wireless adapters. So make sure that you have these adapters by using this command:
+{% endhint %}
+
+```text
+sudo lshw -C network
+```
+
+{% hint style="info" %}
+If you see a wireless network adapter starting with RTL, then only you should go ahead
+{% endhint %}
+
 ```text
 sudo apt update
 ```
