@@ -144,6 +144,8 @@ Simply putting it on `suspend` and bringing it back up seems to make the wifi wo
 
 just want to reactivate your WiFi
 
+**rfkill** command used to `enable/disable` network drivers or activate or deactivate Network Adapters
+
 ```text
 sudo rfkill unblock wifi
 ```
