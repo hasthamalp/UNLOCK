@@ -111,6 +111,12 @@ sudo nautilus
 
 `restart system` 📶 
 
+##  Check Ubuntu Version and Other System Information
+
+```text
+lsb_release -a
+```
+
 ## Important apt Commands
 
 | _apt_ Command | Function of the command |
