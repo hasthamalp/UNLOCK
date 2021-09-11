@@ -81,7 +81,7 @@ sudo apt purge <package_name>
 apt show <package_name>
 ```
 
-## Install   **latest versions of packages and their dependencies**
+## Install **latest versions of packages and their dependencies**
 
 ```text
 sudo apt-get update
