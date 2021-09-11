@@ -52,9 +52,9 @@ sudo depmod -a
 
 ✅ Reboot 📶 and your wireless should be working. 😀 
 
-OR TRY THIS
+**OR TRY THIS**
 
-**That is one of the methods I highly recommend for HP users facing this problem**
+ **recommend for HP users facing WiFi problem**
 
 ```text
 sudo apt-get install linux-headers-$(uname -r) build-essential git
