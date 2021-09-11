@@ -134,3 +134,11 @@ sudo apt install firmware-b43-installer
 Once the install is finished doing its work, you’ll need to reboot. After you log back in, you’ll be able to see and access your wifi connections. ✅ 
 {% endhint %}
 
+## Ubuntu WiFi is disabled
+
+![](../.gitbook/assets/wifiissue.jpg)
+
+{% hint style="info" %}
+Simply putting it on `suspend` and bringing it back up seems to make the wifi work normally.This is not a permanent solution.The only problem is to do this every time  start Ubuntu.
+{% endhint %}
+
