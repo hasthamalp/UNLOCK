@@ -32,6 +32,16 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 | **ൺ** | **SHIFT+x** |
 | **ൽ** | **SHIFT+ .\(dot\)** |
 
+## ചില്ലക്ഷരം ലഭിക്കാന്‍ എന്ത് ചെയ്യണം?
+
+{% hint style="info" %}
+ഗ്നു/ലിനക്സ് ആണ് ഉപയോഗിക്കുന്നതെങ്കില്‍ **അടിസ്ഥാന അക്ഷരവും ചന്ദ്രക്കല പിന്നെ \]** ചേര്‍ന്നാല്‍ ചില്ലക്ഷരം കിട്ടും. ഉദാ: ല ് \] = ല്‍; ന ് \] = ന്‍; ര ് \] = ര്‍ etc.
+{% endhint %}
+
+{% hint style="info" %}
+വിന്‍ഡോസാണെങ്കില്‍ \] നു പകരം Ctrl + shift + 1 ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍ 
+{% endhint %}
+
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 
 {% hint style="info" %}
