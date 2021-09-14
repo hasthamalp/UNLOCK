@@ -42,6 +42,30 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 **വിന്‍ഡോസാണെങ്കില്‍ \] നു പകരം Ctrl + shift + 1** ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍ 
 {% endhint %}
 
+#### Zero Width Joiner \(ZWJ\)
+
+{% hint style="info" %}
+കീബോര്‍ഡിലെ \] കീയുടെ സ്ഥാനത്താണ് zwj. ചില്ലക്ഷരങ്ങല്‍ക്കു വേണ്ടിയാണ് ഇത് ഉപയോഗിക്കുന്നത്.
+
+ഉദാ: ല ് \] = ല്‍, ര ് \] = ര്‍, ന ് \] = ന്‍ etc.
+{% endhint %}
+
+#### Zero Width Space \(ZWS\)
+
+{% hint style="info" %}
+X കീയുടെ സ്ഥാനത്താണ് zws. രണ്ട് അക്ഷരങ്ങള്‍ക്കിടയില്‍ അദൃശ്യമായ space വേണമെങ്കില്‍ ഇതുപയോഗിക്കാം.
+
+ഉദാ: ക്ക എന്നത് ക​് ക എന്നെഴുതാന്‍
+{% endhint %}
+
+#### Zero Width Non Joiner \(ZWNJ\)
+
+{% hint style="info" %}
+ \ കീയുടെ സ്ഥാനത്താണ് zwnj. അടുത്തുവരുന്ന രണ്ട് അക്ഷരങ്ങള്‍ യോജിപ്പിക്കെണ്ടെന്നുണ്ടെങ്കില്‍ ഇതുപയോഗിക്കാം.
+
+ഉദാ: സോഫ്റ്റ്​​വെയര്‍ എന്നെഴുതാന്‍ സോഫ്റ്റ് ന് ശേഷം zwnj ഇല്ലെങ്കില്‍ സോഫ്റ്റ്വെയര്‍ എന്നാകും വരുക.
+{% endhint %}
+
 ![](https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c)
 
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
