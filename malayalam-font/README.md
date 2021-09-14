@@ -42,6 +42,8 @@ Swathanthra Malayalam Computing \(SMC\) is a free software collective engaged in
 **വിന്‍ഡോസാണെങ്കില്‍ \] നു പകരം Ctrl + shift + 1** ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍ 
 {% endhint %}
 
+![](https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c)
+
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 
 {% hint style="info" %}
