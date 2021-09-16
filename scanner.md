@@ -110,11 +110,15 @@ Delete the `simple scan` folder.This will clear the cache in that software and T
 
 ## KODAK i2620 Scanner
 
-[i2620 Scanner\|Ubuntu 16.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
+[i2620 Scanner\|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
+
+[i2620 Scanner\| Ubuntu - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
 
 **Expand the file \(e.g., tar -xf \*.gz\) and then run the setup script \(i.e. sudo ./setup\)**
 
-[i2620 Scanner\| Ubuntu 18.04 LTS - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
+[i2620 Scanner\| Ubuntu 18.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz) 
+
+the following command must be entered in a terminal window:
 
 ```text
 sudo ln -sfr /usr/lib/sane/libsane-kds* /usr/lib/x86_64-linux-gnu/sane
