@@ -117,6 +117,16 @@ sudo nautilus
 lsb_release -a
 ```
 
+## How can I create launchers on my desktop
+
+```text
+usr/share/applications/anydesk.desktop ~/Desktop
+```
+
+```text
+chmod +x ~/Desktop/anydesk.desktop
+```
+
 ## Important apt Commands
 
 | _apt_ Command | Function of the command |
