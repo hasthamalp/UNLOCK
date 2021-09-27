@@ -37,7 +37,7 @@ sudo apt install <package_name>
 
 
 
-**ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**
+## **ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**
 
 \*\*\*\*
 
@@ -63,7 +63,7 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
-### **ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**
+## **ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**
 
 ```text
  sudo apt remove <package_name>                         
@@ -81,13 +81,23 @@ sudo apt purge <package_name>
 apt show <package_name>
 ```
 
+## Install **latest versions of packages and their dependencies**
+
+```text
+sudo apt-get update
+```
+
+```text
+sudo apt-get -f install
+```
+
 ## **The command to use as a super user on Ubuntu system**
 
 ```text
 sudo nautilus
 ```
 
- **Guest Removal Ubuntu 16.04**
+##  **Guest Removal Ubuntu 16.04**
 
 ```text
  sudo mkdir /etc/lightdm/lightdm.conf.d
@@ -100,6 +110,22 @@ sudo nautilus
 ```
 
 `restart system` 📶 
+
+##  Check Ubuntu Version and Other System Information
+
+```text
+lsb_release -a
+```
+
+## How can I create launchers on my Ubuntu desktop
+
+```text
+usr/share/applications/anydesk.desktop ~/Desktop
+```
+
+```text
+chmod +x ~/Desktop/anydesk.desktop
+```
 
 ## Important apt Commands
 
@@ -138,15 +164,31 @@ sudo nautilus
 | !! | repeats the last command |
 | exit | log out of current session |
 
+## How to Know if Your System Uses MBR or GPT Partitioning on  Linux
+
+```text
+sudo parted -l
+```
+
+{% hint style="info" %}
+ In the output, look for the line starting with **Partition Table**:
+
+ For **MBR**, it would show **msdos**.
+
+ For **GPT**, it would show **gpt**.
+{% endhint %}
+
 ## BOOT KEY
 
 ![](../.gitbook/assets/boot.jpg)
+
+![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
 
 ## BIOS KEY
 
 ![](../.gitbook/assets/bios.jpg)
 
-\*\*\*\*
+![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
 
 |  |
 | :--- |

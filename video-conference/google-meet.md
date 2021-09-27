@@ -8,6 +8,10 @@
 
 > Enter the meeting code in the place given
 
+## Learn about the New Meet Layout \(
+
+![](../.gitbook/assets/simplify-meet-cs-1-copy-2.svg)
+
 ## Change layout in google meet
 
 > Select **change Layout**

@@ -10,9 +10,15 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
  👮 Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox  version 60+\( new updation\) ...  
 {% endhint %}
 
+[Firefox for Ubuntu](https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/)
+
 ![](../.gitbook/assets/application_application_firefox_browser_mozzila_970.png)
 
 ## Enable java plugin in firefox 53.0 version
+
+```text
+about:config
+```
 
 > _**`about:config` -&gt; `accept` -&gt; `add new`-&gt; `boolean` -&gt; `plugin.load_flash_only` -&gt; `false`-&gt; `ok`**_
 
@@ -36,7 +42,7 @@ plugin.load_flash_only
 firefox successfully installed on your system
 {% endhint %}
 
-### **FIREFOX വേർഷൻ DOWNGRADE ചെയ്യുന്ന വിധം**
+## **FIREFOX വേർഷൻ DOWNGRADE ചെയ്യുന്ന വിധം**
 
 * Follow the steps carefully.
 
@@ -66,7 +72,7 @@ sudo synaptic
 
 ![](../.gitbook/assets/image5.jpg)
 
-> 6. In Menu bar, **select Package&gt;Force Version**. Or simply press Ctrl+E. A window will appear
+> 6. In Menu bar, **select Package&gt;Force Version**. Or simply press `Ctrl+E`. A window will appear
 
 ![](../.gitbook/assets/image6.jpg)
 

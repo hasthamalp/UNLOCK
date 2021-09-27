@@ -8,17 +8,19 @@
 lpstat -a
 ```
 
-**How do I remove hundreds of automatically added network printers**
+## **How do I remove hundreds of automatically added network printers**
 
 ```text
 sudo nautilus
 ```
 
-> Go to `etc`--&gt;`cups-->cups-browsed.conf`
+> 1.Go to `etc`--&gt;`cups-->cups-browsed.conf`
+
+ 2.Change this line: `BrowseRemoteProtocols dnssd cups` \(or whaterver is after   it\) to none so it reads: `BrowseRemoteProtocols none`
 
 
 
-> stop cups and then remove the printers from the file
+> 3.stop cups and then remove the printers from the file
 
 ```text
 sudo service cups-browsed stop
