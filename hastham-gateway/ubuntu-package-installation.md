@@ -117,7 +117,7 @@ sudo nautilus
 lsb_release -a
 ```
 
-## How can I create launchers on my desktop
+## How can I create launchers on my Ubuntu desktop
 
 ```text
 usr/share/applications/anydesk.desktop ~/Desktop
