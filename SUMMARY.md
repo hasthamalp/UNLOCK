@@ -21,6 +21,7 @@
   * [NICD Sign-Ubuntu-Manual](digital-signature/nicd-sign-ubuntu-manual.md)
   * [NICD Sign-Windows-Manual](digital-signature/nicd-sign-windows-manual.md)
 * [3. e-Office](e-office/README.md)
+  * [KAVACH](e-office/kavach.md)
   * [e-office guide](e-office/e-office-guide.md)
 * [4.Software Issues](4.software-issues/README.md)
   * [e-District Issues](4.software-issues/e-district-issues.md)

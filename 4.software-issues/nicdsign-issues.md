@@ -28,7 +28,7 @@ about:preferences#privacy
 
 ## **How to Fix NICDSign Installation Error**
 
-![](../.gitbook/assets/20210526_191254%20%281%29.jpg)
+![](../.gitbook/assets/20210526_191254%20%282%29%20%281%29.jpg)
 
 > solution: Go to Downloads folder and extract NICDSign.deb file
 
