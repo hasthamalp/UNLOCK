@@ -100,3 +100,13 @@ successfully downgrade firefox on your system
 
 [pdf](https://hasthamalp.github.io/hastham/documents/firefox.pdf)😄 
 
+## Upgrade Firefox in Ubuntu
+
+```text
+sudo apt-get update
+```
+
+```text
+sudo apt-get install --only-upgrade firefox
+```
+
