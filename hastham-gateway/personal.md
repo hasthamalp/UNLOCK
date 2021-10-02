@@ -1,6 +1,6 @@
 # ABOUT
 
-> ![](https://img.shields.io/badge/Content%2FData%20Managed%20By-KSITM%20Alappuzha-120078) !\[\]\([https://img.shields.io/badge/Content%2FData Managed By-H.S.E's Alappuzha-120078](https://img.shields.io/badge/Content%2FData%20Managed%20By-H.S.E's%20Alappuzha-120078)\)
+> ![](https://img.shields.io/badge/Content%2FData%20Managed%20By-KSITM%20Alappuzha-120078) 
 >
 > ![](https://img.shields.io/badge/Developed%20By-TEAM%20HASTHAM-7d0633?style=plastic)
 >
