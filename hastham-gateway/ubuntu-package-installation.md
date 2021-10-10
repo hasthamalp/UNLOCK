@@ -39,7 +39,7 @@ sudo apt install <package_name>
 
 ```bash
 // Some code
-sudo a
+sudo apt update
 ```
 
 ## **ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**
