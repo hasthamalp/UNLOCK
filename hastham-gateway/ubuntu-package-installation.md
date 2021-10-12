@@ -191,7 +191,3 @@ sudo parted -l
 ![](../.gitbook/assets/bios.jpg)
 
 ![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
-
-|   |
-| - |
-|   |
