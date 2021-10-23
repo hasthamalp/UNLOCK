@@ -79,4 +79,4 @@ The installation procedure will check for missing ask if older versions of the H
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
 
-{% embed url="https://openprinting.org/printer" %}
+{% embed url="https://openprinting.org/printers" %}
