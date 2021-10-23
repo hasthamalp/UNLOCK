@@ -2,23 +2,33 @@
 
 
 
-{% file src=".gitbook/assets/dsc\_new\_form.pdf" caption="DSC Application Form" %}
+{% file src=".gitbook/assets/DSC_New_Form.pdf" %}
+DSC Application Form
+{% endfile %}
 
-{% file src=".gitbook/assets/dsc-letter-of-identity-proof-alappuzha.pdf" caption="Letter of Identity" %}
+{% file src=".gitbook/assets/DSC LETTER OF IDENTITY PROOF ALAPPUZHA.pdf" %}
+Letter of Identity
+{% endfile %}
 
-{% file src=".gitbook/assets/workdone\_sheet.pdf" caption="WorkdoneSheet" %}
+{% file src=".gitbook/assets/Workdone_Sheet.pdf" %}
+WorkdoneSheet
+{% endfile %}
 
-{% file src=".gitbook/assets/zoomaudio \(2\).jpg" caption="ZoomAudio" %}
+{% file src=".gitbook/assets/zoomaudio.jpg" %}
+ZoomAudio
+{% endfile %}
 
-##                                     **FONTS** ✍ 
+## **                                    FONTS **:writing\_hand:&#x20;
 
-{% file src=".gitbook/assets/cdac\_siva.ttf" caption="CDAC\_Siva" %}
+{% file src=".gitbook/assets/CDAC_Siva.ttf" %}
+CDAC\_Siva
+{% endfile %}
 
-{% file src=".gitbook/assets/meera-regular.ttf" caption="Meera-Regular.ttf" %}
+{% file src=".gitbook/assets/Meera-Regular.ttf" %}
+Meera-Regular.ttf
+{% endfile %}
 
-{% file src=".gitbook/assets/mlkr0ntt.ttf" caption="ML-TTKarthika" %}
-
-## [**Download ISM SOFTWARE**](https://github.com/hasthamalp/test/blob/master/ISM300.zip?raw=true) **\[**Intelligent Script Manager\]
-
-
+{% file src=".gitbook/assets/MLKR0NTT.TTF" %}
+ML-TTKarthika
+{% endfile %}
 

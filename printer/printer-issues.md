@@ -2,17 +2,17 @@
 
 ## Printing service not available
 
-![](../.gitbook/assets/rzvzr.jpg)
+![](../.gitbook/assets/Rzvzr.jpg)
 
 > Solution
 
-```text
+```
 sudo gedit /etc/cups/cupsd.conf
 ```
 
 and copied the following cupsd.conf virgin content below
 
-```text
+```
 #
 #
 # Sample configuration file for the CUPS scheduler. See "man cupsd.conf" for a
@@ -138,9 +138,8 @@ DefaultAuthType Basic
 #
 ```
 
-```text
+```
 sudo service cups restart
 ```
 
-✅ Success
-
+:white\_check\_mark: Success

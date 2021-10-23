@@ -1,28 +1,28 @@
 # PDF
 
-![](../.gitbook/assets/adobe_reader_vertical.png)
+![](../.gitbook/assets/adobe\_reader\_vertical.png)
 
-## \*\*\*\*
+## ****
 
-## Installation of Adobe Reader in Ubuntu 
+## Installation of Adobe Reader in Ubuntu&#x20;
 
-```text
+```
 sudo wget -O ~/adobe.deb ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
 ```
 
-```text
+```
 sudo dpkg --add-architecture i386
 ```
 
-```text
+```
 sudo apt update
 ```
 
-```text
+```
 sudo apt install libxml2:i386 libcanberra-gtk-module:i386 gtk2-engines-murrine:i386 libatk-adaptor:i386
 ```
 
-```text
+```
 sudo dpkg -i ~/adobe.deb
 ```
 
@@ -32,11 +32,11 @@ Launch Adobe Acrobat Reader on Ubuntu 20.04
 
 ## How to Remove Adobe Reader in Ubuntu
 
-```text
+```
 sudo apt-get purge adobereader-enu
 ```
 
-```text
+```
 sudo apt-get autoremove
 ```
 
@@ -44,7 +44,7 @@ sudo apt-get autoremove
 
 _Ubuntu 32 bit_
 
-```text
+```
 sudo gedit /usr/share/applications/AdobeReader.desktop
 ```
 
@@ -54,7 +54,7 @@ sudo gedit /usr/share/applications/AdobeReader.desktop
 
 _Ubuntu 64 bit_
 
-```text
+```
 sudo gedit /usr/share/applications/AdobeReader.desktop
 ```
 
@@ -64,32 +64,32 @@ sudo gedit /usr/share/applications/AdobeReader.desktop
 
 ## Signature Validation
 
-![](../.gitbook/assets/sig1.jpg)
+![](../.gitbook/assets/sig1.JPG)
 
-![](../.gitbook/assets/sig2.jpg)
+![](../.gitbook/assets/sig2.JPG)
 
-![](../.gitbook/assets/sig3.jpg)
+![](../.gitbook/assets/sig3.JPG)
 
-![](../.gitbook/assets/sig4.jpg)
+![](../.gitbook/assets/sig4.JPG)
 
-![](../.gitbook/assets/sig5.jpg)
+![](../.gitbook/assets/sig5.JPG)
 
-![](../.gitbook/assets/sig6.jpg)
+![](../.gitbook/assets/sig6.JPG)
 
-![](../.gitbook/assets/sig7.jpg)
+![](../.gitbook/assets/sig7.JPG)
 
 {% hint style="success" %}
 **Signature Validation Completed !**
 {% endhint %}
 
-## Can't validate signature on PDF \[SSL Error\]
+## Can't validate signature on PDF \[SSL Error]
 
-* [x] In Acrobat or Reader, click `Edit` &gt; `Preferences`.
+* [x] In Acrobat or Reader, click `Edit` > `Preferences`.
 * [x] From the `Preferences` dialog box, select `Security` on the left.
 * [x] Click `Advanced Preferences`, and then click the `Verification tab`.
-* [x] Select Verify Signature using `'The Current time'`
+* [x] Select Verify Signature using` 'The Current time'`
 
-![](../.gitbook/assets/img-20210408-wa0010.jpg)
+![](../.gitbook/assets/IMG-20210408-WA0010.jpg)
 
 {% hint style="success" %}
 Restart the Adobe reader and validate the signature
@@ -101,4 +101,3 @@ Restart the Adobe reader and validate the signature
 2. SumatraPDF
 3. Libreoffice
 4. Evince
-

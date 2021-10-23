@@ -2,13 +2,13 @@
 
 ## ACER
 
-![](../.gitbook/assets/acer_logo_icon_169649.png)
+![](../.gitbook/assets/acer\_logo\_icon\_169649.png)
 
-[Acer Desktop Warranty Complaint](http://customercare.acer-apac.com/CustomerSelfService/CaseBooking.aspx?CID=IN&LID=ENG)
+[Acer Desktop Warranty Complaint](http://customercare.acer-apac.com/CustomerSelfService/CaseBooking.aspx?CID=IN\&LID=ENG)
 
-[Acer Warranty check](https://apn.acer.co.in/Rpt/EC_CustomerView.aspx)
+[Acer Warranty check](https://apn.acer.co.in/Rpt/EC\_CustomerView.aspx)
 
-------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------------------------
 
 ## CANON
 
@@ -18,7 +18,7 @@
 
 [Canon Warranty Complaint](https://edge.canon.co.in/corporate/contact/index.aspx#service-request)
 
-------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------------------------
 
 ## KYOCERA
 
@@ -28,21 +28,20 @@
 
 [Kyocera Printer Warranty Complaint](https://kyoceradocumentsolutionsindia.com/warranty/registration.php)
 
-------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------------------------
 
 ## HP
 
-![](../.gitbook/assets/hplogo_94383.png)
+![](../.gitbook/assets/hplogo\_94383.png)
 
- [HP Warranty Complaint](https://mycrm.support.hp.com/en-US/)
+&#x20;[HP Warranty Complaint](https://mycrm.support.hp.com/en-US/)
 
-------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------------------------
 
 ## DELL
 
-![](../.gitbook/assets/dell_logo_icon_167699.png)
+![](../.gitbook/assets/dell\_logo\_icon\_167699.png)
 
 [Dell Warranty Complaint](https://www.dell.com/support/incidents-online/en-in/srsearch)
 
-\*\*\*\*
-
+****

@@ -1,14 +1,14 @@
 # Zoom
 
-![](../.gitbook/assets/zoom_93927.png)
+![](../.gitbook/assets/zoom\_93927.png)
 
 ## Audio setting in zoom
 
-![](../.gitbook/assets/zoomaudio.jpg)
+![](<../.gitbook/assets/zoomaudio (2).jpg>)
 
 
 
-{% file src="../.gitbook/assets/zoomaudio \(1\).jpg" caption="audio setting in zoom" %}
-
-
+{% file src="../.gitbook/assets/zoomaudio (2) (1).jpg" %}
+audio setting in zoom
+{% endfile %}
 

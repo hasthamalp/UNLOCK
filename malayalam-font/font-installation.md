@@ -6,7 +6,7 @@ description: How to install fonts on Ubuntu
 
 ## Method 1
 
-*  If you want fonts, go to __[_https://smc.org.in/fonts_](https://smc.org.in/fonts)\_\_
+* &#x20;If you want fonts, go to_ _[_https://smc.org.in/fonts_](https://smc.org.in/fonts)__
 * download a font from there,double click it and Install.
 
 ## Method 2
@@ -17,9 +17,9 @@ Home ഫോൾഡറിനുള്ളിൽ _**.fonts**_ എന്ന Folder �
 
 > Go to HOME Folder
 
-![](../.gitbook/assets/screenshot-from-2020-11-02-19-58-09.png)
+![](<../.gitbook/assets/Screenshot from 2020-11-02 19-58-09.png>)
 
-> Click on **view -&gt; show hidden files** or **ctrl+H** to view hidden files,select **.fonts folder**
+> Click on** view -> show hidden files** or **ctrl+H **to view hidden files,select **.fonts folder**
 
 ![](../.gitbook/assets/new.png)
 
@@ -28,16 +28,21 @@ paste fonts in that folder
 ![](../.gitbook/assets/new1.png)
 
 {% hint style="success" %}
-fonts successfully installed on your system 😎 
+fonts successfully installed on your system :sunglasses:&#x20;
 {% endhint %}
 
-**Fonts\(installation file\)**
+**Fonts(installation file)**
 
 _cdac\_siva font_
 
-{% file src="../.gitbook/assets/cdac\_siva.ttf" caption="CDAC\_Siva" %}
+{% file src="../.gitbook/assets/CDAC_Siva.ttf" %}
+CDAC\_Siva
+{% endfile %}
 
-{% file src="../.gitbook/assets/mlkr0ntt.ttf" caption="ML-TTKarthika Normal" %}
+{% file src="../.gitbook/assets/MLKR0NTT.TTF" %}
+ML-TTKarthika Normal
+{% endfile %}
 
-{% file src="../.gitbook/assets/meera-regular.ttf" caption="Meera\_Regular" %}
-
+{% file src="../.gitbook/assets/Meera-Regular.ttf" %}
+Meera\_Regular
+{% endfile %}
