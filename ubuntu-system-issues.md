@@ -108,6 +108,12 @@ sudo grub-install /dev/sda
 
 ![](.gitbook/assets/grub3.JPG)
 
+OTHER LINKS:[<mark style="color:orange;background-color:purple;">GRUB RESCUE</mark>](https://www.pcsuggest.com/grub-rescue-linux/)<mark style="color:orange;background-color:purple;">1</mark>&#x20;
+
+[GRUB RESCUE LINK2](https://itsfoss.com/fix-minimal-bash-line-editing-supported-grub-error-linux/)
+
+
+
 ## How do I change the user account password?
 
 ```
