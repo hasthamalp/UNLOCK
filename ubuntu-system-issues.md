@@ -6,7 +6,7 @@
 **1**.Initramfs Issue BusyBox /fsck error
 {% endhint %}
 
-![](.gitbook/assets/image.jpg)
+![](.gitbook/assets/FSCK.jpg)
 
 > solution
 
