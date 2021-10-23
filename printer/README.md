@@ -78,3 +78,5 @@ The installation procedure will check for missing ask if older versions of the H
 ![](../.gitbook/assets/printer.jpg)
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
+
+{% embed url="https://openprinting.org/printer" %}
