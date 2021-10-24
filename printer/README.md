@@ -28,15 +28,15 @@ sudo service cups-browsed stop
 
 ## ADDING A NETWORK PRINTER (UBUNTU)
 
-> &#x20;1.` System Settings --> Printers`
+> &#x20;1.`System Settings --> Printers`
 >
-> 2\.     Click` Add` and select` Find Network Printer`
+> 2\. Click` Add` and select` Find Network Printer`
 >
-> 3\.     Enter the `IP address` in the `Host` field, and click `Find.`
+> 3\. Enter the `IP address` in the `Host` field, and click `Find.`
 >
-> 4\.       Click `Forward` and wait while the system searches for drivers
+> 4\. Click `Forward` and wait while the system searches for drivers
 >
-> 5\.        Click `Apply` to finish
+> 5\. Click `Apply` to finish
 
 ## &#x20;HPLIP Driver Installation Process
 
