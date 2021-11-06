@@ -55,3 +55,21 @@ about:preferences#privacy
 > After completing this process, run NICDSign.deb file again _(sudo dpkg -i NICDsign.deb)_
 
 > :white\_check\_mark: NICDSign installed Successfully&#x20;
+
+**Enable NICDSign **
+
+```
+sudo mkdir /home/device_name/.config/autostart
+```
+
+```
+cd /home/device_name/.config/autostart
+```
+
+```
+sudo cp /opt/nic/NICDSign/DSCService.desktop /home/device_name/.config/autostart
+```
+
+```
+cd /home/device_name/.config/autostart
+```
