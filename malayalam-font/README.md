@@ -10,6 +10,10 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ![](../.gitbook/assets/Inscript.jpg)
 
+## Government And Unicode
+
+എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
+
 ## ചില്ലക്ഷരങ്ങൾ
 
 | ചില്ലക്ഷരങ്ങൾ | ഇൻസ്ക്രിപ്ട്     |
