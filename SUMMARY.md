@@ -43,4 +43,5 @@
 * [11. Network Debugging Tools](network-debugging-tools/README.md)
   * [Wi-Fi](network-debugging-tools/wi-fi.md)
   * [Network Debugging Techniques](network-debugging-tools/network-debugging-techniques.md)
+* [12. ഉത്തരവുകളും സര്‍ക്കുലറുകളും](12..md)
 * [12. Downloads](downloads.md)
