@@ -4,12 +4,9 @@ description: ജാവ സിമ്പിൾ ആണ്,പവർഫുൾ
 
 # Java Installation
 
-## 1.ഉബുണ്ടു സിസ്റ്റത്തിൽ ജാവ ഇൻസ്റ്റാൾ ചെയ്യാൻ ജാവ .deb ഫയൽ ഡൗൺലോഡ് ചെയുക&#x20;
-
 ![](../.gitbook/assets/java\_original\_logo\_icon\_146458.png)
 
-\#2.ജാവ ഫയൽ ഡൗൺലോഡ് ചെയ്തതിന്‌ ശേഷം ,ഡൗൺലോഡ് ചെയ്ത path ടെർമിനലിൽ ഓപ്പൺ ചെയ്യുക.\
-അതിനു ശേഷം [install package](../hastham-gateway/ubuntu-package-installation.md)
+
 
 ജാവ ഇൻസ്റ്റാൾ ആയെന്നു ഉറപ്പു വരുത്താൻ ടെർമിനലിൽ ഈ കോഡ് ടൈപ്പ് ചെയ്യുക .
 
