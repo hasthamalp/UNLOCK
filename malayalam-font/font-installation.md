@@ -30,19 +30,3 @@ paste fonts in that folder
 {% hint style="success" %}
 fonts successfully installed on your system :sunglasses:&#x20;
 {% endhint %}
-
-**Fonts(installation file)**
-
-_cdac\_siva font_
-
-{% file src="../.gitbook/assets/CDAC_Siva.ttf" %}
-CDAC\_Siva
-{% endfile %}
-
-{% file src="../.gitbook/assets/MLKR0NTT.TTF" %}
-ML-TTKarthika Normal
-{% endfile %}
-
-{% file src="../.gitbook/assets/Meera-Regular.ttf" %}
-Meera\_Regular
-{% endfile %}
