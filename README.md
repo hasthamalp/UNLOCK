@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # HOME
 
 ![](.gitbook/assets/bg2.jpg)
