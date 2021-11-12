@@ -71,5 +71,5 @@ sudo cp /opt/nic/NICDSign/DSCService.desktop /home/user/.config/autostart
 ```
 
 ```
-cd /home/device_name/.config/autostart
+cd /home/user/.config/autostart
 ```
