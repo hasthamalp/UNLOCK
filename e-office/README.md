@@ -1,6 +1,6 @@
 # 3. e-Office
 
-{% embed url="https://keralaagriculture.gov.in/wp-content/uploads/2021/06/Selection_016_1.png" %}
+![](../.gitbook/assets/eoffice.png)
 
 ## VPN SETUP&#x20;
 

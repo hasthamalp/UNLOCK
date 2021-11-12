@@ -1,6 +1,6 @@
 # Share
 
-## ഉബുണ്ടു സിസ്റ്റത്തിൽ Share ഇൻസ്റ്റാൾ ചെയ്യാം
+## Install Share on Ubuntu system
 
 ![](../.gitbook/assets/folder2\_39672.png)
 
