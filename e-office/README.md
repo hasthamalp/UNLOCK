@@ -2,6 +2,8 @@
 
 ![](../.gitbook/assets/eoffice.png)
 
+{% embed url="https://youtu.be/qSWPvNWsaQs" %}
+
 ## VPN SETUP&#x20;
 
 Use this address to get VPN & eoffice access through public network
@@ -16,7 +18,7 @@ https://vpn.kerala.gov.in:10443/
 
 ## For Windows
 
-{% embed url="https://www.fortinet.com/support/product-downloads" %}
+{% embed url="https://links.fortinet.com/forticlient/win/vpnagent" %}
 
 ## VPN RESET
 
