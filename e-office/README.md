@@ -1,5 +1,7 @@
 # 3. e-Office
 
+{% embed url="https://keralaagriculture.gov.in/wp-content/uploads/2021/06/Selection_016_1.png" %}
+
 ## VPN SETUP&#x20;
 
 Use this address to get VPN & eoffice access through public network
