@@ -1,5 +1,7 @@
 # e-District Issues
 
+![](../.gitbook/assets/36499-page-not-found.gif)
+
 ## User name doesnot match with name in certificate
 
 ![](../.gitbook/assets/img3d.jpg)
