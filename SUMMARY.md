@@ -13,7 +13,7 @@
 * [1.e-District](e-district/README.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java Installation](e-district/java-installation.md)
-  * [PDF\[Portable Document Format\]](e-district/adobe-reader.md)
+  * [PDF](e-district/adobe-reader.md)
   * [Share](e-district/share.md)
 * [2. 🔐 Digital signature](digital-signature/README.md)
   * [Digital Signature Validation procedure](digital-signature/digital-signature-validation-procedure.md)

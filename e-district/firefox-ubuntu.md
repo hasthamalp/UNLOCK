@@ -6,10 +6,6 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 
 
 
-{% hint style="info" %}
-&#x20;:police\_officer: Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox  version 60+( new updation) ... &#x20;
-{% endhint %}
-
 ![](../.gitbook/assets/application\_application\_firefox\_browser\_mozzila\_970.png)
 
 ## Enable java plugin in firefox 53.0 version
@@ -83,8 +79,6 @@ sudo synaptic
 {% hint style="success" %}
 successfully downgrade firefox on your system
 {% endhint %}
-
-[pdf](https://hasthamalp.github.io/hastham/documents/firefox.pdf):smile:&#x20;
 
 ## Upgrade Firefox in Ubuntu
 
