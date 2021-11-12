@@ -2,8 +2,6 @@
 
 ![](../.gitbook/assets/eoffice.png)
 
-{% embed url="https://youtu.be/qSWPvNWsaQs" %}
-
 ## VPN SETUP&#x20;
 
 Use this address to get VPN & eoffice access through public network
