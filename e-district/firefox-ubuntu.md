@@ -4,13 +4,11 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 
 # Firefox Ubuntu
 
-## 1.ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox ഇൻസ്റ്റാൾ ചെയ്യാം
+
 
 {% hint style="info" %}
 &#x20;:police\_officer: Most villages use firefox 50 and below versions .. We can enable java plugin up to firefox 53.0 ..Google Drive & whatsapp web will all work in firefox  version 60+( new updation) ... &#x20;
 {% endhint %}
-
-[Firefox for Ubuntu](https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/)
 
 ![](../.gitbook/assets/application\_application\_firefox\_browser\_mozzila\_970.png)
 
@@ -30,7 +28,7 @@ about:config
 plugin.load_flash_only 
 ```
 
-## **FIREFOX വേർഷൻ DOWNGRADE ചെയ്യുന്ന വിധം**
+## How to Downgrade the Firefox Version
 
 * Follow the steps carefully.
 

@@ -1,8 +1,6 @@
-# PDF
+# PDF\[Portable Document Format]
 
 ![](../.gitbook/assets/adobe\_reader\_vertical.png)
-
-## ****
 
 ## Installation of Adobe Reader in Ubuntu&#x20;
 

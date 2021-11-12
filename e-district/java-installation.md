@@ -8,7 +8,7 @@ description: ജാവ സിമ്പിൾ ആണ്,പവർഫുൾ
 
 
 
-ജാവ ഇൻസ്റ്റാൾ ആയെന്നു ഉറപ്പു വരുത്താൻ ടെർമിനലിൽ ഈ കോഡ് ടൈപ്പ് ചെയ്യുക .
+Type this code into the terminal to confirm that Java is installed.
 
 ```
 java -version
@@ -64,6 +64,6 @@ https://edistrict.kerala.gov.in/
 sudo nautilus
 ```
 
-Go to `Computer--->Usr---->lib--->Java---->move to trash`
+<mark style="color:green;">Go to</mark> <mark style="color:green;">`Computer--->Usr---->lib--->Java---->move to trash`</mark>
 
 ## &#x20;
