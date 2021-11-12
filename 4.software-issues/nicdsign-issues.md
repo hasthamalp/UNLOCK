@@ -59,15 +59,15 @@ about:preferences#privacy
 **Enable NICDSign **
 
 ```
-sudo mkdir /home/device_name/.config/autostart
+sudo mkdir /home/user/.config/autostart
 ```
 
 ```
-cd /home/device_name/.config/autostart
+cd /home/user/.config/autostart
 ```
 
 ```
-sudo cp /opt/nic/NICDSign/DSCService.desktop /home/device_name/.config/autostart
+sudo cp /opt/nic/NICDSign/DSCService.desktop /home/user/.config/autostart
 ```
 
 ```
