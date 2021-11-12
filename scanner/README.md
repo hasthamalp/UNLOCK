@@ -1,10 +1,10 @@
 # 8. Scanner
 
-![](.gitbook/assets/8898-document-scanner.gif)
+![](../.gitbook/assets/8898-document-scanner.gif)
 
 ## How to install XSANE in Ubuntu
 
-```text
+```
 sudo apt install xsane
 ```
 
@@ -12,57 +12,61 @@ sudo apt install xsane
 
 {% tabs %}
 {% tab title="Ubuntu 20.04" %}
-```text
+```
 sudo apt install gnupg ca-certificates
 ```
 
-```text
+```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
 ```
 
-```text
+```
 echo "deb https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
 ```
 
-```text
+```
 sudo apt update
 ```
+
+
 {% endtab %}
 
 {% tab title="Ubuntu 18.04" %}
-```text
+```
 sudo apt install gnupg ca-certificates
 ```
 
-```text
+```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
 ```
 
-```text
+```
 echo "deb https://download.mono-project.com/repo/ubuntu stable-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
 ```
 
-```text
+```
 sudo apt update
 ```
+
+
 {% endtab %}
 
 {% tab title="Ubunt 16.04" %}
-```text
+```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
 
 ```
 
-```text
+```
 sudo apt install apt-transport-https ca-certificates
 ```
 
-```text
+```
 echo "deb https://download.mono-project.com/repo/ubuntu stable-xenial main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
 
 ```
 
-```text
+```
 sudo apt update
 ```
 {% endtab %}
@@ -70,17 +74,17 @@ sudo apt update
 
 Once the apt repository is enabled , update the packages list and install Mono with:
 
-```text
+```
 sudo apt update
 ```
 
-```text
+```
 sudo apt install mono-complete
 ```
 
 Verify the installation by typing the following command which will print the Mono version:
 
-```text
+```
 mono --version
 ```
 
@@ -88,7 +92,7 @@ mono --version
 
 > ## Identify which scanner is used
 
-```text
+```
 scanimage -L
 ```
 
@@ -96,33 +100,33 @@ scanimage -L
 
 ## TO detect all USB's
 
-```text
+```
 lsusb
 ```
 
 ## What to do in a situation where a simple scan does not open
 
-Go to `Home`----&gt;`.Cache`\(view hidden files\)------&gt;`Simple-scan`
+Go to `Home`---->`.Cache`(view hidden files)------>`Simple-scan`
 
 {% hint style="success" %}
 Delete the `simple scan` folder.This will clear the cache in that software and This will help to open the simple scan properly .
+
+
 {% endhint %}
 
 ## KODAK i2620 Scanner
 
-[i2620 Scanner\|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
+[i2620 Scanner|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.i586.deb.tar.gz)
 
-[i2620 Scanner\| Ubuntu - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
+[i2620 Scanner| Ubuntu - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.x86\_64.deb.tar.gz)
 
-**Expand the file \(e.g., tar -xf \*.gz\) and then run the setup script \(i.e. sudo ./setup\)**
+**Expand the file (e.g., tar -xf \*.gz) and then run the setup script (i.e. sudo ./setup)**
 
-[i2620 Scanner\| Ubuntu 18.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz) 
+[i2620 Scanner| Ubuntu 18.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.x86\_64.deb.tar.gz)&#x20;
 
 the following command must be entered in a terminal window:
 
-```text
+```
 sudo ln -sfr /usr/lib/sane/libsane-kds* /usr/lib/x86_64-linux-gnu/sane
 ```
-
-
 
