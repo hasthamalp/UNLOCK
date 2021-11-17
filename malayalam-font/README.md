@@ -10,6 +10,8 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ![](../.gitbook/assets/Inscript.jpg)
 
+**Malayalam Inscript Typing**:writing\_hand: [malayalm-typing.pdf](https://icfoss.in/doc/malayalam-typing.pdf)
+
 ## Government And Unicode
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
