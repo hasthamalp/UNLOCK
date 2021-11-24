@@ -32,13 +32,13 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ## **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
-| **ചില്ലക്ഷരം** | **short key**     |
-| -------------- | ----------------- |
-| **ൾ**          | **SHIFT+8**       |
-| **ർ**          | **]**             |
-| **ൻ**          | **SHIFT+v**       |
-| **ൺ**          | **SHIFT+x**       |
-| **ൽ**          | **SHIFT+ .(dot)** |
+| **ചില്ലക്ഷരം** | **Short Key**     | **Short Key**            |
+| -------------- | ----------------- | ------------------------ |
+| **ൾ**          | **SHIFT+8**       | **N+d+Ctrl+Shift+1**     |
+| **ർ**          | **]**             | **j+d+Ctrl+Shift+1**     |
+| **ൻ**          | **SHIFT+v**       | **v+d+Ctrl+Shif**t**+1** |
+| **ൺ**          | **SHIFT+x**       | **C+d+Ctrl+Shift+1**     |
+| **ൽ**          | **SHIFT+ .(dot)** | **n+d+Ctrl+Shift+1**     |
 
 ## ചില്ലക്ഷരം ലഭിക്കാന്‍ എന്ത് ചെയ്യണം?
 
@@ -49,6 +49,8 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 {% hint style="info" %}
 **വിന്‍ഡോസാണെങ്കില്‍ ] നു പകരം Ctrl + shift + 1** ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍&#x20;
 {% endhint %}
+
+![](broken-reference)
 
 #### Zero Width Joiner (ZWJ)
 
