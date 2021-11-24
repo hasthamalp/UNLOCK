@@ -46,11 +46,11 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 **ഗ്നു/ലിനക്സ്** ആണ് ഉപയോഗിക്കുന്നതെങ്കില്‍ **അടിസ്ഥാന അക്ഷരവും ചന്ദ്രക്കല പിന്നെ ] **ചേര്‍ന്നാല്‍ ചില്ലക്ഷരം കിട്ടും. ഉദാ: ല ് ] = ല്‍; ന ് ] = ന്‍; ര ് ] = ര്‍&#x20;
 {% endhint %}
 
+![](../.gitbook/assets/shortkey.JPG)
+
 {% hint style="info" %}
 **വിന്‍ഡോസാണെങ്കില്‍ ] നു പകരം Ctrl + shift + 1** ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍&#x20;
 {% endhint %}
-
-![In GNU/Linux ](../.gitbook/assets/shortkey.JPG)
 
 #### Zero Width Joiner (ZWJ)
 
