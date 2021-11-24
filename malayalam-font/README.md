@@ -50,7 +50,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 **വിന്‍ഡോസാണെങ്കില്‍ ] നു പകരം Ctrl + shift + 1** ഉപയോഗിക്കാം. ഉദാ: ല ് ctrl + shift + 1 = ല്‍&#x20;
 {% endhint %}
 
-![](../.gitbook/assets/shortkey.JPG)
+![In GNU/Linux Systems](../.gitbook/assets/shortkey.JPG)
 
 #### Zero Width Joiner (ZWJ)
 
