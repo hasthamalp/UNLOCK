@@ -27,7 +27,7 @@ Software installation
 
 {% endhint %}
 
-## <mark style="color:blue;">ഉബുണ്ടുവിൽ പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം</mark>
+## Install Packages on Ubuntu
 
 ```shell
 sudo apt install <package_name>
@@ -39,7 +39,7 @@ sudo apt install <package_name>
 sudo apt install mplayer
 ```
 
-## <mark style="color:blue;">**ഉബുണ്ടുവിൽ .deb പാക്കേജുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്ന വിധം**</mark>
+## Install \*.deb Packages in Ubuntu
 
 ****
 
@@ -65,7 +65,7 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
-## <mark style="color:blue;">**ഉബുണ്ടുവിൽ പാക്കേജുകൾ Uninstall ചെയ്യുന്ന വിധം**</mark>
+## Uninstall Packages in Ubuntu
 
 ```
  sudo apt remove <package_name>                         
