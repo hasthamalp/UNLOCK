@@ -2,7 +2,7 @@
 description: ജാവ സിമ്പിൾ ആണ്,പവർഫുൾ
 ---
 
-# Java Installation
+# Java
 
 ![](../.gitbook/assets/java\_original\_logo\_icon\_146458.png)
 
@@ -20,7 +20,7 @@ java -version
 If the Java version appears in the terminal, then Java is successfully installed on your system.
 {% endhint %}
 
-## **സൈറ്റ് ജാവ സെക്യൂരിറ്റിയിൽ add ചെയുന്ന വിധം(1)**
+## Java - Adding Sites to Exceptions List**(1)**
 
 {% hint style="info" %}
 ഇ ഡിസ്ട്രിക്ട് സൈറ്റ് add ചെയ്യുന്നതിന് വേണ്ടി ടെർമിനലിൽ`jcontrol `എന്ന് ടൈപ്പ് ചെയ്യുകയോ അല്ലെങ്കിൽ`/usr /lib /java /jdk /bin` എന്ന path ടെർമിനലിൽ ഓപ്പൺ ചെയുക .തുടർന്ന്`  ./ControlPanel  `എന്ന് ടൈപ്പ് ചെയ്യുക.
@@ -44,11 +44,11 @@ https://edistrict.kerala.gov.in/
 
 
 
-## **സൈറ്റ് ജാവ സെക്യൂരിറ്റിയിൽ add ചെയുന്ന വിധം(2)**
+## Java - Adding Sites to Exceptions List**(2)**
 
 > 1.Run `sudo /usr/lib/java/jdk....(installed java version driectory name )/jre/bin/jcontrol`
 
-## **സൈറ്റ് ജാവ സെക്യൂരിറ്റിയിൽ add ചെയുന്ന വിധം(3)**
+## Java - Adding Sites to Exceptions List**(3)**
 
 > 1.Run`sudo /usr/lib/java/jre....(installed java version_name)/bin/jcontrol `
 
