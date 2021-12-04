@@ -22,10 +22,6 @@ If the Java version appears in the terminal, then Java is successfully installed
 
 ## Java - Adding Sites to Exceptions List**(1)**
 
-{% hint style="info" %}
-ഇ ഡിസ്ട്രിക്ട് സൈറ്റ് add ചെയ്യുന്നതിന് വേണ്ടി ടെർമിനലിൽ`jcontrol `എന്ന് ടൈപ്പ് ചെയ്യുകയോ അല്ലെങ്കിൽ`/usr /lib /java /jdk /bin` എന്ന path ടെർമിനലിൽ ഓപ്പൺ ചെയുക .തുടർന്ന്`  ./ControlPanel  `എന്ന് ടൈപ്പ് ചെയ്യുക.
-{% endhint %}
-
 ```
 jcontrol
 ```
@@ -36,21 +32,11 @@ jcontrol
 cd /usr/lib/java/jdk/bin && ./ControlPanel
 ```
 
-2.തുടർന്ന് വരുന്ന വിൻഡോയിൽ നിന്ന് സെക്യൂരിറ്റി ടാബ് തിരഞ്ഞെടുക്കുക ,അതിനു ശേഷം edit site തിരഞ്ഞെടുക്കുക, [https://edistrict.kerala.gov.in/](https://edistrict.kerala.gov.in)add ചെയ്തു കൊടുക്കുക .
-
-```
-https://edistrict.kerala.gov.in/
-```
-
 
 
 ## Java - Adding Sites to Exceptions List**(2)**
 
-> 1.Run `sudo /usr/lib/java/jdk....(installed java version driectory name )/jre/bin/jcontrol`
-
-## Java - Adding Sites to Exceptions List**(3)**
-
-> 1.Run`sudo /usr/lib/java/jre....(installed java version_name)/bin/jcontrol `
+> 1.Run`sudo /usr/lib/java/jre....(installed java version_name)/bin/jcontrol`&#x20;
 
 **സൈറ്റ് ജാവ സെക്യൂരിറ്റിയിൽ add ചെയുന്ന വിധം(windows)**
 
@@ -64,6 +50,6 @@ https://edistrict.kerala.gov.in/
 sudo nautilus
 ```
 
-<mark style="color:green;">Go to</mark> <mark style="color:green;">`Computer--->Usr---->lib--->Java---->move to trash`</mark>
+<mark style="color:green;">Go to</mark> <mark style="color:green;"></mark><mark style="color:green;">`Computer--->Usr---->lib--->Java---->move to trash`</mark>
 
 ## &#x20;
