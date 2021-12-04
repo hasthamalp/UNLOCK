@@ -13,7 +13,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-The latest LTS version of Ubuntu is **Ubuntu 20.04 LTS** _“Focal Fossa”_
+_The latest LTS version of Ubuntu is_ **Ubuntu 20.04 LTS** _“Focal Fossa”_
 {% endhint %}
 
 {% hint style="info" %}
