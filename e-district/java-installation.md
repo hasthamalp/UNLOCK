@@ -38,7 +38,7 @@ cd /usr/lib/java/jdk/bin && ./ControlPanel
 
 > 1.Run`sudo /usr/lib/java/jre....(installed java version_name)/bin/jcontrol`&#x20;
 
-**സൈറ്റ് ജാവ സെക്യൂരിറ്റിയിൽ add ചെയുന്ന വിധം(windows)**
+#### Java - Adding Sites to Exceptions List**(windows)**
 
 `control Panel--->java---->security---->Edit Site List---->Add--->`[**https://edistrict.kerala.gov.in/**](https://edistrict.kerala.gov.in)--->`OK`
 
