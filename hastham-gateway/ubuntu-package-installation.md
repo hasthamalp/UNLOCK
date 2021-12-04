@@ -13,7 +13,11 @@
 {% endhint %}
 
 {% hint style="info" %}
-Ubuntu's first release, made in** 2004 October (10th month)** was **Ubuntu 4.10**
+The latest LTS version of Ubuntu is **Ubuntu 20.04 LTS** _“Focal Fossa”_
+{% endhint %}
+
+{% hint style="info" %}
+Ubuntu's first release, made in **2004 October (10th month)** was **Ubuntu 4.10**
 {% endhint %}
 
 {% hint style="info" %}
@@ -131,15 +135,15 @@ chmod +x ~/Desktop/anydesk.desktop
 
 ## Important apt Commands
 
-| _<mark style="color:purple;">**apt**</mark>_<mark style="color:purple;">** Command**</mark> | <mark style="color:purple;">**Function of the command**</mark> |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| apt install                                                                                 | Installs a package                                             |
-| apt remove                                                                                  | Removes a package                                              |
-| apt purge                                                                                   | Removes package with configuration                             |
-| apt update                                                                                  | Refreshes repository index                                     |
-| apt upgrade                                                                                 | Upgrade all upgradable packages                                |
-| apt autoremove                                                                              | Removes unwanted packages                                      |
-| apt search                                                                                  | Searches for the program                                       |
+| _<mark style="color:purple;">**apt**</mark>_<mark style="color:purple;">** **</mark><mark style="color:purple;">**Command**</mark> | <mark style="color:purple;">**Function of the command**</mark> |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| apt install                                                                                                                        | Installs a package                                             |
+| apt remove                                                                                                                         | Removes a package                                              |
+| apt purge                                                                                                                          | Removes package with configuration                             |
+| apt update                                                                                                                         | Refreshes repository index                                     |
+| apt upgrade                                                                                                                        | Upgrade all upgradable packages                                |
+| apt autoremove                                                                                                                     | Removes unwanted packages                                      |
+| apt search                                                                                                                         | Searches for the program                                       |
 
 ## USEFUL LINUX COMMANDS :grin:&#x20;
 
