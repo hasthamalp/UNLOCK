@@ -1,4 +1,4 @@
-# 12. Downloads
+# 13. Downloads
 
 
 
@@ -16,19 +16,5 @@ WorkdoneSheet
 
 {% file src=".gitbook/assets/zoomaudio.jpg" %}
 ZoomAudio
-{% endfile %}
-
-## **                                    FONTS **:writing\_hand:&#x20;
-
-{% file src=".gitbook/assets/CDAC_Siva.ttf" %}
-CDAC\_Siva
-{% endfile %}
-
-{% file src=".gitbook/assets/Meera-Regular.ttf" %}
-Meera-Regular.ttf
-{% endfile %}
-
-{% file src=".gitbook/assets/MLKR0NTT.TTF" %}
-ML-TTKarthika
 {% endfile %}
 
