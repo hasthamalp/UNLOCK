@@ -1,6 +1,6 @@
 # 6. Malayalam Typing
 
-Swathanthra Malayalam Computing (SMC) is a free software collective engaged in development, localization, standardization and popularization of various **Free and Open Source **Softwares in Malayalam language.
+Swathanthra Malayalam Computing (SMC) is a free software collective engaged in development, localization, standardization and popularization of various **Free and Open Source** Softwares in Malayalam language.
 
 {% embed url="https://smc.org.in/fonts/" %}
 
@@ -17,6 +17,10 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 ## Government And Unicode
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
+
+#### യൂണികോഡിനെ കുറിച്ച് കൂടുതൽ അറിയാൻ&#x20;
+
+{% embed url="https://home.unicode.org" %}
 
 ## ചില്ലക്ഷരങ്ങൾ
 
@@ -43,7 +47,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 ## ചില്ലക്ഷരം ലഭിക്കാന്‍ എന്ത് ചെയ്യണം?
 
 {% hint style="info" %}
-**ഗ്നു/ലിനക്സ്** ആണ് ഉപയോഗിക്കുന്നതെങ്കില്‍ **അടിസ്ഥാന അക്ഷരവും ചന്ദ്രക്കല പിന്നെ ] **ചേര്‍ന്നാല്‍ ചില്ലക്ഷരം കിട്ടും. ഉദാ: ല ് ] = ല്‍; ന ് ] = ന്‍; ര ് ] = ര്‍&#x20;
+**ഗ്നു/ലിനക്സ്** ആണ് ഉപയോഗിക്കുന്നതെങ്കില്‍ **അടിസ്ഥാന അക്ഷരവും ചന്ദ്രക്കല പിന്നെ ]** ചേര്‍ന്നാല്‍ ചില്ലക്ഷരം കിട്ടും. ഉദാ: ല ് ] = ല്‍; ന ് ] = ന്‍; ര ് ] = ര്‍&#x20;
 {% endhint %}
 
 ![](../.gitbook/assets/shortkey.JPG)
@@ -71,7 +75,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 #### Zero Width Non Joiner (ZWNJ)
 
 {% hint style="info" %}
-&#x20;**\ കീയുടെ സ്ഥാനത്താണ് zwnj. **അടുത്തുവരുന്ന രണ്ട് അക്ഷരങ്ങള്‍ യോജിപ്പിക്കെണ്ടെന്നുണ്ടെങ്കില്‍ ഇതുപയോഗിക്കാം.
+&#x20;**\ കീയുടെ സ്ഥാനത്താണ് zwnj.** അടുത്തുവരുന്ന രണ്ട് അക്ഷരങ്ങള്‍ യോജിപ്പിക്കെണ്ടെന്നുണ്ടെങ്കില്‍ ഇതുപയോഗിക്കാം.
 
 ഉദാ: സോഫ്റ്റ്​​വെയര്‍ എന്നെഴുതാന്‍ സോഫ്റ്റ് ന് ശേഷം zwnj ഇല്ലെങ്കില്‍ സോഫ്റ്റ്വെയര്‍ എന്നാകും വരുക.
 {% endhint %}
@@ -94,7 +98,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ## **Enabling Malayalam language UI in Ubuntu**
 
-Click `Setting` > `Region and Language` >`  Manage installed languages  `.
+Click `Setting` > `Region and Language` > `Manage installed languages` .
 
 ![](../.gitbook/assets/img11.JPG)
 
