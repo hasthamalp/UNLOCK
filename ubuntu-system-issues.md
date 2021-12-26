@@ -14,7 +14,7 @@
 fsck /dev/sdaX
 ```
 
-` /dev/sda1` is the first partition of first drive. X- partition
+&#x20;`/dev/sda1` is the first partition of first drive. X- partition
 
 ```
 reboot
@@ -72,7 +72,7 @@ sudo date --set="2020-01-02 23:31:5
 >
 > for Example:
 >
-> `root=hd0,msd0s7(output of `**`set`**`)this may change`
+> `root=hd0,msd0s7(output of`` `**`set`**`)this may change`
 >
 > `................................................`
 >
@@ -86,7 +86,7 @@ sudo date --set="2020-01-02 23:31:5
 >
 > #### `Then login to ubuntu update Grub`
 >
-> ` `
+> &#x20;``&#x20;
 
 ```
 sudo update-grub

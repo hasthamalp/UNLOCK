@@ -1,4 +1,4 @@
-# 2. 🔐 Digital signature
+# 3. 🔐 Digital signature
 
 ## Digital Signature Driver Software
 
@@ -99,7 +99,7 @@ Pre Prerequisites for Reset USER PIN
 
 Token must be registered either by following methods
 
-1. **PIN Mode Registration **– Validate Token User PIN (Register token at the time of purchase)
+1. **PIN Mode Registration** – Validate Token User PIN (Register token at the time of purchase)
 2. **KYC Mode Registration** – Validate Certificate KYC (Use this when token USER PIN is not know)
 3. **Manual Mode Registration** – Validate ID Proof & submit application form
 

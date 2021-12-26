@@ -8,7 +8,7 @@ sudo dpkg --purge dscsigner
 
 ## Browser configuration
 
-**Google Chrome  **
+**Google Chrome** &#x20;
 
 ```
 chrome://flags/#allow-insecure-localhost
@@ -20,7 +20,7 @@ chrome://flags/#allow-insecure-localhost
 about:preferences#privacy
 ```
 
-**Certificate section** and click on the **View Certificates** button to open the certificate manager.In the Certificate Manager popup, click on the **Authorities **tab and then click on **Import button.**Browse to DSCSigner/ssl folder and select the** **[**rootCA.crt**](https://bims.treasury.kerala.gov.in/treasury/dsc/rootCA.crt) file and click on the Open button
+**Certificate section** and click on the **View Certificates** button to open the certificate manager.In the Certificate Manager popup, click on the **Authorities** tab and then click on **Import button.**Browse to DSCSigner/ssl folder and select the **** [**rootCA.crt**](https://bims.treasury.kerala.gov.in/treasury/dsc/rootCA.crt) file and click on the Open button
 
 ![](../.gitbook/assets/crt.JPG)
 
@@ -56,7 +56,7 @@ about:preferences#privacy
 
 > :white\_check\_mark: NICDSign installed Successfully&#x20;
 
-**Enable NICDSign **
+**Enable NICDSign**&#x20;
 
 ```
 sudo mkdir /home/user/.config/autostart

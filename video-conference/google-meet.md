@@ -18,12 +18,12 @@
 
 ![](../.gitbook/assets/layout1.JPG)
 
-> Select **Tiled **option from layout
+> Select **Tiled** option from layout
 
 ![](../.gitbook/assets/layout3.jpg)
 
 > increase the tile size depending on the window size  to view more participant in screen.
 
-## How to** pin** the screen
+## How to **pin** the screen
 
 ![](../.gitbook/assets/pin1.png)

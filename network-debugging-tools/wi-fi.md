@@ -54,7 +54,7 @@ sudo depmod -a
 
 **OR TRY THIS**
 
-** recommend for HP users facing WiFi problem**
+&#x20;**recommend for HP users facing WiFi problem**
 
 ```
 sudo apt-get install linux-headers-$(uname -r) build-essential git
@@ -106,7 +106,7 @@ echo "options rtl8723de ant_sel=X" | sudo tee /etc/modprobe.d/rtl8723de.conf
 
 :signal\_strength: Reboot your PC.
 
-## &#x20;Fix no WiFi in Ubuntu with **Broadcom **wireless adapters
+## &#x20;Fix no WiFi in Ubuntu with **Broadcom** wireless adapters
 
 {% hint style="info" %}
 This method is exclusively for Broadcom 43 series of wireless adapters. So make sure that you have these adapters by using this command:

@@ -14,7 +14,7 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 about:config
 ```
 
-> _**`about:config `****-> ****`accept `****-> ****`add new`****->****`  boolean  `****-> ****`plugin.load_flash_only `****-> ****`false`****-> ****`ok `**_
+> _**`about:config` -> `accept` -> `add new`-> `boolean` -> `plugin.load_flash_only` -> `false`-> `ok`**_&#x20;
 
 
 
@@ -66,11 +66,11 @@ sudo synaptic
 
 ![](../.gitbook/assets/image8.JPG)
 
-> 9\. **Click Apply **on top center, then the following window appears.** Click Apply.**
+> 9\. **Click Apply** on top center, then the following window appears. **Click Apply.**
 
 ![](../.gitbook/assets/image9.JPG)
 
-> 10\. The older version of firefox will be downloaded and installed by itself. Please wait until it’s done. After it’s Completed, again select firefox and go to `Package>Lock Version` to** lock the version of `Firefox to 45.0.2`**. Also run `sudo apt-mark hold firefox` in terminal to ensure the package firefox is locked from further updation.
+> 10\. The older version of firefox will be downloaded and installed by itself. Please wait until it’s done. After it’s Completed, again select firefox and go to `Package>Lock Version` to **lock the version of `Firefox to 45.0.2`**. Also run `sudo apt-mark hold firefox` in terminal to ensure the package firefox is locked from further updation.
 
 ```
  sudo apt-mark hold firefox
