@@ -28,6 +28,7 @@
   * [e-0ffice Issues](4.software-issues/e-0ffice-issues.md)
   * [RR Online](4.software-issues/rr-online.md)
   * [CMO](4.software-issues/cmo.md)
+  * [DSC Issues](4.software-issues/dsc-issues.md)
   * [NICDSign Issues](4.software-issues/nicdsign-issues.md)
 * [5. Issues and Solutions](ubuntu-system-issues.md)
 * [6. Malayalam Typing](malayalam-font/README.md)
