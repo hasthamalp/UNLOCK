@@ -10,6 +10,8 @@ For **epass,** select `custom`---> Then click on the `browse file` below. ** `C:
 
 &#x20; **Just save to Proxkey.**
 
-* When you save it you will be asked to re-insert the token and when it is done the dsc token and signer will be set up.
-
 ![](../.gitbook/assets/epass.jpg)
+
+{% hint style="success" %}
+When you save it you will be asked to re-insert the token. When done, the dsc token and signer are ready.
+{% endhint %}
