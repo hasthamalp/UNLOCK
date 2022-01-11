@@ -1,6 +1,6 @@
 # DSC Issues
 
-### Add DSC token driver in NICDSign(for BIMS/SPARK)
+### Add DSC token driver(ePass) in NICDSign(for BIMS/SPARK)
 
 Right-click on the Rubix cube and select Settings and select the correct dsc token `(proxkey / epass )`
 
@@ -14,4 +14,18 @@ For **epass,** select `custom`---> Then click on the `browse file` below. ** `C:
 
 {% hint style="success" %}
 When you save it you will be asked to re-insert the token. When done, the dsc token and signer are ready.
+{% endhint %}
+
+## Proxkey Library Implementation Process
+
+#### select your PKCS#11 Implementation library in **Linux**
+
+{% hint style="info" %}
+`usr--->lib--->watchData--->Proxkey--->lib-->libwdpkcs_SignatureP11.so`
+{% endhint %}
+
+#### select your PKCS#11 Implementation library in Windows
+
+{% hint style="info" %}
+for winows
 {% endhint %}
