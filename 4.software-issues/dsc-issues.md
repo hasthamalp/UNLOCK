@@ -27,7 +27,7 @@ When you save it you will be asked to re-insert the token. When done, the dsc to
 #### select your PKCS#11 Implementation library in Windows
 
 {% hint style="info" %}
-for windows the file will be in **Winows\SysWOW64** or **WINDOWS\system32**
+for windows the file will be in  **C:\\\windows\system32**
 
 **------>SignatureP11.dll**
 {% endhint %}
