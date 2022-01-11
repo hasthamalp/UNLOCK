@@ -2,7 +2,7 @@
 
 ### Add DSC token driver in NICDSign(for BIMS/SPARK)
 
-Right-click on the Rubix cube and select Settings and select the correct dsc token (proxkey / epass - if epass is the custom token)
+Right-click on the Rubix cube and select Settings and select the correct dsc token `(proxkey / epass )`
 
 {% hint style="info" %}
 For **epass,** select `custom`---> Then click on the `browse file` below. ** `C: \ Windows \ System32 \eps2003csp11V2.dll`** and **save**
