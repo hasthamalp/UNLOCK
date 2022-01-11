@@ -5,7 +5,7 @@
 Right-click on the Rubix cube and select Settings and select the correct dsc token `(proxkey / epass )`
 
 {% hint style="info" %}
-For **epass,** select `custom`---> Then click on the `browse file` below. ** `C: \ Windows \ System32 \eps2003csp11V2.dll`** and **save**
+For **epass,** select `custom`---> Then click on the `browse file` below. ** `C: \ Windows \ System32 \eps2003csp11.dll`** and **save**
 {% endhint %}
 
 &#x20; **Just save to Proxkey.**
