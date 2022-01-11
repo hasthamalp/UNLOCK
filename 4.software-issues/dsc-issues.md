@@ -31,3 +31,5 @@ for windows the file will be in **Winows\SysWOW64** or **WINDOWS\system32**
 
 **------>SignatureP11.dll**
 {% endhint %}
+
+![2nd column represent library file for windows and 3rd column indicate library file for Linux](../.gitbook/assets/IMG-20210714-WA0009.jpg)
