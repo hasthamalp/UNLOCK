@@ -32,4 +32,4 @@ for windows the file will be in  **C:\\\windows\system32**
 **------>SignatureP11.dll**
 {% endhint %}
 
-![2nd column represent library file for windows and 3rd column indicate library file for Linux](../.gitbook/assets/IMG-20210714-WA0009.jpg)
+![](../.gitbook/assets/IMG\_20220112\_142152\_mfnr.jpg)
