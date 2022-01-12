@@ -18,16 +18,16 @@ When you save it you will be asked to re-insert the token. When done, the dsc to
 
 ## Proxkey Library Implementation Process
 
-#### select your PKCS#11 Implementation library in **Linux**
+#### select your PKCS#11 Implementation library in <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**Linux**</mark>
 
 {% hint style="info" %}
 `usr--->lib--->watchData--->Proxkey--->lib-->libwdpkcs_SignatureP11.so`
 {% endhint %}
 
-#### select your PKCS#11 Implementation library in Windows
+#### select your PKCS#11 Implementation library in <mark style="background-color:blue;">Windows</mark>
 
 {% hint style="info" %}
-for windows the file will be in  **C:\\\windows\system32**
+for windows the file will be in  **C:\windows\system32**
 
 **------>SignatureP11.dll**
 {% endhint %}
