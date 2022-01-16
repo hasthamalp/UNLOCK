@@ -40,13 +40,13 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ## **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
-| <mark style="color:blue;">**ചില്ലക്ഷരം**</mark> | <mark style="color:blue;">**Short Key**</mark> |  ** **<mark style="color:blue;">**Key**</mark> |
-| ----------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| **ൾ**                                           | **SHIFT+8**                                    | **N+d+Ctrl+Shift+1**                           |
-| **ർ**                                           | **]**                                          | **j+d+Ctrl+Shift+1**                           |
-| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**t**+1**                       |
-| **ൺ**                                           | **SHIFT+x**                                    | **C+d+Ctrl+Shift+1**                           |
-| **ൽ**                                           | **SHIFT+ .(dot)**                              | **n+d+Ctrl+Shift+1**                           |
+| <mark style="color:blue;">**ചില്ലക്ഷരം**</mark> | <mark style="color:blue;">**Short Key**</mark> | <mark style="color:blue;">**Inscript**</mark>**  **<mark style="color:blue;">**Key**</mark> |
+| ----------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **ൾ**                                           | **SHIFT+8**                                    | **N+d+Ctrl+Shift+1**                                                                        |
+| **ർ**                                           | **]**                                          | **j+d+Ctrl+Shift+1**                                                                        |
+| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**t**+1**                                                                    |
+| **ൺ**                                           | **SHIFT+x**                                    | **C+d+Ctrl+Shift+1**                                                                        |
+| **ൽ**                                           | **SHIFT+ .(dot)**                              | **n+d+Ctrl+Shift+1**                                                                        |
 
 ## ചില്ലക്ഷരം ലഭിക്കാന്‍ എന്ത് ചെയ്യണം?
 
