@@ -30,11 +30,11 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 | <mark style="color:blue;">**ചില്ലക്ഷരങ്ങൾ**</mark> | <mark style="color:blue;">**Inscript key**</mark> |
 | -------------------------------------------------- | ------------------------------------------------- |
-| **ൻ**                                              | **v + d+ ]**                                      |
-| **ൺ**                                              | **C + d+ ]**                                      |
-| **ൾ**                                              | **N +d + ]**                                      |
-| **ൽ**                                              | **n + d + ]**                                     |
-| **ർ**                                              | **j + d + ]**                                     |
+| **ൾ**                                              | **N+d+Ctrl+]**                                    |
+| **ർ**                                              | **j+d+]**                                         |
+| **ൻ**                                              | **v+d+Ctrl+]**                                    |
+| **ൺ**                                              | **C+d+]**                                         |
+| **ൽ**                                              | **n+d+]**                                         |
 
 ![](../.gitbook/assets/windows.png)
 
