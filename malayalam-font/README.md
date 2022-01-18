@@ -38,6 +38,10 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 
 
+## Malayalam INSCRIPT keyboard layout in Windows
+
+![](../.gitbook/assets/windows.png)
+
 ## **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
 | <mark style="color:blue;">**ചില്ലക്ഷരം**</mark> | <mark style="color:blue;">**Short Key**</mark> | <mark style="color:blue;">**Inscript**</mark>**  **<mark style="color:blue;">**Key**</mark> |
