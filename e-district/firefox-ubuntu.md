@@ -8,6 +8,8 @@ description: ഉബുണ്ടു സിസ്റ്റത്തിൽ firefox 
 
 ![](../.gitbook/assets/application\_application\_firefox\_browser\_mozzila\_970.png)
 
+_The latest Firefox  version  is_ <mark style="background-color:green;">**96.0.2**</mark>
+
 ## Enable java plugin in firefox 53.0 version
 
 ```
