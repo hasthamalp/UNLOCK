@@ -51,3 +51,9 @@
 ![](../.gitbook/assets/LENOVO.png)
 
 [Lenovo Complaint Booking](https://pcsupport.lenovo.com/in/en/)
+
+## RICOH Printer
+
+![](https://www.dpreview.com/files/p/articles/2041805851/ricoh\_sm.jpeg)
+
+[RICOH Printer Complaint](https://support.minosha.in/WebCallLogging/LogCall)
