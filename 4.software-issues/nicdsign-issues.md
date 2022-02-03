@@ -79,3 +79,7 @@ cd /home/user/.config/autostart
 ```
 ls
 ```
+
+{% hint style="info" %}
+if you can  find DSCService.desktop  in \~/.config/autostart all set
+{% endhint %}
