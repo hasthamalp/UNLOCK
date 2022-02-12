@@ -4,7 +4,7 @@
 &#x20;**Wifi Network not appearing in Ubuntu \[HP]**
 {% endhint %}
 
-![](../.gitbook/assets/15178-women-no-internet-wifi-off-data-off.gif)
+![](../.gitbook/assets/75267-no-wifi.gif)
 
 Solution
 
