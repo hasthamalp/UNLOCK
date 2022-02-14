@@ -82,7 +82,7 @@ sudo synaptic
 successfully downgrade firefox on your system
 {% endhint %}
 
-## Upgrade Firefox in Ubuntu
+## Upgrade Firefox on Ubuntu
 
 ```
 sudo apt-get update
@@ -90,4 +90,10 @@ sudo apt-get update
 
 ```
 sudo apt-get install --only-upgrade firefox
+```
+
+## Uninstall firefox on Ubuntu
+
+```
+sudo apt-get purge firefox
 ```
