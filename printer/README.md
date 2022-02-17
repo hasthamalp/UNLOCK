@@ -40,6 +40,8 @@ sudo service cups-browsed stop
 
 ## &#x20;HPLIP Driver Installation Process
 
+> **my HP printer supported by HPLIP please** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported\_devices/index?language=es)****
+
 1.First, download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 
 2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
