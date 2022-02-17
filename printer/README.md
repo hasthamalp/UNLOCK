@@ -81,4 +81,16 @@ The installation procedure will check for missing ask if older versions of the H
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
 
+## Is HPLIP currently installed?
+
+```
+dpkg -l hplip
+```
+
+![](../.gitbook/assets/hplip.JPG)
+
+{% hint style="info" %}
+If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
+{% endhint %}
+
 {% embed url="https://openprinting.org/printers" %}
