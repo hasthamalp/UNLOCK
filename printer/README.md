@@ -83,9 +83,15 @@ The installation procedure will check for missing ask if older versions of the H
 
 ## Is HPLIP currently installed?
 
+**Debian package based distributions (Debian, Ubuntu, Mepis, etc):**
+
+Run in a terminal window:
+
 ```
 dpkg -l hplip
 ```
+
+You may see something that looks like this:
 
 ![](../.gitbook/assets/hplip.JPG)
 
