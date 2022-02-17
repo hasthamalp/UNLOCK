@@ -99,4 +99,12 @@ You may see something that looks like this:
 If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
 {% endhint %}
 
+try below method for hplip installation for special situvations
+
+latest [HPLIP versions](https://developers.hp.com/hp-linux-imaging-and-printing/plugins)
+
+```
+sh hplip-3.21.2-plugin.run
+```
+
 {% embed url="https://openprinting.org/printers" %}
