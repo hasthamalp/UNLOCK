@@ -48,6 +48,10 @@ Ubuntu:
 sudo apt-get install lsb
 ```
 
+## **Canon Printer Drivers**
+
+[Download **Canon** Drivers and Softwares](https://in.canon/en/support/)
+
 ## &#x20;HPLIP Driver Installation Process
 
 > **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported\_devices/index?language=es)**]**
