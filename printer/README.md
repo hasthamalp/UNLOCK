@@ -1,9 +1,5 @@
 # 7. Printer
 
-![](../.gitbook/assets/753-printer.gif)
-
-##
-
 ## Identify installed printers in  system
 
 ```
