@@ -101,12 +101,12 @@ If you see "ii" in the first column before "hplip", then HPLIP is already instal
 
 Try below method for HP Scanner plugin issues. first install HPLIP latest version on system and try following steps.
 
-Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website:
+Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
 
 Run this command to Install Plugin:
 
 ```
-sh hplip-3.21.2-plugin.run
+sh hplip-3.21.12-plugin.run
 ```
 
 {% hint style="success" %}
