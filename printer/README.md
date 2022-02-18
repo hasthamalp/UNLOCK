@@ -97,7 +97,7 @@ You may see something that looks like this:
 If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
 {% endhint %}
 
-Try below method for <mark style="background-color:green;">HP Scanner plugin issues</mark>. first install HPLIP latest version on system and try following steps.
+Try below method for <mark style="background-color:green;">HP Scanner plugin issues</mark>. first _install HPLIP latest version_ on system and try following steps.
 
 Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
 
