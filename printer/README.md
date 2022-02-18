@@ -36,6 +36,18 @@ sudo service cups-browsed stop
 >
 > 5\. Click `Apply` to finish
 
+## **EPSON Printer Driver**
+
+[Download Epson drivers and Software](http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX)
+
+In order to install these drivers, you need to install LSB package (version 3.2 or later) beforehand.
+
+Ubuntu:
+
+```
+sudo apt-get install lsb
+```
+
 ## &#x20;HPLIP Driver Installation Process
 
 > **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported\_devices/index?language=es)**]**
