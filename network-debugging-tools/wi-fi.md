@@ -12,6 +12,12 @@ Solution
 sudo apt-get install bcmwl-kernel-source 
 ```
 
+#### Command to check  network driver installed on your system
+
+```
+lspci | grep Network
+```
+
 ## WiFi not working in HP laptop RTL8723DE Realtek wireless driver
 
 {% hint style="info" %}
