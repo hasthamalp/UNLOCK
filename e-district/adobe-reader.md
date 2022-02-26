@@ -1,4 +1,4 @@
-# PDF\[Portable Document Format]
+# PDF
 
 ![](../.gitbook/assets/adobe\_reader\_vertical.png)
 
@@ -60,7 +60,7 @@ sudo gedit /usr/share/applications/AdobeReader.desktop
 **Edit the Exec=acroread line to be Exec=acroread %f and save the file.**
 {% endhint %}
 
-## Signature Validation
+## Signature Validation (Old Method)
 
 ![](../.gitbook/assets/sig1.JPG)
 
@@ -85,13 +85,37 @@ sudo gedit /usr/share/applications/AdobeReader.desktop
 * [x] In Acrobat or Reader, click `Edit` > `Preferences`.
 * [x] From the `Preferences` dialog box, select `Security` on the left.
 * [x] Click `Advanced Preferences`, and then click the `Verification tab`.
-* [x] Select Verify Signature using` 'The Current time'`
+* [x] Select Verify Signature using `'The Current time'`
 
 ![](../.gitbook/assets/IMG-20210408-WA0010.jpg)
 
 {% hint style="success" %}
 Restart the Adobe reader and validate the signature
 {% endhint %}
+
+### Display of Valid Signature in previous version of Digital Signature:
+
+![](../.gitbook/assets/sign.JPG)
+
+### Display of Valid Signature in Current Version of Digital Signature:
+
+![](../.gitbook/assets/sign2.JPG)
+
+### How to verify signature in current scenario:
+
+{% hint style="info" %}
+After opening the pdf file, click on Signature Panel located at upper right corner of adobe reader. A window will open on left side of document, where all information regarding signature validation is displayed along with the signature details. In case of Valid signature, Green Check will be shown at upper left corner of adobe reader and also inside signature panel itself
+{% endhint %}
+
+![](../.gitbook/assets/SIGN4.JPG)
+
+{% hint style="info" %}
+In case of Invalid Signature, Red Cross sign is displayed at upper left corner of adobe reader and inside signature panel itself,
+{% endhint %}
+
+![](../.gitbook/assets/sign5.JPG)
+
+##
 
 ## OPEN SOURCE  DOCUMENT VIEWER
 
