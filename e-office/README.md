@@ -1,6 +1,20 @@
-# 2. e-Office
+# 2. e-Office(eFile 7.2.0)
 
 ![](../.gitbook/assets/eoffice.png)
+
+## Installation Guidelines for Ubuntu OS
+
+{% hint style="info" %}
+Locate the **Digital\_Signer\_Service-\*\*\*.sh** file from the downloaded bundle (**Digital Signer Service \*.\*.\*** Ubuntu Installer folder,
+{% endhint %}
+
+![](../.gitbook/assets/eoffice1.JPG)
+
+Go to the downloaded location of **Digital\_Signer\_Service-\*.\*.\*.sh** file and open the terminal.
+
+```
+sudo bash Digital_Signer_Service-6.1.2.sh
+```
 
 ## VPN SETUP&#x20;
 
