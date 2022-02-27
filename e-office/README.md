@@ -13,7 +13,7 @@ Locate the **Digital\_Signer\_Service-\*\*\*.sh** file from the downloaded bundl
 Go to the downloaded location of **Digital\_Signer\_Service-\*.\*.\*.sh** file and open the terminal.
 
 ```
-sudo bash Digital_Signer_Service-6.1.2.sh
+sudo bash Digital_Signer_Service-6.1.3.sh
 ```
 
 ## VPN SETUP&#x20;
