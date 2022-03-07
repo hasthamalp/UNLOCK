@@ -20,7 +20,7 @@ java -version
 If the Java version appears in the terminal, then Java is successfully installed on your system.
 {% endhint %}
 
-## Java - Adding Sites to Exceptions List**(1)**
+## Java - Adding Sites to Exceptions List
 
 ```
 jcontrol
@@ -31,12 +31,6 @@ jcontrol
 ```
 cd /usr/lib/java/jdk/bin && ./ControlPanel
 ```
-
-
-
-## Java - Adding Sites to Exceptions List**(2)**
-
-> 1.Run`sudo /usr/lib/java/jre....(installed java version_name)/bin/jcontrol`&#x20;
 
 #### Java - Adding Sites to Exceptions List**(windows)**
 
