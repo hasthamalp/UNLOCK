@@ -23,7 +23,7 @@
   * [NICD Sign-Ubuntu-Manual](digital-signature/nicd-sign-ubuntu-manual.md)
   * [NICD Sign-Windows-Manual](digital-signature/nicd-sign-windows-manual.md)
 * [4.Software Issues](4.software-issues/README.md)
-  * [Untitled](4.software-issues/e-district-issues.md)
+  * [e-District Issues](4.software-issues/e-district-issues.md)
   * [e-0ffice Issues](4.software-issues/e-0ffice-issues.md)
   * [🏝 RELIS](4.software-issues/relis.md)
   * [💰 RR Online](4.software-issues/rr-online.md)
