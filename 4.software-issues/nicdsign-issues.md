@@ -58,7 +58,7 @@ about:preferences#privacy
 
 **Enable NICDSign**&#x20;
 
-![](../.gitbook/assets/IMG-20211001-WA0006.jpg)
+![Courtsey:HSE](../.gitbook/assets/IMG-20211001-WA0006.jpg)
 
 ```
 sudo mkdir /home/user/.config/autostart
