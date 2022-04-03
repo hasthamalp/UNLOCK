@@ -1,7 +1,3 @@
----
-description: ജാവ സിമ്പിൾ ആണ്,പവർഫുൾ
----
-
 # Java
 
 ![](../.gitbook/assets/java\_original\_logo\_icon\_146458.png)
