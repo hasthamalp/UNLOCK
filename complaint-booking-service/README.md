@@ -57,3 +57,9 @@
 ![](https://www.dpreview.com/files/p/articles/2041805851/ricoh\_sm.jpeg)
 
 [RICOH Printer Complaint](https://support.minosha.in/WebCallLogging/LogCall)
+
+## EPSON Printer
+
+![](https://logos-world.net/wp-content/uploads/2020/12/Epson-Logo.png)
+
+[EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
