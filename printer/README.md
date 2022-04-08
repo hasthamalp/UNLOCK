@@ -97,12 +97,4 @@ You may see something that looks like this:
 If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
 {% endhint %}
 
-
-
-
-
-{% hint style="success" %}
-That fixed the Scanner issue.Now you able to scan without any issues.:smile:
-{% endhint %}
-
 {% embed url="https://openprinting.org/printers" %}
