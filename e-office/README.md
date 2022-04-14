@@ -16,27 +16,17 @@ Go to the downloaded location of **Digital\_Signer\_Service-\*.\*.\*.sh** file a
 sudo bash Digital_Signer_Service-6.1.3.sh
 ```
 
-## VPN SETUP&#x20;
+## VPN SETUP
 
-Use this address to get VPN & eoffice access through public network
+1\)Using SSL Client software Accops(Should be installed on the machine/mobile)&#x20;
 
-```
-https://vpn.kerala.gov.in:10443/
-```
+&#x20;                                             OR
 
-&#x20;                                           OR
+2\)Use this address to get VPN & eoffice access through public network.\[**Recommend only if client software not working properly]**
 
 ```
-https://103.251.43.4:10443/
+https://evpn.kerala.gov.in/
 ```
-
-### For Ubuntu
-
-{% embed url="https://hadler.me/linux/forticlient-sslvpn-deb-packages/" %}
-
-## For Windows
-
-{% embed url="https://links.fortinet.com/forticlient/win/vpnagent" %}
 
 ## VPN RESET
 
