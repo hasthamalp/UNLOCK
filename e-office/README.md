@@ -38,6 +38,10 @@ https://evpn.kerala.gov.in/
 https://vpnreset.kerala.gov.in/
 ```
 
+## Eoffice/Email Password Reset
 
+```
+https://passapp.email.gov.in/passapp/
+```
 
 ![](<../.gitbook/assets/29105-work-in-progress (1).gif>)
