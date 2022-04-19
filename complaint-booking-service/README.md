@@ -63,3 +63,5 @@
 ![](https://logos-world.net/wp-content/uploads/2020/12/Epson-Logo.png)
 
 [EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
+
+[EPSON Warranty Check](https://customer.epson.co.in/customer/ewarranty.do#/wry/IN)
