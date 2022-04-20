@@ -2,20 +2,6 @@
 
 ![](../.gitbook/assets/java\_original\_logo\_icon\_146458.png)
 
-
-
-Type this code into the terminal to confirm that Java is installed.
-
-```
-java -version
-```
-
-![](../.gitbook/assets/java.JPG)
-
-{% hint style="success" %}
-If the Java version appears in the terminal, then Java is successfully installed on your system.
-{% endhint %}
-
 ## Java - Adding Sites to Exceptions List
 
 ```
