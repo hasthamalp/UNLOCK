@@ -10,7 +10,7 @@
 
 ***
 
-* [1.e-District](e-district/README.md)
+* [1.eDistrict V2](e-district/README.md)
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java](e-district/java-installation.md)
   * [PDF](e-district/adobe-reader.md)
