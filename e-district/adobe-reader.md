@@ -60,26 +60,6 @@ sudo gedit /usr/share/applications/AdobeReader.desktop
 **Edit the Exec=acroread line to be Exec=acroread %f and save the file.**
 {% endhint %}
 
-## Signature Validation (Old Method)
-
-![](../.gitbook/assets/sig1.JPG)
-
-![](../.gitbook/assets/sig2.JPG)
-
-![](../.gitbook/assets/sig3.JPG)
-
-![](../.gitbook/assets/sig4.JPG)
-
-![](../.gitbook/assets/sig5.JPG)
-
-![](../.gitbook/assets/sig6.JPG)
-
-![](../.gitbook/assets/sig7.JPG)
-
-{% hint style="success" %}
-**Signature Validation Completed !**
-{% endhint %}
-
 ## Can't validate signature on PDF \[SSL Error]
 
 * [x] In Acrobat or Reader, click `Edit` > `Preferences`.
@@ -101,7 +81,7 @@ Restart the Adobe reader and validate the signature
 
 ![](../.gitbook/assets/sign2.JPG)
 
-### How to verify signature in current scenario:
+### Digital Signature Validation:
 
 {% hint style="info" %}
 After opening the pdf file, click on Signature Panel located at upper right corner of adobe reader. A window will open on left side of document, where all information regarding signature validation is displayed along with the signature details. In case of Valid signature, Green Check will be shown at upper left corner of adobe reader and also inside signature panel itself
