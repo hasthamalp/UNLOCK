@@ -16,7 +16,6 @@
   * [PDF](e-district/adobe-reader.md)
   * [Share](e-district/share.md)
 * [2. e-Office(eFile 7.2.0)](e-office/README.md)
-  * [KAVACH](e-office/kavach.md)
   * [e-office guide](e-office/e-office-guide.md)
 * [3. 🔐 Digital signature](digital-signature.md)
 * [4.Software Issues](4.software-issues/README.md)
