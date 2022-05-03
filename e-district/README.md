@@ -1,3 +1,4 @@
 # 1.eDistrict Version 2.0
 
-![](../.gitbook/assets/edist2.0.JPG)
+![eDistrict Version 2.0 Officially Launched](../.gitbook/assets/edist2.0.JPG)
+
