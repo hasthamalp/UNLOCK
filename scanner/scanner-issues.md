@@ -1,6 +1,6 @@
 # Scanner Issues
 
-Try below method for <mark style="background-color:green;">HP Scanner plugin issues</mark>. first _install HPLIP latest version_ on system and try following steps.
+Try below method for <mark style="background-color:green;">HP  plugin issues</mark>. first _install HPLIP latest version_ on system and try following steps.
 
 Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
 
