@@ -13,7 +13,7 @@ description: How to install fonts on Ubuntu
 
 
 
-Home ഫോൾഡറിനുള്ളിൽ _**.fonts**_ എന്ന Folder ഉണ്ടോയെന്നു നോക്കുക ഉണ്ടെങ്കിൽ ഇൻസ്റ്റാൾ ചെയ്ത fonts  അതിൽ paste ചെയുക, ഇല്ലെങ്കിൽ Home ഫോൾഡറിനുള്ളിൽ _**.fonts**_ എന്ന Folder create ചെയുക
+Make sure that the _**.fonts**_ folder is inside the Home folder, then paste the installed fonts into it, or create a _**.fonts**_ folder inside the Home folder.
 
 > Go to HOME Folder
 
