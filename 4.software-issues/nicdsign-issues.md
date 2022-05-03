@@ -3,7 +3,7 @@
 ## How to Uninstall Previous Version of NICDSign
 
 ```
-sudo dpkg --purge dscsigner
+sudo apt purge nicdsign
 ```
 
 ## Browser configuration
