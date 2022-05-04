@@ -33,6 +33,10 @@ ln -s /opt/firefox/firefox /usr/local/bin/firefox
 wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
 ```
 
+{% hint style="success" %}
+Latest Version Firefox Installed on your system Successfully.
+{% endhint %}
+
 ## Upgrade Firefox on Ubuntu
 
 ```
