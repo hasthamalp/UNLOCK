@@ -4,7 +4,7 @@
 
 ![](https://www.mozilla.org/media/img/firefox/template/page-image-master.1b6efe3d5631.jpg)
 
-_The latest Firefox  version  is_ <mark style="background-color:green;">**99**</mark>
+_The latest Firefox  version  is_ <mark style="color:blue;background-color:blue;">100</mark>
 
 ## Firefox Installation
 
@@ -34,7 +34,7 @@ wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linu
 ```
 
 {% hint style="success" %}
-Latest Version Firefox Installed on your system Successfully.
+Latest Version of Firefox Installed on your system Successfully.
 {% endhint %}
 
 ## Upgrade Firefox on Ubuntu
