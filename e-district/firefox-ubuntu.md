@@ -4,7 +4,7 @@
 
 ![](https://www.mozilla.org/media/img/firefox/template/page-image-master.1b6efe3d5631.jpg)
 
-_The latest Firefox  version  is_ <mark style="color:blue;background-color:blue;">100</mark>
+_The latest Firefox  version  is_ <mark style="color:blue;background-color:blue;">100.1</mark>
 
 ## Firefox Installation
 
