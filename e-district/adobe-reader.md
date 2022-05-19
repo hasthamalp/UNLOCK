@@ -96,10 +96,3 @@ In case of Invalid Signature, Red Cross sign is displayed at upper left corner o
 ![](../.gitbook/assets/sign5.JPG)
 
 ##
-
-## OPEN SOURCE  DOCUMENT VIEWER
-
-1. Okular
-2. SumatraPDF
-3. Libreoffice
-4. Evince
