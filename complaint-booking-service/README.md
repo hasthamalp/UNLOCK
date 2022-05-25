@@ -65,3 +65,7 @@
 [EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
 
 [EPSON Warranty Check](https://customer.epson.co.in/customer/ewarranty.do#/wry/IN)
+
+
+
+[Fingers Complaint  Registration](https://www.fingers.co.in/contact-us-customer-care)
