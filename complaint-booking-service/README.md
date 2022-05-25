@@ -60,6 +60,4 @@
 
 ### Fingers
 
-![](https://companycontactinformation.com/wp-content/uploads/2020/10/Fingers-Logo-1.jpg)
-
 [Fingers Complaint  Registration](https://www.fingers.co.in/contact-us-customer-care)
