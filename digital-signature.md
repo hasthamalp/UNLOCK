@@ -5,7 +5,12 @@
 {% hint style="info" %}
 * DSC Token Driver(NICDSign)
 * TRUSTKEY
-* PROXKey
+* PROXKey:
+
+&#x20;                    I)Proxkey PRO
+
+&#x20;                    II)Capricorn
+
 * ePass
 {% endhint %}
 
@@ -109,38 +114,38 @@ Token must be registered either by following methods
 2. Locate “WD ProxKey” Icon on the desktop and double click on it to open the Token Management Utility
 3. Token middle ware interface will open
 
-![](../.gitbook/assets/pk1.JPG)
+![](.gitbook/assets/pk1.JPG)
 
 4.Press `Ctrl + Alt + W` to see the Admin menu & click on ‘Unlock User PIN’. You will require to generate an ‘AUTHENTICATION KEY’ . Click on ‘GENERATE
 
-![](../.gitbook/assets/pk3.JPG)
+![](.gitbook/assets/pk3.JPG)
 
 You will get a prompt. DO NOT DISCONNECT TOKEN till authentication key is generated. Click on OK
 
-![](../.gitbook/assets/pk4.JPG)
+![](.gitbook/assets/pk4.JPG)
 
 You will be redirected to website to Authenticate using OTP on mobile number used while Token Registration. Enter the OTP received on mobile and click on ‘VERIFY OTP
 
-![](../.gitbook/assets/pk5.JPG)
+![](.gitbook/assets/pk5.JPG)
 
 You will be displayed your SERIAL NUMBER, AUTHENTICATION KEY & DEFAULT ADMIN PIN. Copy the AUTHENTICATION KEY
 
-![](../.gitbook/assets/pk6.JPG)
+![](.gitbook/assets/pk6.JPG)
 
 Paste the key in the token middleware and click on Unlock
 
-![](../.gitbook/assets/pk7.JPG)
+![](.gitbook/assets/pk7.JPG)
 
 Enter the default admin pin of the token or use your changed admin pin (In case you have changed your admin pin)
 
-![](../.gitbook/assets/pk8.JPG)
+![](.gitbook/assets/pk8.JPG)
 
 RESET OF USER PIN is successful
 
-![](../.gitbook/assets/pk9.JPG)
+![](.gitbook/assets/pk9.JPG)
 
 Enter your new USER PIN and click OK
 
-![](../.gitbook/assets/pk10.JPG)
+![](.gitbook/assets/pk10.JPG)
 
-![](../.gitbook/assets/pk11.JPG)
+![](.gitbook/assets/pk11.JPG)
