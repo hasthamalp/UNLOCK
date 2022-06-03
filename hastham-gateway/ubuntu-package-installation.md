@@ -37,12 +37,6 @@ Software installation
 sudo apt install <package_name>
 ```
 
-> Example:To install mplayer
-
-```bash
-sudo apt install mplayer
-```
-
 ## Install \*.deb Packages in Ubuntu
 
 ****
@@ -69,7 +63,7 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
-#### Install compression library - minizip development files
+#### Install compression Library - Minizip development files
 
 ```
 sudo apt-get update -y
