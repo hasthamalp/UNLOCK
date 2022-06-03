@@ -69,6 +69,16 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
+#### Install compression library - minizip development files
+
+```
+sudo apt-get update -y
+```
+
+```
+sudo apt-get install -y libminizip-dev
+```
+
 ## Uninstall Packages in Ubuntu
 
 ```
