@@ -52,7 +52,7 @@
 
 ## EPSON Printer
 
-![](https://logos-world.net/wp-content/uploads/2020/12/Epson-Logo.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOP5wml5YpUgvGrvpqY7kG0BmF2\_eggs4O36FSa4ycbZRpG0RVYt1IIi0ZPhFgOrpc-bM\&usqp=CAU)
 
 [EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
 
