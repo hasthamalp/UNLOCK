@@ -20,4 +20,4 @@ That fixed the Scanner issue.Now you able to scan without any issues.:smile:
 sudo apt-get install libqt5gui5
 ```
 
-Its working :smile:
+Restart your system and try to scan Its working :smile:
