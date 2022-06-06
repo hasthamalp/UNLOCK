@@ -46,7 +46,7 @@
 
 ## RICOH Printer
 
-![](https://www.dpreview.com/files/p/articles/2041805851/ricoh\_sm.jpeg)
+![](https://e7.pngegg.com/pngimages/660/950/png-clipart-logo-ricoh-printer-office-automation-copier-printer-computer-network-electronics.png)
 
 [RICOH Printer Complaint](https://support.minosha.in/WebCallLogging/LogCall)
 
