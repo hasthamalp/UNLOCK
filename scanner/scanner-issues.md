@@ -13,3 +13,9 @@ sh hplip-3.21.12-plugin.run
 {% hint style="success" %}
 That fixed the Scanner issue.Now you able to scan without any issues.:smile:
 {% endhint %}
+
+### Epson WorkForce DS-530II Scanner Package Missing Issue
+
+```
+sudo apt-get install libqt5gui5
+```
