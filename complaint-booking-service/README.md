@@ -60,4 +60,6 @@
 
 ### Fingers
 
+![](https://eoto.tech/wp-content/uploads/2019/06/Fingers-Digital-Accessories-1200x497.png)
+
 [Fingers Complaint  Registration](https://www.fingers.co.in/contact-us-customer-care)
