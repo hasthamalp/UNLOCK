@@ -8,30 +8,35 @@ _The latest Firefox  version  is_ <mark style="color:blue;background-color:blue;
 
 ## Firefox Installation
 
-1. Download Firefox
-2. Extract the contents of the downloaded file by typing:
+<details>
+
+<summary>Download Firefox</summary>
+
+1.Extract the contents of the downloaded file by typing:
 
 ```
 tar xjf firefox-*.tar.bz2
 ```
 
-3\. Move the uncompressed Firefox folder to /opt:
+2.Move the uncompressed Firefox folder to /opt:
 
 ```
 mv firefox /opt
 ```
 
-4\. Create a symlink to the Firefox executable:
+3.Create a symlink to the Firefox executable:
 
 ```
 ln -s /opt/firefox/firefox /usr/local/bin/firefox
 ```
 
-5\. Download a copy of the desktop file:
+4\. Download a copy of the desktop file:
 
 ```
 wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
 ```
+
+</details>
 
 {% hint style="success" %}
 Latest Version of Firefox Installed on your system Successfully.
