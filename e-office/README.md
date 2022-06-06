@@ -32,7 +32,7 @@ https://evpn.kerala.gov.in/
 
 ## [Ubuntu SSL Client Software Accops](https://evpn.kerala.gov.in/fes-bin/public/HySecure\_Client\_5.1.4.16.deb)
 
-## [VPN RESET](https://vpnreset.kerala.gov.in)
+## [VPN RESET](https://vpnreset.kerala.gov.in/)
 
 ```
 https://vpnreset.kerala.gov.in/

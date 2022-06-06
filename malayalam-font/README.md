@@ -23,7 +23,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 {% embed url="https://home.unicode.org" %}
 
 {% embed url="https://youtu.be/-n2nlPHEMG8" %}
-![Unicode](https://img.shields.io/badge/Unicode-181717.svg?\&style=plastic\&logo=unicode\&logoColor=5455FE)
+<img src="https://img.shields.io/badge/Unicode-181717.svg?&#x26;style=plastic&#x26;logo=unicode&#x26;logoColor=5455FE" alt="Unicode" data-size="original">
 {% endembed %}
 
 ## ചില്ലക്ഷരങ്ങൾ
@@ -134,7 +134,7 @@ This will enable the Malayalam UI. You'd need to restart your session (not the c
 
 :white\_check\_mark: When you log back in, you should see Malayalam user interface.
 
-> [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-1B98F5)](https://smc.org.in)
+> [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-1B98F5)](https://smc.org.in/)
 
 
 
