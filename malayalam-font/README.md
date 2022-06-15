@@ -4,8 +4,6 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 {% embed url="https://smc.org.in/fonts/" %}
 
-{% embed url="https://learn.smc.org.in/" %}
-
 
 
 ![](../.gitbook/assets/Inscript.jpg)
