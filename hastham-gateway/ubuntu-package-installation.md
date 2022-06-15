@@ -1,6 +1,6 @@
 # Ubuntu Corner
 
-![](../.gitbook/assets/ubuntu\_plain\_wordmark\_logo\_icon\_146632.png)
+![](https://i.ytimg.com/vi/9DHUyz54flA/mqdefault.jpg)
 
 {% hint style="info" %}
 **Ubuntu X.YY**
