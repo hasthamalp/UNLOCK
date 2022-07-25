@@ -1,3 +1,5 @@
-# e-office guide
+# e-Office DSC Issues&#x20;
 
-![](../.gitbook/assets/29105-work-in-progress.gif)
+![OSCP Response error](../.gitbook/assets/dsc\_error1.jpeg)
+
+![](../.gitbook/assets/dsc\_error2.jpeg)
