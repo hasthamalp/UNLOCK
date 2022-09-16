@@ -73,6 +73,20 @@ sudo apt-get update -y
 sudo apt-get install -y libminizip-dev
 ```
 
+#### Anydesk wayland not supported  Issue
+
+Please go to this file using Terminal
+
+```shell
+sudo gedit /etc/gdm3/custom.conf
+```
+
+Uncomment this line(Remove # from the line)
+
+<mark style="color:green;">WaylandEnable=false</mark>
+
+Reboot your system:bookmark:
+
 ## Uninstall Packages in Ubuntu
 
 ```
