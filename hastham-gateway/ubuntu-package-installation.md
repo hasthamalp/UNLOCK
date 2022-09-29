@@ -73,7 +73,7 @@ sudo apt-get update -y
 sudo apt-get install -y libminizip-dev
 ```
 
-#### Anydesk wayland not supported  Issue
+#### Anydesk wayland not supported  Issue on Ubuntu 22.04 LTS
 
 Please go to this file using Terminal
 
