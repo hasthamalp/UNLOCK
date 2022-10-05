@@ -31,12 +31,6 @@ Software installation
 
 {% endhint %}
 
-## Install Packages on Ubuntu
-
-```shell
-sudo apt install <package_name>
-```
-
 ## Install \*.deb Packages in Ubuntu
 
 ****
@@ -81,23 +75,11 @@ Please go to this file using Terminal
 sudo gedit /etc/gdm3/custom.conf
 ```
 
-Uncomment this line(Remove # from the line)
+Uncomment this line(Remove **#** from the line)
 
 <mark style="color:green;">WaylandEnable=false</mark>
 
 Reboot your system:bookmark:
-
-## Uninstall Packages in Ubuntu
-
-```
- sudo apt remove <package_name>                         
-```
-
-> &#x20;                                                OR
-
-```
-sudo apt purge <package_name>
-```
 
 **To see the details of a package**
 
