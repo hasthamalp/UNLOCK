@@ -98,7 +98,7 @@ sudo pkimanager_admin
 {% endtab %}
 {% endtabs %}
 
-## Reset ProxKey USER PIN
+## Reset ProxKey USER PIN -Proxkey
 
 [Token Unlock](https://manage.cryptoplanet.in/en/):person\_raising\_hand:
 
