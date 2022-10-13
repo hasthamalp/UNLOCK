@@ -29,7 +29,7 @@ sudo dpkg -i ~/adobe.deb
 ```
 
 {% hint style="success" %}
-Launch Adobe Acrobat Reader on Ubuntu 20.04
+Launch Adobe Acrobat Reader on Ubuntu
 {% endhint %}
 
 ## How to Remove Adobe Reader in Ubuntu
