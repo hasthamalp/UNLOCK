@@ -16,6 +16,8 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 {% embed url="https://kerala.gov.in/malayalamfont" %}
 
+<figure><img src="../.gitbook/assets/imagelipi.png" alt=""><figcaption></figcaption></figure>
+
 ## Government And Unicode
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
