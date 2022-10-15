@@ -12,6 +12,10 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ![](https://img.shields.io/badge/courtesy-ICFOSS-34626c)
 
+#### 2022-ലെ ലിപിപരിഷ്കരണ നിർദേശപ്രകാരമുള്ള മലയാളംഫോണ്ടുകൾ
+
+{% embed url="https://kerala.gov.in/malayalamfont" %}
+
 ## Government And Unicode
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
@@ -21,8 +25,6 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 {% embed url="https://home.unicode.org" %}
 
 {% embed url="https://youtu.be/-n2nlPHEMG8" %}
-<img src="https://img.shields.io/badge/Unicode-181717.svg?&#x26;style=plastic&#x26;logo=unicode&#x26;logoColor=5455FE" alt="Unicode" data-size="original">
-{% endembed %}
 
 ## ചില്ലക്ഷരങ്ങൾ
 
