@@ -93,13 +93,13 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 {% hint style="info" %}
 :police\_officer: മലയാളം ഫോണ്ടുകൾ ഉപയോഗിക്കുമ്പോൾ ഇംഗ്ലീഷ് ഉള്ളടക്കം വരുന്നിടത്ത് അക്ഷരങ്ങൾ തമ്മിൽ അനാവശ്യ അകലം വന്നേക്കാം. ഉദാഹരണത്തിന് j എന്ന അക്ഷരത്തിന് മുമ്പ് സ്പേസ് ഇട്ടപോലെ അകലം കാണാം. ഈ പ്രശ്നം വേഡ് 2013 ൽ സാധാരണമാണ്. ഇത് പരിഹരിക്കാൻ വേഡിലെ Kerning എന്ന ഫീച്ചർ ഇനേബിൾ ചെയ്യണം.
 
-&#x20;അതിനായി ഈ [ലേഖനം](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
+&#x20;അതിനായി ഈ <mark style="color:green;"></mark> [<mark style="color:green;">ലേഖനം</mark>](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
 {% endhint %}
 
 ## ചില്ലുകൾക്ക് പകരം രെജിസ്റ്റേഡ് ചിഹ്നം**®**
 
 {% hint style="info" %}
-:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ [പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.](https://smc.org.in/fonts/)
+:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ <mark style="color:green;"></mark> [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)<mark style="color:green;"></mark>
 {% endhint %}
 
 ## **Enabling Malayalam language UI in Ubuntu**
