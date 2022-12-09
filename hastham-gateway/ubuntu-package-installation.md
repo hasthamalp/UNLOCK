@@ -13,7 +13,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-_The latest LTS version of Ubuntu is_ **Ubuntu 22.04 LTS** _“_Jammy Jellyfish_”_
+_The latest LTS version of Ubuntu is_ **Ubuntu 22.04 LTS** _“_[**Jammy Jellyfish**](#user-content-fn-1)[^1]_”_
 {% endhint %}
 
 {% hint style="info" %}
@@ -57,7 +57,9 @@ sudo dpkg -i <file_name.deb>
 sudo ./setup
 ```
 
+{% hint style="success" %}
 #### Install compression Library - Minizip development files
+{% endhint %}
 
 ```
 sudo apt-get update -y
@@ -67,7 +69,9 @@ sudo apt-get update -y
 sudo apt-get install -y libminizip-dev
 ```
 
+{% hint style="success" %}
 #### Anydesk wayland not supported  Issue on Ubuntu 22.04 LTS
+{% endhint %}
 
 Please go to this file using Terminal
 
@@ -195,3 +199,5 @@ sudo parted -l
 ![](../.gitbook/assets/bios.JPG)
 
 ![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
+
+[^1]: 
