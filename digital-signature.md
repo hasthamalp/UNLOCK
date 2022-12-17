@@ -24,11 +24,11 @@
 
 {% embed url="https://www.certificate.digital/download/?app=CashSolution" %}
 
+## Re-Download Certificate
 
+<mark style="color:blue;">**If your DSC is lost / corrupted but not expired, Capricorn Identity Services Pvt. Ltd. allow you to re-download your new DSC with free of cost one time.**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> The Validity of new DSC will be remaining days of preivious DSC. The serial number of new DSC will be different from old DSC.
 
-## Download Token Driver
-
-{% embed url="http://www.e-mudhra.com/Repository/index.html" %}
+{% embed url="https://www.certificate.digital/redownload-dsc/" %}
 
 
 
