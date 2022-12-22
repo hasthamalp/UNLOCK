@@ -1,12 +1,12 @@
 # 5. Issues and Solutions
 
-![](<.gitbook/assets/Bug fixing.gif>)
+![](<../.gitbook/assets/Bug fixing.gif>)
 
 {% hint style="danger" %}
 **1**.Initramfs Issue BusyBox /fsck error
 {% endhint %}
 
-![](.gitbook/assets/FSCK.jpg)
+![](../.gitbook/assets/FSCK.jpg)
 
 > solution
 
@@ -34,7 +34,7 @@ Error that occurred due to improper shutdown or Partial upgrades(**fsck**-**F**i
 **2**.failed to start nvidia persistence daemon
 {% endhint %}
 
-![](.gitbook/assets/500089300355\_338398.jpg)
+![](../.gitbook/assets/500089300355\_338398.jpg)
 
 solution: first restart your system. then select `ubuntu` from GRUB menu. then press the `E` key. Add `nouveau.modeset=0` to the end of the `linux` line - press `F10` to boot.
 
@@ -48,7 +48,7 @@ solution: first restart your system. then select `ubuntu` from GRUB menu. then p
 
 > Solution
 
-![](.gitbook/assets/IMAGE2.jpg)
+![](../.gitbook/assets/IMAGE2.jpg)
 
 ```
 sudo date 010224311971.59
@@ -64,7 +64,7 @@ sudo date --set="2020-01-02 23:31:5
 **4.GRUB RESCUE ISSUE**
 {% endhint %}
 
-![](.gitbook/assets/grubpic.jpg)
+![](../.gitbook/assets/grubpic.jpg)
 
 > **solution:1**
 >
@@ -98,15 +98,15 @@ sudo grub-install /dev/sda
 
 **METHOD 1:**
 
-![](.gitbook/assets/grub.JPG)
+![](../.gitbook/assets/grub.JPG)
 
 **2**
 
-![](.gitbook/assets/grub2.JPG)
+![](../.gitbook/assets/grub2.JPG)
 
 **3**
 
-![](.gitbook/assets/grub3.JPG)
+![](../.gitbook/assets/grub3.JPG)
 
 OTHER LINKS:[<mark style="color:orange;background-color:purple;">GRUB RESCUE</mark>](https://www.pcsuggest.com/grub-rescue-linux/)<mark style="color:orange;background-color:purple;">1</mark>&#x20;
 

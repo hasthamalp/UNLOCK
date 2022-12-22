@@ -1,9 +1,9 @@
-# 🏢 CMO
+# 🏢 site issues
 
 
 
 {% hint style="danger" %}
-Your Connection is not secure&#x20;
+## This Connection is Untrusted" Error code: SSL\_ERROR\_BAD\_CERT\_DOMAIN Website Issue and Solution
 {% endhint %}
 
 ![](../.gitbook/assets/bb87bd14-b11a-4f38-bcc1-d053a9d6609f.jpg)
