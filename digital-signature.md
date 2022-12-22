@@ -48,30 +48,6 @@ sudo apt-get purge wdtokentool-proxkey
 sudo ./uninstall 
 ```
 {% endtab %}
-
-{% tab title="TRUSTKEY" %}
-```
-cd /usr/lib/WatchData/TRUSTKEY
-```
-
-```
-sudo ./uninstall 
-```
-
-
-{% endtab %}
-
-{% tab title="eMudhra Watchdata" %}
-```
-cd /usr/lib/WatchData/eMudhra_3.4.3
-```
-
-```
-sudo ./uninstall
-```
-
-
-{% endtab %}
 {% endtabs %}
 
 ## DSC View Certificate
@@ -151,3 +127,4 @@ Enter your new USER PIN and click OK
 ![](.gitbook/assets/pk10.JPG)
 
 ![](.gitbook/assets/pk11.JPG)
+
