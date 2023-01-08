@@ -14,7 +14,7 @@
   * [Firefox Ubuntu](e-district/firefox-ubuntu.md)
   * [Java](e-district/java-installation.md)
   * [PDF](e-district/adobe-reader.md)
-  * [Share](e-district/share.md)
+  * [SHARE](e-district/share.md)
 * [2. e-Office(eFile 7.2.5)](e-office/README.md)
   * [e-Office DSC Issues ](e-office/e-office-guide.md)
 * [3. 🔐 Digital signature](digital-signature.md)

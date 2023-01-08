@@ -1,8 +1,6 @@
-# Share
+# SHARE
 
 ## Install Share on Ubuntu system
-
-![](../.gitbook/assets/folder2\_39672.png)
 
 ```
 sudo apt-get install nfs-common
@@ -23,7 +21,7 @@ sudo nautilus
 ```
 
 {% hint style="info" %}
-`computer`->`etc`->`fstab`->`10.69.51.20:`//share (tab)/`home`/`(computername)`/`share` (tab) `nfs` (tab) defaults (tab) `0 `(tab)` 0`->`save`.**(NB:IP Address different for different district)**
+`computer`->`etc`->`fstab`->`10.69.51.20:`//share (tab)/`home`/`(computername)`/`share` (tab) `nfs` (tab) defaults (tab) `0` (tab) `0`->`save`.**(NB:IP Address different for different district)**
 {% endhint %}
 
 ```
