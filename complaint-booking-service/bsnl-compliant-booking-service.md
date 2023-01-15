@@ -1,12 +1,8 @@
 # BSNL Compliant Booking Service
 
-{% embed url="http://krl.bsnl.co.in/tt" %}
-
 &#x20; <mark style="background-color:green;">BSNL fault Management portal</mark>  <mark style="background-color:green;"></mark><mark style="background-color:green;">**(**</mark><mark style="background-color:green;">Complaint registration portal :</mark><mark style="background-color:green;">**updated )**</mark>
 
-```xml-doc
-http://krl.bsnl.co.in/tt/
-```
+{% embed url="http://krl.bsnl.co.in/tt" %}
 
 Enter **USER NAME & PASSWORD**&#x20;
 
