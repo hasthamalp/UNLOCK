@@ -1,4 +1,4 @@
-# 2. e-Office(eFile 7.2.0)
+# 2. e-Office(eFile 7.2.5)
 
 ![](../.gitbook/assets/eoffice.png)
 
@@ -27,10 +27,6 @@ sudo bash Digital_Signer_Service-6.1.3.sh
 ```
 https://evpn.kerala.gov.in/
 ```
-
-## [Windows SSL Client Software Accops](https://evpn.kerala.gov.in/fes-bin/public/VPNClientSetup.exe)
-
-## [Ubuntu SSL Client Software Accops](https://evpn.kerala.gov.in/fes-bin/public/HySecure\_Client\_5.1.4.16.deb)
 
 ## [VPN RESET](https://vpnreset.kerala.gov.in/)
 
