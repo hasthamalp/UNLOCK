@@ -4,12 +4,4 @@
 
 ![](../.gitbook/assets/java\_original\_logo\_icon\_146458.png)
 
-## How to Delete Java Manually
-
-```
-sudo nautilus
-```
-
-<mark style="color:green;">Go to</mark> <mark style="color:green;"></mark><mark style="color:green;">`Computer--->Usr---->lib--->Java---->move to trash`</mark>
-
 ## &#x20;
