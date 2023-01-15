@@ -53,20 +53,6 @@ sudo ./uninstall
 ## DSC View Certificate
 
 {% tabs %}
-{% tab title="Trust key" %}
-```
-sudo watchsafe_TRUSTKEY
-```
-
-
-{% endtab %}
-
-{% tab title="emudra" %}
-```
-sudo watchsafe_emudhra_3.4.3
-```
-{% endtab %}
-
 {% tab title="epass2003" %}
 ```
 sudo pkimanager_admin
