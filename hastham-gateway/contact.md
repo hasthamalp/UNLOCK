@@ -1,6 +1,6 @@
 # Contact Us
 
-<mark style="color:purple;">**By filling out this**</mark> **Google form**&#x20;
+<mark style="color:purple;">**By filling out this**</mark> <mark style="color:purple;">**Google form**</mark>&#x20;
 
 
 
