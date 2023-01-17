@@ -26,8 +26,6 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 {% embed url="https://home.unicode.org" %}
 
-{% embed url="https://youtu.be/-n2nlPHEMG8" %}
-
 ## ചില്ലക്ഷരങ്ങൾ
 
 | <mark style="color:blue;">**ചില്ലക്ഷരങ്ങൾ**</mark> | <mark style="color:blue;">**Inscript key**</mark> |
