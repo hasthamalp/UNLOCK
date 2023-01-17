@@ -27,35 +27,7 @@ Software installation
 * Synaptic Package Manager
 * GDebi Package Installer
 * _apt -_Command Line Tool
-
-
 {% endhint %}
-
-## Install \*.deb Packages in Ubuntu
-
-****
-
-```
-sudo dpkg -i <file_name.deb>  
-```
-
-#### **Folder contain **_**sh**_** file**
-
-```
- sudo ./install.sh
-```
-
-> &#x20;                                              OR
-
-```
- sudo sh install.sh               
-```
-
-**Folder contain `setup`file**
-
-```
-sudo ./setup
-```
 
 {% hint style="success" %}
 #### Install compression Library - Minizip development files
