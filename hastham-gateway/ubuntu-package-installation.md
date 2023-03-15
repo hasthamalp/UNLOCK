@@ -57,12 +57,6 @@ Uncomment this line(Remove **#** from the line)
 
 Reboot your system:bookmark:
 
-**To see the details of a package**
-
-```
-apt show <package_name>
-```
-
 ## Install **latest versions of packages and their dependencies**
 
 ```
