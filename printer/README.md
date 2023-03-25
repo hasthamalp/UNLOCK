@@ -1,5 +1,7 @@
 # 7. Printer
 
+<figure><img src="../.gitbook/assets/114892-laser-printer-printing-paper-animation (1).gif" alt=""><figcaption></figcaption></figure>
+
 ## Identify installed printers in  system
 
 ```
