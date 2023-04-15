@@ -16,6 +16,8 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 {% embed url="https://kerala.gov.in/malayalamfont" %}
 
+ലിപി പരിഷ്കരിച്ചുകൊണ്ടുള്ള 2022 മെയ് 9 ലെ സർക്കാർ [ഉത്തരവ്](https://ia802502.us.archive.org/3/items/malayalam-script-reformation-2022/Malayalam%20Script%20Reformation%202022.pdf)
+
 <figure><img src="../.gitbook/assets/imagelipi.png" alt=""><figcaption></figcaption></figure>
 
 ## Government And Unicode
@@ -40,13 +42,13 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ## **വിൻഡോസിൽ ചില്ലക്ഷരം ഉപയോഗിക്കേണ്ട വിധം**
 
-| <mark style="color:blue;">**ചില്ലക്ഷരം**</mark> | <mark style="color:blue;">**Short Key**</mark> | <mark style="color:blue;">**Inscript**</mark>**  **<mark style="color:blue;">**Key**</mark> |
-| ----------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **ൾ**                                           | **SHIFT+8**                                    | **N+d+Ctrl+Shift+1**                                                                        |
-| **ർ**                                           | **]**                                          | **j+d+Ctrl+Shift+1**                                                                        |
-| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**t**+1**                                                                    |
-| **ൺ**                                           | **SHIFT+x**                                    | **C+d+Ctrl+Shift+1**                                                                        |
-| **ൽ**                                           | **SHIFT+ .(dot)**                              | **n+d+Ctrl+Shift+1**                                                                        |
+| <mark style="color:blue;">**ചില്ലക്ഷരം**</mark> | <mark style="color:blue;">**Short Key**</mark> | <mark style="color:blue;">**Inscript**</mark> <mark style="color:blue;">**Key**</mark> |
+| ----------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **ൾ**                                           | **SHIFT+8**                                    | **N+d+Ctrl+Shift+1**                                                                   |
+| **ർ**                                           | **]**                                          | **j+d+Ctrl+Shift+1**                                                                   |
+| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**t**+1**                                                               |
+| **ൺ**                                           | **SHIFT+x**                                    | **C+d+Ctrl+Shift+1**                                                                   |
+| **ൽ**                                           | **SHIFT+ .(dot)**                              | **n+d+Ctrl+Shift+1**                                                                   |
 
 ## ചില്ലക്ഷരം ലഭിക്കാന്‍ എന്ത് ചെയ്യണം?
 
@@ -91,13 +93,13 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 {% hint style="info" %}
 :police\_officer: മലയാളം ഫോണ്ടുകൾ ഉപയോഗിക്കുമ്പോൾ ഇംഗ്ലീഷ് ഉള്ളടക്കം വരുന്നിടത്ത് അക്ഷരങ്ങൾ തമ്മിൽ അനാവശ്യ അകലം വന്നേക്കാം. ഉദാഹരണത്തിന് j എന്ന അക്ഷരത്തിന് മുമ്പ് സ്പേസ് ഇട്ടപോലെ അകലം കാണാം. ഈ പ്രശ്നം വേഡ് 2013 ൽ സാധാരണമാണ്. ഇത് പരിഹരിക്കാൻ വേഡിലെ Kerning എന്ന ഫീച്ചർ ഇനേബിൾ ചെയ്യണം.
 
-&#x20;അതിനായി ഈ <mark style="color:green;"></mark> [<mark style="color:green;">ലേഖനം</mark>](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
+&#x20;അതിനായി ഈ [<mark style="color:green;">ലേഖനം</mark>](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
 {% endhint %}
 
 ## ചില്ലുകൾക്ക് പകരം രെജിസ്റ്റേഡ് ചിഹ്നം**®**
 
 {% hint style="info" %}
-:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ <mark style="color:green;"></mark> [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)<mark style="color:green;"></mark>
+:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)
 {% endhint %}
 
 ## **Enabling Malayalam language UI in Ubuntu**
@@ -140,4 +142,3 @@ This will enable the Malayalam UI. You'd need to restart your session (not the c
 
 
 
-****
