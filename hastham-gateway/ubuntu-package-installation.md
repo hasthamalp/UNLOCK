@@ -9,7 +9,7 @@
 
 **YY** representing the **month of eventual release within in that year**
 
-****
+
 {% endhint %}
 
 {% hint style="info" %}

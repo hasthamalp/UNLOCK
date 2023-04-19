@@ -86,7 +86,7 @@ sudo date --set="2020-01-02 23:31:5
 >
 > #### `Then login to ubuntu update Grub`
 >
-> &#x20;``&#x20;
+> &#x20;
 
 ```
 sudo update-grub
@@ -110,7 +110,7 @@ sudo grub-install /dev/sda
 
 OTHER LINKS:[<mark style="color:orange;background-color:purple;">GRUB RESCUE</mark>](https://www.pcsuggest.com/grub-rescue-linux/)<mark style="color:orange;background-color:purple;">1</mark>&#x20;
 
-[<mark style="background-color:purple;">GRUB RESCUE LINK2</mark>](https://itsfoss.com/fix-minimal-bash-line-editing-supported-grub-error-linux/)<mark style="background-color:purple;"></mark>
+[<mark style="background-color:purple;">GRUB RESCUE LINK2</mark>](https://itsfoss.com/fix-minimal-bash-line-editing-supported-grub-error-linux/)
 
 
 

@@ -6,7 +6,7 @@ description: How to install fonts on Ubuntu
 
 ## Method 1
 
-* &#x20;If you want fonts, go to __ [_https://smc.org.in/fonts_](https://smc.org.in/fonts)__
+* &#x20;If you want fonts, go to [_https://smc.org.in/fonts_](https://smc.org.in/fonts)
 * download a font from there,double click it and Install.
 
 ## Method 2

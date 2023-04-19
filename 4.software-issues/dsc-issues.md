@@ -5,7 +5,7 @@
 Right-click on the Rubix cube and select Settings and select the correct dsc token `(proxkey / epass )`
 
 {% hint style="info" %}
-For **epass,** select `custom`---> Then click on the `browse file` below. ** `C: \ Windows \ System32 \eps2003csp11.dll`** and **save**
+For **epass,** select `custom`---> Then click on the `browse file` below. **`C: \ Windows \ System32 \eps2003csp11.dll`** and **save**
 {% endhint %}
 
 &#x20; **Just save to Proxkey.**
@@ -18,7 +18,7 @@ When you save it you will be asked to re-insert the token. When done, the dsc to
 
 ## Proxkey Library Implementation Process
 
-#### select your PKCS#11 Implementation library in <mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**Linux**</mark>
+#### select your PKCS#11 Implementation library in <mark style="background-color:orange;">**Linux**</mark>
 
 {% hint style="info" %}
 `usr--->lib--->watchData--->Proxkey--->lib-->libwdpkcs_SignatureP11.so`

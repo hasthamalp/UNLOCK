@@ -51,8 +51,8 @@ sudo service cups-browsed stop
 * Open a terminal
 * Browse to the Downloads folder: **`cd Downloads`**
 * Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)\
-  ****
-* Press Enter and if required, type the _ **user password** _ and press Enter
+
+* Press Enter and if required, type the _**user password**_ and press Enter
 
 The HPLIP driver is now executable. Keep the terminal open.
 
