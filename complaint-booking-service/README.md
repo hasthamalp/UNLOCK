@@ -36,7 +36,9 @@
 
 ![](../.gitbook/assets/dell\_logo\_icon\_167699.png)
 
-[Dell Warranty Complaint](https://www.dell.com/support/incidents-online/en-in/srsearch)
+[Dell  Complaint  Registration](https://www.dell.com/support/incidents-online/en-in/srsearch)
+
+[Dell Warranty Check](https://www.dell.com/support/home/en-in?app=products)
 
 ## LENOVO
 
