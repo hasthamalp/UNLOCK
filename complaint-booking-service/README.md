@@ -32,6 +32,8 @@
 
 &#x20;[HP Warranty Complaint](https://mycrm.support.hp.com/en-US/)
 
+[HP Warranty Check](https://support.hp.com/in-en/check-warranty)
+
 ## DELL
 
 ![](../.gitbook/assets/dell\_logo\_icon\_167699.png)
