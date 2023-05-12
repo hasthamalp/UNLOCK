@@ -46,6 +46,8 @@
 
 [Lenovo Complaint Booking](https://pcsupport.lenovo.com/in/en/)
 
+[Lenovo Warranty Check](https://pcsupport.lenovo.com/in/en/warrantylookup#/)
+
 ## RICOH Printer
 
 ![](https://media-exp1.licdn.com/dms/image/C560BAQEZf3dg0k\_m1g/company-logo\_200\_200/0/1625253126245?e=2147483647\&v=beta\&t=uHTOh5s2eyZNumutF4UeWmUZa0hMaJkzZnqu23o5Sfs)
