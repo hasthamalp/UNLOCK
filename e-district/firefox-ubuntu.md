@@ -41,3 +41,13 @@ wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linu
 {% hint style="success" %}
 Latest Version of Firefox Installed on your system Successfully.
 {% endhint %}
+
+## Update Firefox Ubuntu
+
+```
+sudo apt update
+```
+
+```
+ sudo apt install --only-upgrade firefox
+```
