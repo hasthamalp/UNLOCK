@@ -57,6 +57,24 @@ Uncomment this line(Remove **#** from the line)
 
 Reboot your system:bookmark:
 
+{% hint style="success" %}
+## Ubuntu Login Loop Issue
+{% endhint %}
+
+Issue:When you try to log in to Ubuntu after starting up, you get taken right back around to the same login screen, and the process repeats indefinitely.
+
+Solution:
+
+Step 1:Press Ctrl + Alt+F3/F4
+
+Step 2:Enter Username and Password&#x20;
+
+Step 3:
+
+```
+sudo nano /etc/gdm3/custom.conf
+```
+
 ## Install **latest versions of packages and their dependencies**
 
 ```
