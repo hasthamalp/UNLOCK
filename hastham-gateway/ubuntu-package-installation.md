@@ -51,9 +51,9 @@ Please go to this file using Terminal
 sudo gedit /etc/gdm3/custom.conf
 ```
 
-Uncomment this line(Remove **#** from the line)
+**Uncomment this line(Remove # from the line)**
 
-<mark style="color:green;">WaylandEnable=false</mark>
+<mark style="color:green;">**WaylandEnable=false**</mark>
 
 Reboot your system:bookmark:
 
@@ -61,19 +61,31 @@ Reboot your system:bookmark:
 ## Ubuntu Login Loop Issue
 {% endhint %}
 
-Issue:When you try to log in to Ubuntu after starting up, you get taken right back around to the same login screen, and the process repeats indefinitely.
+<mark style="color:red;">**Issue:**</mark> When you try to log in to Ubuntu after starting up, you get taken right back around to the same login screen, and the process repeats indefinitely.
 
-Solution:
+<mark style="color:blue;">**Solution:**</mark>
 
-Step 1:Press Ctrl + Alt+F3/F4
+**Step 1:** Press Ctrl + Alt+F3/F4
 
-Step 2:Enter Username and Password&#x20;
+**Step 2:** Enter Username and Password&#x20;
 
-Step 3:
+**Step 3:**
 
 ```
 sudo nano /etc/gdm3/custom.conf
 ```
+
+**Step 4:**
+
+**Uncomment this line(Remove # from the line)**
+
+<mark style="color:green;">**AutomaticLoginEnable= true**</mark>     &#x20;
+
+<mark style="color:green;">**AutomaticLogin=user1(Computername)**</mark>
+
+**Step 5:** Ctrl+S to save ,Ctrl+X to exit the file&#x20;
+
+**Step 6:** reboot
 
 ## Install **latest versions of packages and their dependencies**
 
