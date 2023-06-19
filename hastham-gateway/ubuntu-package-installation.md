@@ -87,6 +87,12 @@ sudo nano /etc/gdm3/custom.conf
 
 **Step 6:** reboot
 
+<div align="left">
+
+<img src="https://img.shields.io/badge/courtesy-ITMMLP-643843" alt="">
+
+</div>
+
 ## **The command to use as a super user on Ubuntu system**
 
 ```
