@@ -87,16 +87,6 @@ sudo nano /etc/gdm3/custom.conf
 
 **Step 6:** reboot
 
-## Install **latest versions of packages and their dependencies**
-
-```
-sudo apt-get update
-```
-
-```
-sudo apt-get -f install
-```
-
 ## **The command to use as a super user on Ubuntu system**
 
 ```
@@ -116,12 +106,6 @@ sudo nautilus
 ```
 
 `restart system` :signal\_strength:&#x20;
-
-## &#x20;Check Ubuntu Version and Other System Information
-
-```
-lsb_release -a
-```
 
 ## How can I create launchers on my Ubuntu desktop
 
