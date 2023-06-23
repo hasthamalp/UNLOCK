@@ -114,6 +114,18 @@ Delete the `simple scan` folder.This will clear the cache in that software and T
 
 {% endhint %}
 
+## Installation of CANON PIXMA GM4070
+
+Step1:Download and install [<mark style="color:blue;">IJ Printer Driver</mark>](https://in.canon/en/support/0101073801?model=3111C)
+
+Step 2:Download and install [ScanGear](https://in.canon/en/support/0101074101?model=3111C)
+
+Step 3: Run the following command to add the PPA.
+
+```bash
+sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
+```
+
 ## KODAK i2620 Scanner
 
 [i2620 Scanner|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.i586.deb.tar.gz)
