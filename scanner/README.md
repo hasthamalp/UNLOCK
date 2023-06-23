@@ -1,7 +1,5 @@
 # 8. Scanner
 
-![](../.gitbook/assets/8898-document-scanner.gif)
-
 ## How to install XSANE in Ubuntu
 
 ```
@@ -116,9 +114,9 @@ Delete the `simple scan` folder.This will clear the cache in that software and T
 
 ## Installation of CANON PIXMA GM4070
 
-Step1:Download and install [<mark style="color:blue;">IJ Printer Driver</mark>](https://in.canon/en/support/0101073801?model=3111C)
+Step1: Download and install [<mark style="color:blue;">IJ Printer Driver</mark>](https://in.canon/en/support/0101073801?model=3111C)
 
-Step 2:Download and install [ScanGear](https://in.canon/en/support/0101074101?model=3111C)
+Step 2: Download and install [ScanGear](https://in.canon/en/support/0101074101?model=3111C)
 
 Step 3: Run the following command to add the PPA.
 
@@ -128,7 +126,7 @@ sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 ```
 {% endcode %}
 
-Step 4:Run the following command to install ScanGear MP in Ubuntu
+Step 4: Run the following command to install ScanGear MP in Ubuntu
 
 ```
 sudo apt install scangearmp2
