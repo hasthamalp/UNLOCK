@@ -120,7 +120,7 @@ Step 2: Download and install [<mark style="color:blue;">ScanGear</mark>](https:/
 
 Step 3: Run the following command to add the PPA.
 
-{% code overflow="wrap" fullWidth="true" %}
+{% code fullWidth="true" %}
 ```bash
 sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 ```
