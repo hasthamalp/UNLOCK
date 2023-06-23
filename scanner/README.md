@@ -122,8 +122,16 @@ Step 2:Download and install [ScanGear](https://in.canon/en/support/0101074101?mo
 
 Step 3: Run the following command to add the PPA.
 
+{% code overflow="wrap" fullWidth="true" %}
 ```bash
 sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
+```
+{% endcode %}
+
+Step 4:Run the following command to install ScanGear MP in Ubuntu
+
+```
+sudo apt install scangearmp2
 ```
 
 ## KODAK i2620 Scanner
