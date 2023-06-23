@@ -128,7 +128,7 @@ sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 
 Step 4: Run the following command to install ScanGear MP in Ubuntu
 
-```
+```sh
 sudo apt install scangearmp2
 ```
 
