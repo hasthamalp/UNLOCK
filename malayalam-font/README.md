@@ -10,7 +10,11 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 **Malayalam Inscript Typing**:writing\_hand: [malayalm-typing.pdf](https://icfoss.in/doc/malayalam-typing.pdf)
 
-![](https://img.shields.io/badge/courtesy-ICFOSS-34626c)
+<div align="left">
+
+<img src="https://img.shields.io/badge/courtesy-ICFOSS-34626c" alt="">
+
+</div>
 
 #### 2022-ലെ ലിപിപരിഷ്കരണ നിർദേശപ്രകാരമുള്ള മലയാളംഫോണ്ടുകൾ
 
@@ -86,7 +90,11 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 ഉദാ: സോഫ്റ്റ്​​വെയര്‍ എന്നെഴുതാന്‍ സോഫ്റ്റ് ന് ശേഷം zwnj ഇല്ലെങ്കില്‍ സോഫ്റ്റ്വെയര്‍ എന്നാകും വരുക.
 {% endhint %}
 
-![](https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c)
+<div align="left">
+
+<img src="https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c" alt="">
+
+</div>
 
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 

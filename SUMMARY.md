@@ -21,7 +21,6 @@
 * [4.Software Issues](4.software-issues/README.md)
   * [e-District Issues](4.software-issues/e-district-issues.md)
   * [e-0ffice Issues](4.software-issues/e-0ffice-issues.md)
-  * [💼 SPARK/BIMS](4.software-issues/spark-bims.md)
   * [🔑 DSC Issues](4.software-issues/dsc-issues.md)
   * [NICDSign Issues](4.software-issues/nicdsign-issues.md)
 * [5. Issues and Solutions](ubuntu-system-issues/README.md)
