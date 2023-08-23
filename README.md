@@ -1,6 +1,8 @@
 # HOME
 
-
+{% hint style="info" %}
+**Chandrayaan-3 has successfully soft-landed on the moon. Congratulations, India!**
+{% endhint %}
 
 ![](.gitbook/assets/bg2.jpg)
 
