@@ -1,9 +1,5 @@
 # Contact Us
 
-<mark style="color:purple;">**By filling out this**</mark> <mark style="color:purple;">**Google form**</mark>&#x20;
-
-
-
 {% embed url="https://forms.gle/ueezV8k3eRi3MKpn8" %}
 
 ![](../.gitbook/assets/95602817-1680f900-0a73-11eb-967d-9e04b7ccb82c.gif)
