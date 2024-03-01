@@ -2,6 +2,18 @@
 
 
 
+## Domain Name Error
+
+
+
+<figure><img src="../.gitbook/assets/Net Domain Error.JPG" alt=""><figcaption></figcaption></figure>
+
+
+
+```
+sudo systemd-resolve --flush-caches
+```
+
 {% hint style="danger" %}
 ## This Connection is Untrusted" Error code: SSL\_ERROR\_BAD\_CERT\_DOMAIN Website Issue and Solution
 {% endhint %}
