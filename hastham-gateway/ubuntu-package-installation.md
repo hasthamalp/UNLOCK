@@ -71,7 +71,7 @@ Reboot your system:bookmark:
 
 **Step 3:**
 
-```
+```bash
 sudo nano /etc/gdm3/custom.conf
 ```
 
@@ -95,19 +95,19 @@ sudo nano /etc/gdm3/custom.conf
 
 ## **The command to use as a super user on Ubuntu system**
 
-```
+```bash
 sudo nautilus
 ```
 
 ## &#x20;**Guest Removal Ubuntu 16.04**
 
-```
+```bash
  sudo mkdir /etc/lightdm/lightdm.conf.d
 ```
 
 
 
-```
+```bash
  sudo sh -c 'printf "[SeatDefaults]\nallow-guest=false\n" > /etc/lightdm/lightdm.conf.d/50-no-guest.conf'
 ```
 
@@ -115,11 +115,11 @@ sudo nautilus
 
 ## How can I create launchers on my Ubuntu desktop
 
-```
+```bash
 cd usr/share/applications/anydesk.desktop ~/Desktop
 ```
 
-```
+```bash
 chmod +x ~/Desktop/anydesk.desktop
 ```
 
