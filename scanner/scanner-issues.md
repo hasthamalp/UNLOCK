@@ -7,7 +7,7 @@ Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printin
 Run this command to Install Plugin:
 
 ```shell
-sh hplip-3.23.5-plugin.run
+sh hplip-3.23.12-plugin.run
 ```
 
 {% hint style="success" %}
