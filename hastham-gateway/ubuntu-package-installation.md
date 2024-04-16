@@ -13,7 +13,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-_The latest LTS version of Ubuntu is_ **Ubuntu 22.04 LTS** _“_[**Jammy Jellyfish**](#user-content-fn-1)[^1]_”_
+_The latest LTS version of Ubuntu is_ **Ubuntu 24.04 LTS** _“_**Noble Numbat**_”_
 {% endhint %}
 
 {% hint style="info" %}
@@ -185,5 +185,3 @@ sudo parted -l
 ![](../.gitbook/assets/bios.JPG)
 
 ![SMC](https://img.shields.io/badge/%20courtesy-KITE-120078)
-
-[^1]: 
