@@ -8,6 +8,8 @@
 
 [Acer Warranty check](https://apn.acer.co.in/Rpt/EC\_CustomerView.aspx)
 
+[Acer Complaint Status](https://customerselfcare.aap.acer.com/CS2/#/Repair?CID=IN\&LID=ENG)
+
 
 
 ## CANON
@@ -32,7 +34,7 @@
 
 &#x20;[HP Warranty Complaint](https://mycrm.support.hp.com/en-US/)
 
-[HP Warranty Check](https://support.hp.com/in-en/check-warranty)
+&#x20;[HP Warranty Check](https://support.hp.com/in-en/check-warranty)
 
 ## DELL
 
