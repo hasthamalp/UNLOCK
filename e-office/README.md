@@ -1,6 +1,8 @@
-# 2. e-Office(eFile 7.2.5)
+# 2. e-Office(eFile 7.3.9)
 
-![](../.gitbook/assets/eoffice.png)
+##
+
+<figure><img src="../.gitbook/assets/eoffice (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Installation Guidelines for Ubuntu OS
 

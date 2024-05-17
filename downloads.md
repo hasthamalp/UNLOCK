@@ -1,6 +1,8 @@
 # 13. Downloads
 
-
+{% file src=".gitbook/assets/eMudradscform.pdf" %}
+eMudra form
+{% endfile %}
 
 {% file src=".gitbook/assets/DSC_New_Form.pdf" %}
 DSC Application Form
@@ -18,3 +20,6 @@ WorkdoneSheet
 ZoomAudio
 {% endfile %}
 
+{% file src=".gitbook/assets/Inscript.jpg" %}
+malayalam inscript layout
+{% endfile %}
