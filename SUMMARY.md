@@ -1,6 +1,6 @@
 # Table of contents
 
-* [HOME      #StandWithWayanad](README.md)
+* [HOME](README.md)
 
 ## HASTHAM GATEWAY
 
