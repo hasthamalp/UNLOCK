@@ -110,6 +110,12 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 :woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)
 {% endhint %}
 
+## [**POORNA Keyboard**](https://poorna.smc.org.in)
+
+{% hint style="info" %}
+Poorna is a keyboard layout which includes all the Malayalam Unicode characters.These are available in two variants:Inscript and Remington
+{% endhint %}
+
 ## **Enabling Malayalam language UI in Ubuntu**
 
 Click `Setting` > `Region and Language` > `Manage installed languages` .
