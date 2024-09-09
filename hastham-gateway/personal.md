@@ -2,7 +2,7 @@
 
 
 
-> <mark style="color:green;">**HASTHAM**</mark>**-Holistic Assistance System for Technical and e-Governance Management**
+> <mark style="color:green;">**HASTHAM**</mark>**-**<mark style="color:red;">**Holistic Assistance System for Technical and e-Governance Management**</mark>
 >
 > ![](https://img.shields.io/badge/Content%2FData%20Managed%20By-KSITM%20Alappuzha-120078)&#x20;
 >
