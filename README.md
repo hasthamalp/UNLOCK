@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/7512781.jpg
-coverY: 0
----
-
 # HOME
 
 ## [<mark style="color:green;">#StandWithWayanad</mark>](https://donation.cmdrf.kerala.gov.in/)
