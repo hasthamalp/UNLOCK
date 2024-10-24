@@ -12,10 +12,10 @@ Locate the **Digital\_Signer\_Service-\*\*\*.sh** file from the downloaded bundl
 
 ![](../.gitbook/assets/eoffice1.JPG)
 
-Go to the downloaded location of **Digital\_Signer\_Service-\*.\*.\*.sh** file and open the terminal.
+Go to the downloaded location of **Digital\_Signer\_Service-\*.\*.\*.sh** file and open the terminal.(Digital Signer version may change)
 
 ```
-sudo bash Digital_Signer_Service-6.1.3.sh
+sudo bash Digital_Signer_Service_7.0.2.sh
 ```
 
 ## VPN SETUP
