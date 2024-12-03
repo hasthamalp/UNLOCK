@@ -3,14 +3,7 @@
 ## Digital Signature Driver Software
 
 {% hint style="info" %}
-* DSC Token Driver(NICDSign)
-* TRUSTKEY
-* PROXKey:
-
-&#x20;                    I)Proxkey PRO
-
-&#x20;                    II)Capricorn
-
+* PROXKey
 * ePass
 {% endhint %}
 
