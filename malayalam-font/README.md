@@ -10,11 +10,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 **Malayalam Inscript Typing**:writing\_hand: [malayalm-typing.pdf](https://icfoss.in/doc/malayalam-typing.pdf)
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/courtesy-ICFOSS-34626c" alt="">
-
-</div>
+<div align="left"><img src="https://img.shields.io/badge/courtesy-ICFOSS-34626c" alt=""></div>
 
 #### 2022-ലെ ലിപിപരിഷ്കരണ നിർദേശപ്രകാരമുള്ള മലയാളംഫോണ്ടുകൾ
 
@@ -26,7 +22,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 ## Government And Unicode
 
-എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
+എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110_6255.pdf)
 
 #### യൂണികോഡിനെ കുറിച്ച് കൂടുതൽ അറിയാൻ&#x20;
 
@@ -50,7 +46,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 | ----------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **ൾ**                                           | **SHIFT+8**                                    | **N+d+Ctrl+Shift+1**                                                                   |
 | **ർ**                                           | **]**                                          | **j+d+Ctrl+Shift+1**                                                                   |
-| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**t**+1**                                                               |
+| **ൻ**                                           | **SHIFT+v**                                    | **v+d+Ctrl+Shif**&#x74;**+1**                                                          |
 | **ൺ**                                           | **SHIFT+x**                                    | **C+d+Ctrl+Shift+1**                                                                   |
 | **ൽ**                                           | **SHIFT+ .(dot)**                              | **n+d+Ctrl+Shift+1**                                                                   |
 
@@ -90,11 +86,7 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 ഉദാ: സോഫ്റ്റ്​​വെയര്‍ എന്നെഴുതാന്‍ സോഫ്റ്റ് ന് ശേഷം zwnj ഇല്ലെങ്കില്‍ സോഫ്റ്റ്വെയര്‍ എന്നാകും വരുക.
 {% endhint %}
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c" alt="">
-
-</div>
+<div align="left"><img src="https://img.shields.io/badge/courtesy-http%3A%2F%2Fmalayalam.kerala.gov.in%2F-34626c" alt=""></div>
 
 ## MS Word ൽ അക്ഷരങ്ങൾ തമ്മിൽ അകലം
 
@@ -104,10 +96,10 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 &#x20;അതിനായി ഈ [<mark style="color:green;">ലേഖനം</mark>](https://www.dummies.com/software/microsoft-office/word/how-to-enable-kerning-in-word-2013-documents/) ഉപകരിക്കും.
 {% endhint %}
 
-## ചില്ലുകൾക്ക് പകരം രെജിസ്റ്റേഡ് ചിഹ്നം**®**
+## ചില്ലുകൾക്ക് പകരം രെജിസ്റ്റേഡ് ചിഹ്ന&#xD02;**®**
 
 {% hint style="info" %}
-:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ R**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)
+:woman\_guard:  2010 ന് മുമ്പ് പുറത്തിറങ്ങിയ രചന, മീര തുടങ്ങിയ ഫോണ്ടുകളിൽ അറ്റോമിക് ചില്ലുകൾക്ക് പകരം വട്ടത്തിനകത്തെ &#x52;**(®)** എന്ന രൂപമാണ് കാണുക. അറ്റോമിക് ചില്ലുകൾ വരുന്നതിനു മുമ്പ് പുറത്തിറങ്ങിയ പതിപ്പായതാണ് ഇതിനു കാരണം. ആ ഫോണ്ടുകളുടെ [<mark style="color:green;">പുതിയ പതിപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്താൽ ഈ പ്രശ്നം പരിഹരിക്കാം.</mark>](https://smc.org.in/fonts/)
 {% endhint %}
 
 ## [**POORNA Keyboard**](https://poorna.smc.org.in)
@@ -124,27 +116,27 @@ Click `Setting` > `Region and Language` > `Manage installed languages` .
 
 You can click `Remind me later` Otherwise you can install the additional recommendations and return to this screen.
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language\_support\_2.png)
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_2.png)
 
 Now click on `Install/Remove languages` and scroll till you find Malayalam.
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language\_support\_3.png)
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_3.png)
 
 Make sure the `Malayalam` is selected. Now click `Apply`. It will ask your password for permission to install language support.
 
 Once it finishes, make sure **`മലയാളം`** is visible in the list as per below.
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language\_support\_4.png)
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_4.png)
 
 Now click close, and you should be back at Region and Language screen. Close this screen, and launch `Settings` again, and click on `Region and Languages` > `Languages`.
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language\_support\_5.png)
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_5.png)
 
 Select `മലയാളം` in the screen and click on the `Select` button.
 
 This will enable the Malayalam UI. You'd need to restart your session (not the computer itself). Clicking on the restart button will log you out.
 
-![](https://smc.org.in/articles/images/ubuntu.20.04/language\_support\_6.png)
+![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_6.png)
 
 :white\_check\_mark: When you log back in, you should see Malayalam user interface.
 

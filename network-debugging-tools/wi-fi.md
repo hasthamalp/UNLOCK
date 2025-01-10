@@ -122,7 +122,7 @@ This method is exclusively for Broadcom 43 series of wireless adapters. So make 
 sudo lshw -C network
 ```
 
-![](../.gitbook/assets/20210705\_162317.jpg)
+![](../.gitbook/assets/20210705_162317.jpg)
 
 {% hint style="info" %}
 If you see a wireless network adapter starting with BCM43, then only you should go ahead .
@@ -145,7 +145,7 @@ Once the install is finished doing its work, you’ll need to reboot. After you 
 ![](../.gitbook/assets/wifiissue.jpg)
 
 {% hint style="info" %}
-Simply putting it on `suspend` and bringing it back up seems to make the wifi work normally.**This is not a permanent solution.**The only problem is to do this every time  start Ubuntu.
+Simply putting it on `suspend` and bringing it back up seems to make the wifi work normally.**This is not a permanent solution.**&#x54;he only problem is to do this every time  start Ubuntu.
 {% endhint %}
 
 just want to reactivate your WiFi

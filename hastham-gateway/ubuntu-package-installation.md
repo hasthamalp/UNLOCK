@@ -5,7 +5,7 @@
 {% hint style="info" %}
 **Ubuntu X.YY**
 
-**X-**representing the **year**
+**X-**&#x72;epresenting the **year**
 
 **YY** representing the **month of eventual release within in that year**
 
@@ -26,7 +26,7 @@ Software installation
 * GNOME-Software
 * Synaptic Package Manager
 * GDebi Package Installer
-* _apt -_Command Line Tool
+* _apt -_&#x43;ommand Line Tool
 {% endhint %}
 
 {% hint style="success" %}
@@ -87,11 +87,7 @@ sudo nano /etc/gdm3/custom.conf
 
 **Step 6:** reboot
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/courtesy-ITMMLP-643843" alt="">
-
-</div>
+<div align="left"><img src="https://img.shields.io/badge/courtesy-ITMMLP-643843" alt=""></div>
 
 ## **The command to use as a super user on Ubuntu system**
 
@@ -125,15 +121,15 @@ chmod +x ~/Desktop/anydesk.desktop
 
 ## Important apt Commands
 
-| _<mark style="color:purple;">**apt**</mark>_<mark style="color:purple;">** **</mark><mark style="color:purple;">**Command**</mark> | <mark style="color:purple;">**Function of the command**</mark> |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| apt install                                                                                                                        | Installs a package                                             |
-| apt remove                                                                                                                         | Removes a package                                              |
-| apt purge                                                                                                                          | Removes package with configuration                             |
-| apt update                                                                                                                         | Refreshes repository index                                     |
-| apt upgrade                                                                                                                        | Upgrade all upgradable packages                                |
-| apt autoremove                                                                                                                     | Removes unwanted packages                                      |
-| apt search                                                                                                                         | Searches for the program                                       |
+| _<mark style="color:purple;">**apt**</mark>_<mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**Command**</mark> | <mark style="color:purple;">**Function of the command**</mark> |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| apt install                                                                                                                             | Installs a package                                             |
+| apt remove                                                                                                                              | Removes a package                                              |
+| apt purge                                                                                                                               | Removes package with configuration                             |
+| apt update                                                                                                                              | Refreshes repository index                                     |
+| apt upgrade                                                                                                                             | Upgrade all upgradable packages                                |
+| apt autoremove                                                                                                                          | Removes unwanted packages                                      |
+| apt search                                                                                                                              | Searches for the program                                       |
 
 ## USEFUL LINUX COMMANDS :grin:&#x20;
 
