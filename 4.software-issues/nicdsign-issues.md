@@ -83,3 +83,10 @@ ls
 {% hint style="info" %}
 if you can  find DSCService.desktop  in \~/.config/autostart all set
 {% endhint %}
+
+## NICDSign Network Error Detected
+
+<div><figure><img src="../.gitbook/assets/error1.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/error2.jpeg" alt=""><figcaption></figcaption></figure></div>
+
+
+
