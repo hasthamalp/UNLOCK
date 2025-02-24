@@ -2,7 +2,7 @@
 
 <mark style="background-color:purple;">**The  eDistrict  Version 2.0 is not dependent on Java applet and will work with Latest version of Firefox and as well as google chrome.**</mark>
 
-The latest Firefox  version  is <mark style="color:red;background-color:red;">135.0.0</mark>
+The latest Firefox  version  is <mark style="color:red;background-color:red;">135.0.1</mark>
 
 ![](https://www.mozilla.org/media/img/structured-data/logo-firefox-browser.fbc7ffbb50fd.png)
 
