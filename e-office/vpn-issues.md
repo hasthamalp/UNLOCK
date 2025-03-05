@@ -10,3 +10,7 @@ Access denied due to users based licensing restrictions.
 
 
 
+<figure><img src="../.gitbook/assets/accops.jpeg" alt=""><figcaption><p>Accops Hysecure Turbo mode is disconnected (Error:Turbo Handshake Failed)</p></figcaption></figure>
+
+
+
