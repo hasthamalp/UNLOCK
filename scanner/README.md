@@ -120,7 +120,7 @@ Step 2: Download and install [<mark style="color:blue;">ScanGear</mark>](https:/
 
 Step 3: Run the following command to add the PPA.
 
-{% code fullWidth="true" %}
+{% code overflow="wrap" fullWidth="false" %}
 ```bash
 sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 ```
@@ -128,19 +128,21 @@ sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 
 Step 4: Run the following command to install ScanGear MP in Ubuntu
 
+{% code overflow="wrap" fullWidth="true" %}
 ```sh
 sudo apt install scangearmp2
 ```
+{% endcode %}
 
 ## KODAK i2620 Scanner
 
-[i2620 Scanner|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.i586.deb.tar.gz)
+[i2620 Scanner|Ubuntu 16.04 LTS-32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
 
-[i2620 Scanner| Ubuntu - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.x86\_64.deb.tar.gz)
+[i2620 Scanner| Ubuntu - 64 bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
 
 **Expand the file (e.g., tar -xf \*.gz) and then run the setup script (i.e. sudo ./setup)**
 
-[i2620 Scanner| Ubuntu 18.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware\_i2000\_v4.14.x86\_64.deb.tar.gz)&#x20;
+[i2620 Scanner| Ubuntu 18.04 LTS](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)&#x20;
 
 the following command must be entered in a terminal window:
 
