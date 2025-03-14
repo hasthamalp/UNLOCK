@@ -1,3 +1,7 @@
+---
+description: പരിഹരിക്കാൻ പറ്റാത്ത പ്രശ്നങ്ങൾ ഇല്ലല്ലോ അല്ലെ !
+---
+
 # e-Office DSC Issues&#x20;
 
 ![OSCP Response error](../.gitbook/assets/dsc_error1.jpeg)
