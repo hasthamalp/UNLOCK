@@ -16,3 +16,6 @@ description: പരിഹരിക്കാൻ പറ്റാത്ത പ്�
 
 <figure><img src="../.gitbook/assets/oscp.jpeg" alt=""><figcaption><p>DSCU-24:OSCP Validation failed due to some uknown reason</p></figcaption></figure>
 
+
+
+<figure><img src="../.gitbook/assets/eofficedscerror.jpeg" alt=""><figcaption><p>eoffice DSC Error</p></figcaption></figure>
