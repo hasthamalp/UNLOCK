@@ -33,6 +33,16 @@ sudo ./uninstall
 {% endtab %}
 {% endtabs %}
 
+## Install Proxkey Token Tool on Ubuntu 24.04
+
+{% hint style="info" %}
+Download latest Token driver compactable with Ubuntu 24.04. Then&#x20;
+
+`sudo apt install bzip2`
+
+Install Token Driver
+{% endhint %}
+
 ## DSC View Certificate
 
 {% tabs %}
