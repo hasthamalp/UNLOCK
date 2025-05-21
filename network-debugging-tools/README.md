@@ -1,5 +1,5 @@
 ---
-icon: server
+icon: network-wired
 ---
 
 # 11. Network Debugging Tools
