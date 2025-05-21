@@ -1,5 +1,5 @@
 ---
-icon: typewriter
+icon: keyboard
 ---
 
 # 6. Malayalam Typing
