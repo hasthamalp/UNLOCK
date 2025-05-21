@@ -1,5 +1,5 @@
 ---
-icon: house-signal
+icon: house-building
 ---
 
 # HOME
