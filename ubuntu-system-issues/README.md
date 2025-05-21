@@ -1,3 +1,7 @@
+---
+icon: spoon
+---
+
 # 5. Issues and Solutions
 
 ![](<../.gitbook/assets/Bug fixing.gif>)
@@ -34,7 +38,7 @@ Error that occurred due to improper shutdown or Partial upgrades(**fsck**-**F**i
 **2**.failed to start nvidia persistence daemon
 {% endhint %}
 
-![](../.gitbook/assets/500089300355\_338398.jpg)
+![](../.gitbook/assets/500089300355_338398.jpg)
 
 solution: first restart your system. then select `ubuntu` from GRUB menu. then press the `E` key. Add `nouveau.modeset=0` to the end of the `linux` line - press `F10` to boot.
 

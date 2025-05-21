@@ -1,3 +1,7 @@
+---
+icon: typewriter
+---
+
 # 6. Malayalam Typing
 
 Swathanthra Malayalam Computing (SMC) is a free software collective engaged in development, localization, standardization and popularization of various **Free and Open Source** Softwares in Malayalam language.
@@ -139,6 +143,8 @@ This will enable the Malayalam UI. You'd need to restart your session (not the c
 ![](https://smc.org.in/articles/images/ubuntu.20.04/language_support_6.png)
 
 :white\_check\_mark: When you log back in, you should see Malayalam user interface.
+
+
 
 > [![SMC](https://img.shields.io/badge/Courtesy-Swathanthra%20Malayalam%20Computing-1B98F5)](https://smc.org.in/)
 

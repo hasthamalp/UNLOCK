@@ -1,3 +1,7 @@
+---
+icon: usb-drive
+---
+
 # 3. 🔐 Digital signature
 
 ## Digital Signature Driver Software
