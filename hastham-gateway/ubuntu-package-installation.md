@@ -1,3 +1,7 @@
+---
+icon: ubuntu
+---
+
 # Ubuntu Corner
 
 ![](https://i.ytimg.com/vi/9DHUyz54flA/mqdefault.jpg)

@@ -1,3 +1,7 @@
+---
+icon: phone-rotary
+---
+
 # Contact Us
 
 {% embed url="https://forms.gle/ueezV8k3eRi3MKpn8" %}

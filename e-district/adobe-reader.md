@@ -1,6 +1,10 @@
+---
+icon: file-pdf
+---
+
 # PDF
 
-![](../.gitbook/assets/adobe\_reader\_vertical.png)
+![](../.gitbook/assets/adobe_reader_vertical.png)
 
 {% hint style="danger" %}
 <mark style="color:red;">**Please note that Adobe no longer supports Acrobat Reader for Linux. The latest native Linux version is 9.5.5 dated from 26/04/2013. From this reason you should refrain using/installing Adobe Acrobat Reader to avoid potential vulnerabilities and hacker exploits.**</mark>

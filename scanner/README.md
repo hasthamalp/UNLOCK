@@ -1,3 +1,7 @@
+---
+icon: scanner-image
+---
+
 # 8. Scanner
 
 ## How to install XSANE in Ubuntu

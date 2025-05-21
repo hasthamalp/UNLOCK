@@ -1,3 +1,7 @@
+---
+icon: network-wired
+---
+
 # VPN Issues
 
 Access denied due to users based licensing restrictions.

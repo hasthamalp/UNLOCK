@@ -1,3 +1,7 @@
+---
+icon: wifi
+---
+
 # Wi-Fi
 
 {% hint style="warning" %}

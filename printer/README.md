@@ -1,3 +1,7 @@
+---
+icon: print
+---
+
 # 7. Printer
 
 <figure><img src="../.gitbook/assets/114892-laser-printer-printing-paper-animation (1).gif" alt=""><figcaption></figcaption></figure>
@@ -40,7 +44,7 @@ sudo service cups-browsed stop
 
 ## HPLIP Driver Installation Process
 
-> **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported\_devices/index?language=es)**]**
+> **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
 1.First, download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 
@@ -71,7 +75,7 @@ before the installation procedure starts the user must choose whether to install
 
 The installation procedure will check for missing ask if older versions of the HPLIP driver must be removed. Confirm that this should be done to avoid any conflicts with older package versions.
 
-![](../.gitbook/assets/20210524\_104027.jpg)
+![](../.gitbook/assets/20210524_104027.jpg)
 
 {% hint style="info" %}
 :woman\_guard: Always restart the computer, re-plugging in the printer doesn't always work. By restarting the computer and after logging in switching on the printer, the user forces Ubuntu to search for any printers connected.

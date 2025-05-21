@@ -1,3 +1,7 @@
+---
+icon: share
+---
+
 # SHARE
 
 ## Install Share on Ubuntu system

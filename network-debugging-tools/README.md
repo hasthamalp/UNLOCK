@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # 11. Network Debugging Tools
 
 ## Ethernet Cable Color Coding Diagram

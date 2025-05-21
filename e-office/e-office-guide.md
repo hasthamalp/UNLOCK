@@ -1,5 +1,6 @@
 ---
 description: പരിഹരിക്കാൻ പറ്റാത്ത പ്രശ്നങ്ങൾ ഇല്ലല്ലോ അല്ലെ !
+icon: file-signature
 ---
 
 # e-Office DSC Issues&#x20;
