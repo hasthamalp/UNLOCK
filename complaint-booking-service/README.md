@@ -8,9 +8,7 @@ icon: headset
 
 ![](../.gitbook/assets/acer_logo_icon_169649.png)
 
-[Acer Desktop Warranty Complaint](http://customercare.acer-apac.com/CustomerSelfService/CaseBooking.aspx?CID=IN\&LID=ENG)
-
-[Acer Warranty check](https://apn.acer.co.in/Rpt/EC_CustomerView.aspx)
+[Acer Warranty check](https://apn.acer.co.in/Acer/WarrantyValidation)
 
 [Acer Complaint Status](https://customerselfcare.aap.acer.com/CS2/#/Repair?CID=IN\&LID=ENG)
 

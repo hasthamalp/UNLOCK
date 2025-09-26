@@ -13,11 +13,13 @@ icon: usb-drive
 
 ## TRACK DSC STATUS
 
-{% embed url="https://ra.care4sign.com/Care4Sign_V1/CommonSearchUploadRecord.jsp" %}
+{% embed url="https://www.certificate.digital/track-dsc-status/" %}
 
-## Care4Sign Software
+## Cash Solution Software
 
-{% embed url="https://ra.care4sign.com/Care4Sign_V1/dowonloadUtility" %}
+{% embed url="https://www.certificate.digital/download/?app=CashSolution" %}
+
+
 
 ## &#x20;**Remove Token Drivers**
 
