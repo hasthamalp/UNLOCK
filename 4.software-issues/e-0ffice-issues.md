@@ -8,9 +8,13 @@ There is a problem with this Windows Installer package.A program run as part of 
 
 <figure><img src="../.gitbook/assets/eoffice.jpeg" alt=""><figcaption></figcaption></figure>
 
+'Open notepad as administrator File-->open
+
 ```
 C Drive --->Windows --->System32 --->Drivers --->etc --->Hosts
 ```
+
+
 
 {% stepper %}
 {% step %}
