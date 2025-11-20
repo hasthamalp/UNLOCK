@@ -21,6 +21,12 @@ _The latest LTS version of Ubuntu is_ **Ubuntu 24.04 LTS** _“_**Noble Numbat**
 {% endhint %}
 
 {% hint style="info" %}
+* LTS = Long Term Support
+* **Released once every 2 years**, always in **April**.
+* Version format: **YY.04** (e.g., 20.04, 22.04, 24.04)
+{% endhint %}
+
+{% hint style="info" %}
 Ubuntu's first release, made in **2004 October (10th month)** was **Ubuntu 4.10**
 {% endhint %}
 
