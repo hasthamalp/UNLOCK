@@ -6,7 +6,7 @@ icon: face-smiling-hands
 
 ### Technical Support Challenges and Rectification Measures
 
-During the initial days of providing technical support to Revenue Department staff under the Technical Support Engineers–KSITM framework, several operational and technical challenges were encountered. These challenges had a direct impact on service efficiency, turnaround time, and user confidence.
+During the initial days of providing technical support to Revenue Department staff under the Technical Support Engineers–KSITM framework at district level, several operational and technical challenges were encountered. These challenges had a direct impact on service efficiency, turnaround time, and user confidence.
 
 #### Issues Faced During the Initial Phase
 
