@@ -14,7 +14,7 @@ One of the major challenges was the **lack of proper technical documentation** r
 
 Another significant issue was the **absence or limited availability of remote support facilities**. Due to this limitation, most technical issues required physical visits to offices, resulting in delays in issue resolution and increased workload for support engineers.
 
-Another significant challenge encountered was the **absence of a common centralized platform for downloading software required for application support**, especially for systems used at the **Village, Taluk, and RDO levels**. Due to this limitation, **support engineers had to rely on multiple sources** to obtain essential software, utilities, drivers, and updates. This often resulted in version inconsistencies, compatibility issues, increased troubleshooting time, and potential security concerns during application support activities.
+Another significant challenge encountered was the absence of a common centralized platform for downloading software required for application support, especially for systems used at the Village, Taluk, and RDO levels. Due to this limitation, support engineers had to rely on multiple sources to obtain essential software, utilities, drivers, and updates. This often resulted in version inconsistencies, compatibility issues, increased troubleshooting time, and potential security concerns during application support activities.
 
 **Malayalam typing technical difficulties** posed a major hurdle in day-to-day operations. Problems such as non-standard keyboard layouts, font incompatibility, Unicode-related issues, and insufficient user knowledge affected data entry accuracy and slowed down official processes.
 
