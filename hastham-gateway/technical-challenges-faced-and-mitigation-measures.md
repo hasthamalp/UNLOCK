@@ -30,8 +30,8 @@ To resolve documentation-related issues, a comprehensive documentation and knowl
 
 A centralized common platform named **DownCenter**, developed and designed by **KSITM Alappuzha**, was implemented. The platform provides verified and standardized software resources required by support engineers, ensuring uniformity, reducing reliance on external sources, and improving the efficiency of application support at the **Village, Taluk, and RDO levels**.
 
-To overcome **Malayalam typing technical difficulties**, targeted training programs were conducted for staff, along with the preparation of detailed [documentation ](https://docs.ksitmalappuzha.in/hastham/malayalam-font)covering Unicode standards, keyboard layouts, font usage, and best typing practices. This improved accuracy, confidence, and productivity among users.
+To overcome **Malayalam typing technical difficulties**, targeted training programs were conducted for staff, along with the preparation of detailed [**documentation** ](https://docs.ksitmalappuzha.in/hastham/malayalam-font)covering Unicode standards, keyboard layouts, font usage, and best typing practices. This improved accuracy, confidence, and productivity among users.
 
-Furthermore, efforts were made to **develop and maintain a village-level information database**, ensuring the availability of accurate, up-to-date data. This facilitated faster verification, smoother administrative processes, and improved overall efficiency in Revenue operations.
+Furthermore, efforts were made to **develop and maintain a village-level information database**[**\[ENTE VILLAGE\]**](https://villagedb.ksitmalappuzha.in/), ensuring the availability of accurate, up-to-date data. This facilitated faster verification, smoother administrative processes, and improved overall efficiency in Revenue operations.
 
 <br>
