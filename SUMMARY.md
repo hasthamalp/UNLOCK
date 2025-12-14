@@ -7,6 +7,7 @@
 * [ABOUT](hastham-gateway/personal.md)
 * [Contact Us](hastham-gateway/contact.md)
 * [Ubuntu Corner](hastham-gateway/ubuntu-package-installation.md)
+* [Technical Challenges Faced and Mitigation Measures](hastham-gateway/technical-challenges-faced-and-mitigation-measures.md)
 
 ***
 
