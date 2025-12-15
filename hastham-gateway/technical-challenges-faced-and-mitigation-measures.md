@@ -34,4 +34,11 @@ To overcome **Malayalam typing technical difficulties**, targeted training progr
 
 Furthermore, efforts were made to **develop and maintain a village-level information database**[**\[ENTE VILLAGE\]**](https://villagedb.ksitmalappuzha.in/), ensuring the availability of accurate, up-to-date data. This facilitated faster verification, smoother administrative processes, and improved overall efficiency in Revenue operations.
 
+### **Kerala State IT Mission Alappuzha Initiatives**
+
+1. **Snehapoorvam Collector – Alappuzha District Online Public Grievance System**\
+   &#xNAN;_&#xD38;്നേഹപൂർവ്വം കളക്ടർ_ is an initiative of the Alappuzha District Administration, developed with the support of KSITM Alappuzha, to streamline public grievance redressal. The platform enables citizens to submit grievances and track their status online, ensuring transparency, efficiency, and improved governance through effective digital service delivery.
+2. **Official Nehru Trophy Boat Race 2025 Mobile Application**\
+   Designed and developed the official android mobile application for the Nehru Trophy Boat Race 2025 to provide event information, updates, and enhanced digital engagement for the public.
+
 <br>
