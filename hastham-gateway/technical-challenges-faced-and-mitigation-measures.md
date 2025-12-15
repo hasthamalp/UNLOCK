@@ -36,9 +36,9 @@ Furthermore, efforts were made to **develop and maintain a village-level informa
 
 ### **Kerala State IT Mission Alappuzha Initiatives**
 
-1. **Snehapoorvam Collector – Alappuzha District Online Public Grievance System**\
+1. [**Snehapoorvam Collector**](https://pg.ksitmalappuzha.in/) **– Alappuzha District Online Public Grievance System**\
    &#xNAN;_&#xD38;്നേഹപൂർവ്വം കളക്ടർ_ is an initiative of the Alappuzha District Administration, developed with the support of KSITM Alappuzha, to streamline public grievance redressal. The platform enables citizens to submit grievances and track their status online, ensuring transparency, efficiency, and improved governance through effective digital service delivery.
-2. **Official Nehru Trophy Boat Race 2025 Mobile Application**\
+2. [**Official Nehru Trophy Boat Race 2025 Mobile Application**](https://play.google.com/store/apps/details?id=com.ntbr2025)\
    Designed and developed the official android mobile application for the Nehru Trophy Boat Race 2025 to provide event information, updates, and enhanced digital engagement for the public.
 
 <br>
