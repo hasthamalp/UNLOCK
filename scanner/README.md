@@ -125,7 +125,7 @@ Step 2: Download and install [<mark style="color:blue;">ScanGear</mark>](https:/
 Step 3: Run the following command to add the PPA.
 
 {% code overflow="wrap" fullWidth="false" %}
-```csharp
+```hack
 sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 ```
 {% endcode %}
@@ -133,7 +133,7 @@ sudo add-apt-repository ppa:thierry-f/fork-michael-gruz
 Step 4: Run the following command to install ScanGear MP in Ubuntu
 
 {% code overflow="wrap" fullWidth="true" %}
-```cpp
+```
 sudo apt install scangearmp2
 ```
 {% endcode %}
