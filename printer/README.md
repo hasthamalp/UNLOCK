@@ -54,15 +54,13 @@ sudo service cups-browsed stop
 
 * Open a terminal
 * Browse to the Downloads folder: **`cd Downloads`**
-* Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)\
-
+* Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)<br>
 * Press Enter and if required, type the _**user password**_ and press Enter
 
 The HPLIP driver is now executable. Keep the terminal open.
 
 {% hint style="danger" %}
-&#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.\
-
+&#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.<br>
 {% endhint %}
 
 To run the installation file it is not required to use `sudo` to get root privileges. In the terminal type the following command: **`./hplip-.*..run`**
