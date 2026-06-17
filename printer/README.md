@@ -102,3 +102,19 @@ If you see "ii" in the first column before "hplip", then HPLIP is already instal
 {% endhint %}
 
 {% embed url="https://openprinting.org/printers" %}
+
+**HP LaserJet MFP M233sdw Printer Driver**
+
+```bash
+sudo apt update
+sudo usermod -aG lpadmin $USER
+sudo apt install hplip hplip-gui python3-pyqt5
+hp-setup
+```
+
+For the scanner to work, you may need to restart the scanning service.
+
+```bash
+sudo systemctl restart saned
+```
+
