@@ -1,3 +1,7 @@
+---
+icon: cube
+---
+
 # NICDSign Issues
 
 ## How to Uninstall Previous Version of NICDSign
@@ -12,6 +16,10 @@ sudo apt purge nicdsign
 
 ```
 chrome://flags/#allow-insecure-localhost
+```
+
+```
+https://localhost:8020/signer/check
 ```
 
 **Mozilla Firefox**
