@@ -17,7 +17,7 @@ icon: ubuntu
 {% endhint %}
 
 {% hint style="info" %}
-_The latest LTS version of Ubuntu is_ **Ubuntu 24.04 LTS** _“_**Noble Numbat**_”_
+_The latest LTS version of Ubuntu is_ **Ubuntu 26.04 LTS** _“_**Resolute Raccoon**_”_
 {% endhint %}
 
 {% hint style="info" %}
