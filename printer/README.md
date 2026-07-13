@@ -50,12 +50,16 @@ sudo service cups-browsed stop
 
 2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
 
-
-
-* Open a terminal
-* Browse to the Downloads folder: **`cd Downloads`**
-* Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)<br>
-* Press Enter and if required, type the _**user password**_ and press Enter
+*
+[ ]   1. **`sudo su`** (Click Enter Button) (Enter Password if Prompted)
+  2. **`apt-get update`** (Click Enter Button) (Wait for Update to complete)
+  3. **`apt-get -f install`** (Click Enter Button) (If there is any Dependency package issue this command will prompt to clear it)
+  4. **`apt-get remove --purge ippusbxd`** (Click Enter Button) (This command will remove the ippusbxd package that sometimes causes scanning issues for Multi-function Printers in Ubuntu) (You will be prompted to remove it or not with Yes or No)
+  5. exit (Click Enter Button)
+  6. Open a terminal
+  7. Browse to the Downloads folder: **`cd Downloads`**
+  8. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
+* [x] Press Enter and if required, type the _**user password**_ and press Enter
 
 The HPLIP driver is now executable. Keep the terminal open.
 
@@ -63,7 +67,7 @@ The HPLIP driver is now executable. Keep the terminal open.
 &#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.<br>
 {% endhint %}
 
-To run the installation file it is not required to use `sudo` to get root privileges. In the terminal type the following command: **`./hplip-.*..run`**
+9. To run the installation file it is not required to use `sudo` to get root privileges. In the terminal type the following command: **`./hplip-.*..run`**
 
 {% hint style="info" %}
 :man\_detective: Note that the command **starts with . (dot) / (slash)** followed by the complete filename and **ending on . (dot) run!**
