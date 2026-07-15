@@ -44,7 +44,11 @@ sudo service cups-browsed stop
 
 ## HPLIP Driver Installation Process
 
-1.First, Go to all applications menu, search and open "**Software & Update**",\
+{% hint style="info" %}
+Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.
+{% endhint %}
+
+First, Go to all applications menu, search and open "**Software & Update**",\
 Change the download server from **"Server in India" to "Main Server"**
 
 1. **`sudo su`** (Click Enter Button) (Enter Password if Prompted)
