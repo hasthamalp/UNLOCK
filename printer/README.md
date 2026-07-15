@@ -44,21 +44,20 @@ sudo service cups-browsed stop
 
 ## HPLIP Driver Installation Process
 
-> **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
+1.First, Go to all applications menu, search and open "**Software & Update**",\
+Change the download server from **"Server in India" to "Main Server"**
 
-1.First, download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
+1. **`sudo su`** (Click Enter Button) (Enter Password if Prompted)
+2. **`apt-get update`** (Click Enter Button) (Wait for Update to complete)
+3. **`apt-get -f install`** (Click Enter Button) (If there is any Dependency package issue this command will prompt to clear it)
+4. **`apt-get remove --purge ippusbxd`** (Click Enter Button) (This command will remove the ippusbxd package that sometimes causes scanning issues for Multi-function Printers in Ubuntu) (You will be prompted to remove it or not with Yes or No)
+5. **`exit`** (Click Enter Button)
+6. download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
+7. After downloading the file it needs to be made executable. To do this, the following needs to be done:
+8. Open a terminal
+9. Browse to the Downloads folder: **`cd Downloads`**
+10. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
 
-2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
-
-*
-[ ]   1. **`sudo su`** (Click Enter Button) (Enter Password if Prompted)
-  2. **`apt-get update`** (Click Enter Button) (Wait for Update to complete)
-  3. **`apt-get -f install`** (Click Enter Button) (If there is any Dependency package issue this command will prompt to clear it)
-  4. **`apt-get remove --purge ippusbxd`** (Click Enter Button) (This command will remove the ippusbxd package that sometimes causes scanning issues for Multi-function Printers in Ubuntu) (You will be prompted to remove it or not with Yes or No)
-  5. exit (Click Enter Button)
-  6. Open a terminal
-  7. Browse to the Downloads folder: **`cd Downloads`**
-  8. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
 * [x] Press Enter and if required, type the _**user password**_ and press Enter
 
 The HPLIP driver is now executable. Keep the terminal open.
@@ -104,6 +103,8 @@ You may see something that looks like this:
 {% hint style="info" %}
 If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
 {% endhint %}
+
+**my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
 {% embed url="https://openprinting.org/printers" %}
 
