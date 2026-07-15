@@ -62,14 +62,10 @@ Change the download server from **"Server in India" to "Main Server"**
 
 The HPLIP driver is now executable. Keep the terminal open.
 
+11. **`/hplip-.*..run`**
+
 {% hint style="danger" %}
 &#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.<br>
-{% endhint %}
-
-9. To run the installation file it is not required to use `sudo` to get root privileges. In the terminal type the following command: **`./hplip-.*..run`**
-
-{% hint style="info" %}
-:man\_detective: Note that the command **starts with . (dot) / (slash)** followed by the complete filename and **ending on . (dot) run!**
 {% endhint %}
 
 before the installation procedure starts the user must choose whether to install the driver **manually** (press **c** for **custom**) or **automatically** (press **a** for **automatic**). Best is to execute the installation procedure manually (custom) so that every step can be controlled and monitored by the user.
