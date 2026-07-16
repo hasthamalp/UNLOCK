@@ -55,16 +55,14 @@ Change the download server from **"Server in India" to "Main Server"**
 4. **`apt-get remove --purge ippusbxd`** (Click Enter Button) (This command will remove the ippusbxd package that sometimes causes scanning issues for Multi-function Printers in Ubuntu) (You will be prompted to remove it or not with Yes or No)
 5. **`exit`** (Click Enter Button)
 6. download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
-7. After downloading the file it needs to be made executable. To do this, the following needs to be done:
-8. Open a terminal
-9. Browse to the Downloads folder: **`cd Downloads`**
-10. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
 
-* [x] Press Enter and if required, type the _**user password**_ and press Enter
+{% file src="../.gitbook/assets/hplip-3.26.4.run" %}
 
-The HPLIP driver is now executable. Keep the terminal open.
-
-11. **`/hplip-.*..run`**
+1. After downloading the file it needs to be made executable. To do this, the following needs to be done:
+2. Open a terminal
+3. Browse to the Downloads folder: **`cd Downloads`**
+4. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
+5. **`/hplip-.*..run`**
 
 {% hint style="danger" %}
 &#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.<br>
@@ -95,6 +93,8 @@ If you see "ii" in the first column before "hplip", then HPLIP is already instal
 Try below method for <mark style="background-color:green;">HP  plugin issues</mark>. first _install HPLIP latest version_ on system and try following steps.
 
 Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
+
+{% file src="../.gitbook/assets/hplip-3.26.4-plugin.run" %}
 
 Run this command to Install Plugin:
 
