@@ -84,20 +84,6 @@ The installation procedure will check for missing ask if older versions of the H
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
 
-## Is HPLIP currently installed?
-
-**Debian package based distributions (Debian, Ubuntu, Mepis, etc):**
-
-Run in a terminal window:
-
-```
-dpkg -l hplip
-```
-
-You may see something that looks like this:
-
-![](../.gitbook/assets/hplip.JPG)
-
 {% hint style="info" %}
 If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
 {% endhint %}
