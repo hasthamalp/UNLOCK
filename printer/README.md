@@ -104,6 +104,22 @@ If you see "ii" in the first column before "hplip", then HPLIP is already instal
 
 **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
+## &#x20;          HP SCANNER
+
+Try below method for <mark style="background-color:green;">HP  plugin issues</mark>. first _install HPLIP latest version_ on system and try following steps.
+
+Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
+
+Run this command to Install Plugin:
+
+```
+sh hplip-3.26.4-plugin.run
+```
+
+{% hint style="success" %}
+That fixed the Scanner issue.Now you able to scan without any issues.:smile:
+{% endhint %}
+
 {% embed url="https://openprinting.org/printers" %}
 
 **HP Printer Installtion(Method 2)**

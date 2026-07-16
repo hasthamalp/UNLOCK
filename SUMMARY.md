@@ -32,7 +32,7 @@
 * [7. Printer](printer/README.md)
   * [Printer Issues](printer/printer-issues.md)
 * [8. Scanner](scanner/README.md)
-  * [Scanner Issues](scanner/scanner-issues.md)
+  * [EPSON SCANNER](scanner/epson-scanner.md)
 * [9. Video Conference](video-conference/README.md)
   * [Google meet](video-conference/google-meet.md)
 * [10. Complaint Booking Service](complaint-booking-service/README.md)
