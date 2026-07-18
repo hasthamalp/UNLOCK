@@ -3,7 +3,7 @@ description: പരിഹരിക്കാൻ പറ്റാത്ത പ്�
 icon: file-signature
 ---
 
-# e-Office DSC Issues&#x20;
+# e-Office  Issues&#x20;
 
 ![OSCP Response error](../.gitbook/assets/dsc_error1.jpeg)
 
@@ -20,3 +20,7 @@ icon: file-signature
 
 
 <figure><img src="../.gitbook/assets/eofficedscerror.jpeg" alt=""><figcaption><p>eoffice DSC Error</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-07-18 at 3.20.08 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+&#x20;                  Login Type mismatch Please try again
