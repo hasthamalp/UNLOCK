@@ -62,7 +62,7 @@ Change the download server from **"Server in India" to "Main Server"**
 2. Open a terminal
 3. Browse to the Downloads folder: **`cd Downloads`**
 4. Then type the following command: **`sudo chmod +x hplip-*.**.**.run`**(\*.\*\*.\*\* is where the version number of the file needs to be filed in)
-5. **`/hplip-.*..run`**
+5. **`./hplip-.*..run`**
 
 {% hint style="danger" %}
 &#x20;Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.<br>
