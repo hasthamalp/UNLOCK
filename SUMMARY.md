@@ -18,7 +18,7 @@
   * [SHARE](e-district/share.md)
   * [e-District Issues](e-district/e-district-issues.md)
 * [2. e-Office(eFile 7.3.15)](e-office/README.md)
-  * [e-0ffice Issues](e-office/e-0ffice-issues.md)
+  * [e-0ffice DSC Issues](e-office/e-0ffice-issues.md)
   * [e-Office  Issues ](e-office/e-office-guide.md)
   * [VPN Issues](e-office/vpn-issues.md)
 * [3. 🔐 Digital signature](digital-signature.md)

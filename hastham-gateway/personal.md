@@ -6,7 +6,7 @@ icon: address-card
 
 
 
-> <mark style="color:purple;">**HASTHAM**</mark>**-**<mark style="color:blue;">Holistic Assistance System for Technical and e-Governance Management</mark>
+> <mark style="color:purple;">**HASTHAM**</mark>**-**&#x48;olistic Assistance System for Technical and e-Governance Management
 >
 > ![](https://img.shields.io/badge/Content%2FData%20Managed%20By-KSITM%20Alappuzha-120078)&#x20;
 >
