@@ -58,7 +58,7 @@ Change the download server from **"Server in India" to "Main Server"**
 5. **`exit`** (Click Enter Button)
 6. download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 
-{% file src=".gitbook/assets/hplip-3.26.4.run" %}
+{% file src="../.gitbook/assets/hplip-3.26.4.run" %}
 
 1. After downloading the file it needs to be made executable. To do this, the following needs to be done:
 2. Open a terminal
@@ -74,21 +74,17 @@ before the installation procedure starts the user must choose whether to install
 
 The installation procedure will check for missing ask if older versions of the HPLIP driver must be removed. Confirm that this should be done to avoid any conflicts with older package versions.
 
-![](.gitbook/assets/20210524_104027.jpg)
+![](../.gitbook/assets/20210524_104027.jpg)
 
-<figure><img src=".gitbook/assets/Screenshot from 2026-07-15 14-39-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-15 14-39-05.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_guard: Always restart the computer, re-plugging in the printer doesn't always work. By restarting the computer and after logging in switching on the printer, the user forces Ubuntu to search for any printers connected.
 {% endhint %}
 
-![](.gitbook/assets/printer.jpg)
+![](../.gitbook/assets/printer.jpg)
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
-
-{% hint style="info" %}
-If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
-{% endhint %}
 
 **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
@@ -98,7 +94,7 @@ Try below method for <mark style="background-color:green;">HP  plugin issues</ma
 
 Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
 
-{% file src=".gitbook/assets/hplip-3.26.4-plugin.run" %}
+{% file src="../.gitbook/assets/hplip-3.26.4-plugin.run" %}
 
 Run this command to Install Plugin:
 
