@@ -86,7 +86,7 @@ The installation procedure will check for missing ask if older versions of the H
 
 > :white\_check\_mark: HP Printer  installed Successfully
 
-**my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
+[For the list of HP printers supported by HPLIP, please click here.](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)
 
 ## &#x20;          HP SCANNER
 
