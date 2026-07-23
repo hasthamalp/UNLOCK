@@ -10,7 +10,7 @@ icon: print
 lpstat -a
 ```
 
-## **How do I remove hundreds of automatically added network printers**
+## **Procedure for Removing  Automatically Added Network Printers**
 
 ```
 sudo nautilus
