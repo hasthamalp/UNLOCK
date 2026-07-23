@@ -58,12 +58,6 @@ icon: headset
 
 [Lenovo Warranty Check](https://pcsupport.lenovo.com/in/en/warrantylookup#/)
 
-## RICOH Printer
-
-![](https://media-exp1.licdn.com/dms/image/C560BAQEZf3dg0k_m1g/company-logo_200_200/0/1625253126245?e=2147483647\&v=beta\&t=uHTOh5s2eyZNumutF4UeWmUZa0hMaJkzZnqu23o5Sfs)
-
-[RICOH Printer Complaint](https://support.minosha.in/WebCallLogging/LogCall)
-
 ## EPSON Printer
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOP5wml5YpUgvGrvpqY7kG0BmF2_eggs4O36FSa4ycbZRpG0RVYt1IIi0ZPhFgOrpc-bM\&usqp=CAU)
@@ -71,6 +65,10 @@ icon: headset
 [EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
 
 [EPSON Warranty Check](https://customer.epson.co.in/customer/ewarranty.do#/wry/IN)
+
+## RICOH Printer
+
+[RICOH Printer Complaint](https://support.minosha.in/WebCallLogging/LogCall)
 
 ### Fingers
 
