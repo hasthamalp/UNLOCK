@@ -86,10 +86,6 @@ The installation procedure will check for missing ask if older versions of the H
 
 > :white\_check\_mark: HPLIP Driver installed Successfully
 
-{% hint style="info" %}
-If you see "ii" in the first column before "hplip", then HPLIP is already installed. If you want to use the currently installed version of HPLIP, try running `hp-setup` in a terminal shell.
-{% endhint %}
-
 **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
 ## &#x20;          HP SCANNER
