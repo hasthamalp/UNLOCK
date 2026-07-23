@@ -84,7 +84,7 @@ The installation procedure will check for missing ask if older versions of the H
 
 ![](../.gitbook/assets/printer.jpg)
 
-> :white\_check\_mark: HPLIP Driver installed Successfully
+> :white\_check\_mark: HP Printer  installed Successfully
 
 **my HP printer supported by HPLIP please\[** [**check here**](https://developers.hp.com/hp-linux-imaging-and-printing/supported_devices/index?language=es)**]**
 
