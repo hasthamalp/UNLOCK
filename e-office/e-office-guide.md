@@ -24,3 +24,7 @@ icon: file-signature
 <figure><img src="../.gitbook/assets/WhatsApp Image 2026-07-18 at 3.20.08 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 &#x20;                  Login Type mismatch Please try again
+
+<figure><img src="../.gitbook/assets/oops.jpeg" alt="Authorization Error"><figcaption></figcaption></figure>
+
+<p align="center">Authorization Error</p>
