@@ -20,11 +20,10 @@ icon: headset
 
 ## CANON
 
-
-
-![](https://in.canon/assets/brand/logo-300-002e45a4aec98fd92899838da9d5560f.png)
-
-[Canon Warranty Complaint](https://edge.canon.co.in/contactus/service-request)
+For service requests and warranty information, please contact us below:\
+**E-mail:** [customersupport@canon.co.in](https://cloud.connect.canon.co.in/cdn-cgi/l/email-protection#fb988e888f94969e89888e8b8b94898fbb989a959495d59894d59295) (Working Hours: 9am - 6pm, Mon-Sat)\
+**Phone:** [1860 180 3366](tel:+18601803366) / [1800 208 3366](tel:+18002083366) (Working Hours: 9am - 8pm, Mon-Sat)\
+**WhatsApp:** [+91 91085 10853](https://wa.me/919108510853) (Only for Printers, Scanners & Multi-function devices)
 
 ## KYOCERA
 
@@ -64,7 +63,7 @@ icon: headset
 
 [EPSON complaint Registration](https://customer.epson.co.in/customer/repair.do#/servicerequest/IN)
 
-[EPSON Warranty Check](https://customer.epson.co.in/customer/ewarranty.do#/wry/IN)
+[EPSON Warranty Check](https://customer.epson.co.in/p/check-warranty)
 
 ## RICOH Printer
 
