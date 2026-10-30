@@ -29,6 +29,8 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [ go.pdf](https://go.lsgkerala.gov.in/files/go20081110_6255.pdf)
 
+യുണിക്കോഡ് ഫോണ്ടുകൾ തന്നെ ഇ-ഓഫീസ് സംവിധാനത്തിൽ ഉപയോഗിക്കണമെന്ന ഉത്തരവ് ഈ കണ്ണിയില്‍:  [unicode.pdf](https://document.kerala.gov.in/documents/circulars/circular1611202115:00:27.pdf)
+
 #### യൂണികോഡിനെ കുറിച്ച് കൂടുതൽ അറിയാൻ&#x20;
 
 {% embed url="https://home.unicode.org" %}
