@@ -33,6 +33,18 @@ Swathanthra Malayalam Computing (SMC) is a free software collective engaged in d
 
 {% embed url="https://home.unicode.org" %}
 
+## Varnam(വർണ്ണം)
+
+Varnam is a cross platform predictive transliterator for Indic languages. Varnam aims at providing consistent input experience across different platforms in almost all indic languages.
+
+```
+sudo apt-get install curl  
+```
+
+```
+bash <(curl -s https://raw.githubusercontent.com/varnamproject/govarnam/master/quick-installer.sh)
+```
+
 ## ചില്ലക്ഷരങ്ങൾ
 
 | <mark style="color:blue;">**ചില്ലക്ഷരങ്ങൾ**</mark> | <mark style="color:blue;">**Inscript key**</mark> |
