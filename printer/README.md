@@ -58,7 +58,7 @@ Change the download server from **"Server in India" to "Main Server"**
 5. **`exit`** (Click Enter Button)
 6. download the latest **HPLIP(HP Linux Imaging and Printing)** driver from [\[website\]](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 
-{% file src="../.gitbook/assets/hplip-3.26.4.run" %}
+{% file src="../.gitbook/assets/hplip-3.26.6.run" %}
 
 1. After downloading the file it needs to be made executable. To do this, the following needs to be done:
 2. Open a terminal
@@ -94,12 +94,12 @@ Try below method for <mark style="background-color:green;">HP  plugin issues</ma
 
 Download Latest [Plugins](https://developers.hp.com/hp-linux-imaging-and-printing/plugins) from HP website: version may vary
 
-{% file src="../.gitbook/assets/hplip-3.26.4-plugin.run" %}
-
 Run this command to Install Plugin:
 
+{% file src="../.gitbook/assets/hplip-3.26.6-plugin.run" %}
+
 ```
-sh hplip-3.26.4-plugin.run
+sh hplip-3.26.6-plugin.run
 ```
 
 {% hint style="success" %}
